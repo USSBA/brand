@@ -15,25 +15,25 @@ top:
 links: footer
 
 # The optional heading for the footer.
-heading: Name of agency
+heading: U.S. Small Business Administration
 
 # An array of agency logos to show, side by side, in the lower left
 # of the footer on large screens.
 # If the logo is external add external: true
-logos:
-  - src: https://18f.gsa.gov/assets/img/logos/18f-logo.svg
-    alt: 18F
-    external: true
+# logos:
+#   - src: https://18f.gsa.gov/assets/img/logos/18f-logo.svg
+#     alt: 18F
+#     external: true
 
 contact:
   links:
-    - text: USA
-      href: https://usa.gov/
+    - text: SBA.gov
+      href: https://sba.gov/
       external: true
 
   heading: Contact us
 
   address: |
-    [GitHub](https://github.com/18F/web-design-standards)
+    [GitHub](https://github.com/USSBA/brand)
 
-    [uswebdesignstandards@gsa.gov](mailto:uswebdesignstandards@gsa.gov)
+    [contact@sba.gov](contact@sba.gov)

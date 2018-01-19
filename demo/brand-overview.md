@@ -1,14 +1,13 @@
 ---
-title: Documentation
-permalink: /docs/
+title: Brand Overview
+permalink: /brand-overview/
 
 layout: page
-sidenav: docs
-subnav:
+sidenav:
   - text: Section one
-    href: '#section-one'
+    href: '/brand-overview/#section-one'
   - text: Section two
-    href: '#section-two'
+    href: '/brand-overview/#section-two'
 ---
 
 # Section one

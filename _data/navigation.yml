@@ -10,27 +10,16 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-  - text: Referenced section
-    links: footer
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+  - text: Brand overview
+    href: /brand-overview/
+  - text: Visual identity
+    href: /visual-identity/
+  - text: Templates
+    href: /templates/
 
 secondary:
-  - text: Documentation
-    href: /docs/
-  - text: External link
-    href: https://18f.gsa.gov
+  - text: SBA.gov
+    href: https://sba.gov
     external: true
 
 docs:
@@ -51,10 +40,9 @@ docs:
     external: true
 
 footer:
-  - text: Documentation
+  - text: Brand overview
     href: /docs/
-  - text: Demo link
-    href: /demo/
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+  - text: Visual identity
+    href: /docs/
+  - text: Templates
+    href: /docs/

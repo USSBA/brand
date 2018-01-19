@@ -1,4 +1,4 @@
-title: This is the site title
+title: SBA Brand Guide
 
 # Configuration for Google Analytics, add your UA code here:
 # google_analytics_ua: UA-????????-??
@@ -35,3 +35,6 @@ defaults:
       path: "assets/uswds"
     values:
       skip_index: true
+
+styles:
+  - /assets/main.css
