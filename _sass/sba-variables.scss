@@ -1,1 +1,76 @@
-$color-primary: red;
+// Color
+$color-sba-blue:             #002e6d;
+$color-sba-red:              #cc0000;
+$color-sba-gray:             #969696;
+
+$color-blue:                 #0071bc;
+$color-blue-darker:          #205493;
+$color-blue-darkest:         #112e51;
+
+$color-aqua:                 #02bfe7;
+$color-aqua-dark:            #00a6d2;
+$color-aqua-darkest:         #046b99;
+$color-aqua-light:           #9bdaf1;
+$color-aqua-lightest:        #e1f3f8;
+
+$color-red:                  #e31c3d;
+$color-red-dark:             #cd2026;
+$color-red-darkest:          #981b1e;
+$color-red-light:            #e59393;
+$color-red-lightest:         #f9dede;
+
+$color-white:                #ffffff;
+$color-black:                #000000;
+$color-black-light:          #212121;
+
+$color-gray-dark:            #323a45;
+$color-gray:                 #5b616b;
+$color-gray-medium:          #757575;
+$color-gray-light:           #aeb0b5;
+$color-gray-lighter:         #d6d7d9;
+$color-gray-lightest:        #f1f1f1;
+
+$color-gray-warm-dark:       #494440;
+$color-gray-warm-light:      #e4e2e0;
+$color-gray-cool-light:      #dce4ef;
+
+$color-gold:                 #fdb81e;
+$color-gold-light:           #f9c642;
+$color-gold-lighter:         #fad980;
+$color-gold-lightest:        #fff1d2;
+
+$color-green:                #2e8540;
+$color-green-light:          #4aa564;
+$color-green-lighter:        #94bfa2;
+$color-green-lightest:       #e7f4e4;
+
+$color-cool-blue:            #205493;
+$color-cool-blue-light:      #4773aa;
+$color-cool-blue-lighter:    #8ba6ca;
+$color-cool-blue-lightest:   #dce4ef;
+
+$color-purple:               #4c2c92;
+
+// Functional colors
+$color-primary:              $color-sba-blue;
+$color-primary-darker:       $color-blue-darker;
+$color-primary-darkest:      $color-blue-darkest;
+
+$color-primary-alt:          $color-aqua;
+$color-primary-alt-dark:     $color-aqua-dark;
+$color-primary-alt-darkest:  $color-aqua-darkest;
+$color-primary-alt-light:    $color-aqua-light;
+$color-primary-alt-lightest: $color-aqua-lightest;
+
+$color-secondary:            $color-sba-red;
+$color-secondary-dark:       $color-red-dark;
+$color-secondary-darkest:    $color-red-darkest;
+$color-secondary-light:      $color-red-light;
+$color-secondary-lightest:   $color-red-lightest;
+
+$color-base:                 $color-black-light;
+$color-focus:                $color-gray-light;
+$color-visited:              $color-purple;
+
+$color-shadow:               rgba(#000, 0.3);
+$color-transparent:          rgba(#000, 0);

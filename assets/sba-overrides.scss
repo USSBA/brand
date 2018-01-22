@@ -1,0 +1,19 @@
+---
+# assets/uswds-overrides.scss
+---
+
+// Custom variable
+@import 'sba-variables';
+
+// Homepage Hero
+.usa-section-dark {
+  background-color: $color-sba-blue;
+}
+
+.usa-section-dark h1, .usa-section-dark h2, .usa-section-dark h3, .usa-section-dark h4, .usa-section-dark h5, .usa-section-dark h6 {
+    color: $color-white;
+}
+
+.usa-button {
+  background-color: $color-sba-red;
+}
