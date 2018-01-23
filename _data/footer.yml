@@ -26,14 +26,13 @@ logos:
     external: false
 
 contact:
-  links:
-    - text: SBA.gov
-      href: https://sba.gov/
-      external: true
+  # links:
+  #   - text: SBA.gov
+  #     href: https://sba.gov/
 
   heading: Contact us
 
   address: |
-    [GitHub](https://github.com/USSBA/brand)
+    [SBA.gov](https://github.com/USSBA/brand)
 
     [contact@sba.gov](contact@sba.gov)
