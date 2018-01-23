@@ -23,7 +23,7 @@ heading: U.S. Small Business Administration
 logos:
   - src: /assets/uswds/img/lettermark.png
     alt: U.S. Small Business Administration
-    external: false
+    external: true
 
 contact:
   # links:
