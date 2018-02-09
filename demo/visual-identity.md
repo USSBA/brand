@@ -4,26 +4,28 @@ permalink: /visual-identity/
 
 layout: page
 sidenav:
+  - text: Overview
+    href: '/visual-identity/'
   - text: Logo
-    href: '/visual-identity/#logo'
-  - text: The SBA seal
-    href: '/visual-identity/#sba-seal'
+    href: '/visual-identity/logo/'
+  - text: SBA seal
+    href: '/visual-identity/sba-seal/'
   - text: Typography
-    href: '/visual-identity/#typography'
+    href: '/visual-identity/typography/'
   - text: Color palette
-    href: '/visual-identity/#color-palette'
+    href: '/visual-identity/color-palette/'
   - text: Textures and gradients
-    href: '/visual-identity/#textures-and-gradients'
+    href: '/visual-identity/textures-and-gradients/'
   - text: Iconography
-    href: '/visual-identity/#iconography'
+    href: '/visual-identity/iconography/'
   - text: Illustrations
-    href: '/visual-identity/#illustrations'
+    href: '/visual-identity/illustrations/'
   - text: Photography
-    href: '/visual-identity/#photography'
+    href: '/visual-identity/photography/'
   - text: Print media
-    href: '/visual-identity/#print-media'
+    href: '/visual-identity/print-media/'
   - text: Video
-    href: '/visual-identity/#video'
+    href: '/visual-identity/video/'
 ---
 
 # Visual Identity

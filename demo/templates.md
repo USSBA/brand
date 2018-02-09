@@ -4,14 +4,16 @@ permalink: /templates/
 
 layout: page
 sidenav:
+  - text: Overview
+    href: '/templates/'
   - text: Powerpoint
-    href: '/templates/#powerpoint'
+    href: '/templates/powerpoint/'
   - text: Word
-    href: '/templates/#word'
+    href: '/templates/word/'
   - text: PDF
-    href: '/templates/#pdf'
+    href: '/templates/pdf/'
   - text: SBA Sharepoint
-    href: '/templates/#sharepoint'
+    href: '/templates/sharepoint/'
 ---
 
 # Templates
