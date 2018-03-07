@@ -12,3 +12,6 @@ node_modules/
 # Jekyll stuff
 .jekyll-metadata
 _site
+
+# ignore the sass cache
+.sass-cache
