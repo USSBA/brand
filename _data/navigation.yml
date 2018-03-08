@@ -21,7 +21,7 @@ primary:
 
 secondary:
   - text: SBA.gov
-    href: https://sba.gov
+    href: https://www.sba.gov
     external: true
 
 docs:
@@ -48,3 +48,6 @@ footer:
     href: /docs/
   - text: Templates
     href: /docs/
+  - text: Press kit
+    href: /press-kit/
+    
