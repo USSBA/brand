@@ -5,25 +5,134 @@
 // Custom variable
 @import 'sba-variables';
 
-// Homepage Hero
-.usa-section-dark {
-  background-color: $color-sba-blue;
+
+// Global
+
+html {
+	font-family: 'Source Sans Pro', Helvetica, sans-serif;
+	
 }
 
+/*.usa-grid, .usa-grid-full {
+	max-width: none;
+	padding-left: 8rem;
+	padding-right: 8rem;
+}*/
+
+.usa-content p {
+	max-width: 75ch;
+}
+
+// Typography
+
+a {
+	color: $color-secondary-blue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    color: $color-sba-blue;
+    font-family: 'Source Sans Pro', Helvetica, sans-serif;
+    line-height: 1.1em;
+}
+
+
+h1 {
+	font-size: 6rem;
+}
+
+h2 {
+	font-size: 4rem;
+	font-weight: 500;
+}
+
+
+h3 {
+	font-size: 2.7rem;
+	letter-spacing: -.3;
+}
+
+
+p {
+	letter-spacing: -.3;
+	color: $color-secondary-black-ish;
+}
+
+// Homepage Hero
+.usa-section-dark {
+  background-color: $color-white;
+  border-top: 5px $color-sba-blue solid;
+
+}
+
+
+
 .usa-section-dark h1, .usa-section-dark h2, .usa-section-dark h3, .usa-section-dark h4, .usa-section-dark h5, .usa-section-dark h6 {
-    color: $color-white;
+    color: $color-sba-blue;
+    
+}
+
+.usa-section-dark p, .usa-font-lead {
+	color: $color-sba-gray-dark;
+	font-family: 'Merriweather', Georgia, serif;
+	font-size: 2.1rem;
+	font-style: italic;
+}
+
+.usa-section-dark h2 {
+	font-weight: 600;
+	font-size: 6rem;
 }
 
 .usa-button {
   background-color: $color-sba-red;
+  text-transform: uppercase;
+  padding: 15px 22px;
+  font-size: 2.1rem;
+  font-weight: 600;
+  letter-spacing: .6;
+  -webkit-box-shadow: 6px 7px 20px rgba(0,0,0,0.1);
+  -moz-box-shadow: 6px 7px 20px rgba(0,0,0,0.1);
+  box-shadow: 6px 7px 20px rgba(0,0,0,0.1);
 }
+
 
 a.usa-button, .usa-button.usa-button-big {
   border-radius: 0;
 }
 
+// Header
+
+.usa-logo-text a{
+	color: $color-sba-blue;
+	font-weight: 600;
+}
+
+.usa-nav-primary li a, .usa-nav-link {
+	font-size: 1.8rem;
+	font-weight: 500;
+	color: $color-secondary-black-ish;
+
+}
+
+/*.usa-navbar, .usa-nav-inner {
+	margin-left: 0;
+	padding-left: 0;
+	max-width: none;
+}*/
+
 // Footer
 .usa-footer-logo-heading {
   font-family: 'Source Sans Pro';
   font-weight: 400;
+  font-size: 2rem;
+}
+
+.usa-footer-secondary_section {
+	background-color: $color-white;
+}
+
+.usa-footer .usa-footer-primary-link{
+	font-weight: 500;
+
 }

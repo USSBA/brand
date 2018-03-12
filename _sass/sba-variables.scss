@@ -1,11 +1,26 @@
 // Color
 $color-sba-blue:             #002e6d;
+$color-sba-blue-dark:        #000441;
+$color-sba-blue-light:		 #41569c;
+
 $color-sba-red:              #cc0000;
+$color-sba-red-dark:         #930000;
+$color-sba-red-light:        #ff4f30;
+
 $color-sba-gray:             #969696;
+$color-sba-gray-dark:        #686868;
+$color-sba-gray-light:       #c5c5c5;
+$color-sba-gray-lighter:     #f5f5f5;
+
+$color-secondary-blue:       #007dbc;
+$color-secondary-blue-dark:  #00518b;
+$color-secondary-blue-light: #58acef;
 
 $color-blue:                 #0071bc;
 $color-blue-darker:          #205493;
 $color-blue-darkest:         #112e51;
+
+$color-secondary-black-ish:  #1b1e29;
 
 $color-aqua:                 #02bfe7;
 $color-aqua-dark:            #00a6d2;
@@ -53,8 +68,8 @@ $color-purple:               #4c2c92;
 
 // Functional colors
 $color-primary:              $color-sba-blue;
-$color-primary-darker:       $color-blue-darker;
-$color-primary-darkest:      $color-blue-darkest;
+$color-primary-darker:       $color-sba-blue-dark;
+$color-primary-darkest:      $color-sba-blue-dark;
 
 $color-primary-alt:          $color-aqua;
 $color-primary-alt-dark:     $color-aqua-dark;
@@ -63,14 +78,14 @@ $color-primary-alt-light:    $color-aqua-light;
 $color-primary-alt-lightest: $color-aqua-lightest;
 
 $color-secondary:            $color-sba-red;
-$color-secondary-dark:       $color-red-dark;
-$color-secondary-darkest:    $color-red-darkest;
-$color-secondary-light:      $color-red-light;
-$color-secondary-lightest:   $color-red-lightest;
+$color-secondary-dark:       $color-sba-red-dark;
+$color-secondary-darkest:    $color-sba-red-dark;
+$color-secondary-light:      $color-sba-red-light;
+$color-secondary-lightest:   $color-sba-red-light;
 
-$color-base:                 $color-black-light;
-$color-focus:                $color-gray-light;
-$color-visited:              $color-purple;
+$color-base:                 $color-secondary-black-ish;
+$color-focus:                $color-secondary-blue-light;
+$color-visited:              $color-secondary-blue-dark;
 
 $color-shadow:               rgba(#000, 0.3);
 $color-transparent:          rgba(#000, 0);
