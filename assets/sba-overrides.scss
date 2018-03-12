@@ -108,6 +108,8 @@ a.usa-button, .usa-button.usa-button-big {
 
 // Header
 
+
+
 .usa-logo-text a{
 	color: $color-sba-blue;
 	font-weight: 600;
@@ -122,13 +124,28 @@ a.usa-button, .usa-button.usa-button-big {
 
 }
 
-.usa-header-extended .usa-logo{
+.usa-navbar {
+	height: 50px;
+}
+.usa-logo {
+	margin-top: none;
+	margin-bottom: none;
 	background-image: url("sba/img/logos/lettermark-small.svg");
 	background-repeat: no-repeat;
-	height: 50px;
+	height: 5rem;
+	float: none;
+	display: block;
+	padding: none;
+}
+
+.usa-menu-btn {
+	height: 5rem;
+}
+
+@media screen and (min-width: 951px) {.usa-header-extended .usa-logo{
 	margin-top: 1.5rem;
 	margin-bottom: 1.5rem;
-}
+}}
 
 .usa-nav-secondary-links a, .usa-nav-secondary-links .usa-header-search-button {
 	line-height: 40px;
