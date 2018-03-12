@@ -66,7 +66,6 @@ p {
 }
 
 
-
 .usa-section-dark h1, .usa-section-dark h2, .usa-section-dark h3, .usa-section-dark h4, .usa-section-dark h5, .usa-section-dark h6 {
     color: $color-sba-blue;
     
@@ -101,11 +100,19 @@ a.usa-button, .usa-button.usa-button-big {
   border-radius: 0;
 }
 
+//Side nav
+
+.usa-sidenav-list > li{
+	border-top: 1px solid $color-sba-gray-light;
+}
+
 // Header
 
 .usa-logo-text a{
 	color: $color-sba-blue;
 	font-weight: 600;
+	padding-left: 60px;
+	line-height: 50px;
 }
 
 .usa-nav-primary li a, .usa-nav-link {
@@ -115,11 +122,17 @@ a.usa-button, .usa-button.usa-button-big {
 
 }
 
-/*.usa-navbar, .usa-nav-inner {
-	margin-left: 0;
-	padding-left: 0;
-	max-width: none;
-}*/
+.usa-header-extended .usa-logo{
+	background-image: url("sba/img/logos/lettermark-small.svg");
+	background-repeat: no-repeat;
+	height: 50px;
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+
+.usa-nav-secondary-links a, .usa-nav-secondary-links .usa-header-search-button {
+	line-height: 40px;
+}
 
 // Footer
 .usa-footer-logo-heading {
@@ -128,8 +141,13 @@ a.usa-button, .usa-button.usa-button-big {
   font-size: 2rem;
 }
 
+.usa-footer-primary-section {
+	background-color: $color-sba-gray-lighter;
+	display: none;
+}
+
 .usa-footer-secondary_section {
-	background-color: $color-white;
+	background-color: $color-sba-gray-lighter;
 }
 
 .usa-footer .usa-footer-primary-link{
