@@ -5,6 +5,14 @@
 // Custom variable
 @import 'sba-variables';
 
+@include font-face(
+  'Source Sans Pro',
+  'uswds/fonts/sourcesanspro-semibold-webfont',
+  600,
+  normal,
+  $file-formats: eot woff2 woff ttf
+);
+
 
 // Global
 
