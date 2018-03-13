@@ -4,16 +4,7 @@
 
 // Custom variable
 @import 'sba-variables';
-
-@font-face {
-  font-family: 'Source San Pro Semi';
-  src: url('uswds/fonts/sourcesanspro-semibold-webfont.eot'); /* IE9 Compat Modes */
-  src: url('uswds/fonts/sourcesanspro-semibold-webfont?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('uswds/fonts/sourcesanspro-semibold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
-       url('uswds/fonts/sourcesanspro-semibold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
-       url('uswds/fonts/sourcesanspro-semibold-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-}
-
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700');
 
 // Global
 
@@ -40,7 +31,8 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
     color: $color-sba-blue;
-    font-family: 'Source Sans Pro Semi', Helvetica, sans-serif;
+    font-family: 'Source Sans Pro', Helvetica, sans-serif;
+    font-weight: 600;
     line-height: 1.1em;
 }
 
@@ -87,8 +79,8 @@ p {
 }
 
 .usa-section-dark h2 {
-	font-family: 'Source Sans Pro Semi', Helvetica, sans-serif;
-	//font-weight: 600;
+	font-family: 'Source Sans Pro', Helvetica, sans-serif;
+	font-weight: 600;
 	font-size: 6rem;
 }
 
