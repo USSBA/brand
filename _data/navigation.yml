@@ -19,10 +19,10 @@ primary:
   - text: Press kit
     href: /press-kit/
 
-secondary:
-  - text: SBA.gov
-    href: https://www.sba.gov
-    external: true
+#secondary:
+#  - text: SBA.gov
+#    href: https://www.sba.gov
+#    external: true
 
 docs:
   - text: Documentation
