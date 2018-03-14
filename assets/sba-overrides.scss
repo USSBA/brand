@@ -62,6 +62,7 @@ p {
 	background-color: $color-sba-red-light;
 }
 
+
 // Homepage Hero
 .usa-section-dark {
   background-color: $color-white;
@@ -71,7 +72,7 @@ p {
   box-shadow: 6px 7px 20px rgba(0,0,0,0.1);
 }
 
-}
+
 
 
 .usa-section-dark h1, .usa-section-dark h2, .usa-section-dark h3, .usa-section-dark h4, .usa-section-dark h5, .usa-section-dark h6 {
@@ -136,7 +137,7 @@ a.usa-button, .usa-button.usa-button-big {
 }
 }
 
-.usa-nav-primary li a, .usa-nav-link, .usa-accordion-button span {
+.usa-nav-primary li a, .usa-nav-link, .usa-nav .usa-accordion-button span {
 	font-size: 1.8rem;
 	font-weight: 500;
 	color: $color-secondary-black-ish;
@@ -232,6 +233,19 @@ a.usa-button, .usa-button.usa-button-big {
 	border-top: none;
 }
 
+//Accordian
+
+.usa-accordion-button {
+	background-color: $color-white;
+	border-top: 1px solid $color-sba-gray-light;
+	font-weight: 600;
+	font-size: 1.8rem;
+
+}
+
+.usa-accordion-button:hover {
+	background-color: $color-sba-gray-lighter;
+}
 
 
 
