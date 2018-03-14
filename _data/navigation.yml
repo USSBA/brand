@@ -9,13 +9,65 @@
 # primary:
 #   links: primary
 #
+#primary:
+#  - text: Brand overview
+#    href: /brand-overview/
+#  - text: Visual identity
+#    href: /visual-identity/
+#  - text: Templates
+#    href: /templates/
+#  - text: Press kit
+#    href: /press-kit/
+
 primary:
   - text: Brand overview
-    href: /brand-overview/
+    links:
+      - text: Overview
+        href: /brand-overview/
+      - text: Vision and mission
+        href: /brand-overview/vision-mission/
+      - text: Brand attributes
+        href: /brand-overview/brand-attributes/
+      - text: Writing style
+        href: '/brand-overview/writing-style/'
+      - text: How to talk about the SBA
+        href: '/brand-overview/how-to-talk/'
   - text: Visual identity
-    href: /visual-identity/
+    links:
+      - text: Overview
+        href: '/visual-identity/'
+      - text: Logo
+        href: '/visual-identity/logo/'
+      - text: SBA seal
+        href: '/visual-identity/sba-seal/'
+      - text: Typography
+        href: '/visual-identity/typography/'
+      - text: Color palette
+        href: '/visual-identity/color-palette/'
+      - text: Textures and gradients
+        href: '/visual-identity/textures-and-gradients/'
+      - text: Iconography
+        href: '/visual-identity/iconography/'
+      - text: Illustrations
+        href: '/visual-identity/illustrations/'
+      - text: Photography
+        href: '/visual-identity/photography/'
+      - text: Print media
+        href: '/visual-identity/print-media/'
+      - text: Video
+        href: '/visual-identity/video/'
   - text: Templates
-    href: /templates/
+    links:
+      - text: Overview
+        href: '/templates/'
+      - text: Powerpoint
+        href: '/templates/powerpoint/'
+      - text: Word
+        href: '/templates/word/'
+      - text: PDF
+        href: '/templates/pdf/'
+      - text: SBA Sharepoint
+        href: '/templates/sharepoint/'
   - text: Press kit
     href: /press-kit/
 

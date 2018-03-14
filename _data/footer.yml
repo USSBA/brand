@@ -21,7 +21,7 @@ heading: U.S. Small Business Administration
 # of the footer on large screens.
 # If the logo is external add external: true
 logos:
-  - src: /assets/sba/img/logos/lettermark.png
+  - src: /assets/sba/img/logos/lettermark.svg
     alt: U.S. Small Business Administration
     external: false
 
@@ -30,7 +30,7 @@ contact:
   #   - text: SBA.gov
   #     href: https://sba.gov/
 
-  heading: Contact us
+#heading: Contact us
 
   address: |
     [SBA.gov](https://www.sba.gov/)

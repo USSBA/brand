@@ -120,16 +120,36 @@ a.usa-button, .usa-button.usa-button-big {
 
 .usa-logo-text a{
 	color: $color-sba-blue;
-	font-weight: 600;
-	padding-left: 60px;
+	font-weight: 500;
+	padding-left: 6rem;
 	line-height: 50px;
+	font-size: 2rem;
 }
 
-.usa-nav-primary li a, .usa-nav-link {
+@media screen and (min-width: 951px) {
+.usa-logo-text a{
+	padding-left: 220px;
+	line-height: 56px;
+	font-size: 3.5rem
+}
+}
+
+.usa-nav-primary li a, .usa-nav-link, .usa-accordion-button span {
 	font-size: 1.8rem;
 	font-weight: 500;
 	color: $color-secondary-black-ish;
 
+}
+
+@media screen and (min-width: 951px) {
+.usa-nav-submenu {
+	background-color: $color-white;
+	border: 1px solid $color-sba-gray-light;
+	-webkit-box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  	-moz-box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  	box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+
+}
 }
 
 .usa-navbar {
@@ -150,13 +170,44 @@ a.usa-button, .usa-button.usa-button-big {
 	height: 5rem;
 }
 
-@media screen and (min-width: 951px) {.usa-header-extended .usa-logo{
+@media screen and (min-width: 951px) {
+
+.usa-header-extended .usa-logo{
 	margin-top: 1.5rem;
 	margin-bottom: 1.5rem;
-}}
+	height: 5.6rem;
+	background-image: url("sba/img/logos/atoms/logo/horizontal.svg");
+
+
+}
+
+
+.usa-nav-primary button:hover {
+	background-color: $color-white;
+	color: $color-sba-blue;
+	padding-top: 17px;
+}
+
+.usa-nav-primary button[aria-expanded=true], .usa-nav-primary button[aria-expanded=true]:hover {
+	background-color: $color-sba-blue;
+	padding-top: 17px;
+}
+
+.usa-nav-submenu a:hover {
+	background-color: $color-sba-gray-lighter;
+	color: $color-sba-blue;
+	text-decoration: none;
+}
+
+}
 
 .usa-nav-secondary-links a, .usa-nav-secondary-links .usa-header-search-button {
 	line-height: 40px;
+}
+
+.usa-banner-inner .usa-accordion-button span {
+	font-size: 12px;
+	color: $color-sba-blue;
 }
 
 /*@media screen and (min-width: 951px) {
@@ -164,13 +215,22 @@ a.usa-button, .usa-button.usa-button-big {
 .usa-header-extended .usa-nav-primary .usa-current span {
 	border-bottom: 4px solid $color-sba-blue;
 	padding-bottom: 1.2rem;
-}}
+}
+
+
+}
 */
 
 .usa-nav-primary a.usa-current span, .usa-nav-primary .usa-current span {
 	color: $color-sba-blue;
 	font-weight: 600;
 }
+
+.usa-graphic_list {
+	background-color: $color-sba-gray-lighter;
+	border-top: none;
+}
+
 
 
 

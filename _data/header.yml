@@ -4,7 +4,7 @@
 # header title differently from the site's title (as defined in
 # _config.yml).
 
-# title: Header title
+title: Brand guide
 
 # this defines the type of header
 # header types can be 'basic' or 'extended'
