@@ -13,15 +13,25 @@ html {
 	
 }
 
-/*.usa-grid, .usa-grid-full {
-	max-width: none;
-	padding-left: 8rem;
-	padding-right: 8rem;
-}*/
-
 .usa-content p {
 	max-width: 75ch;
 }
+
+a.usa-button, .usa-button.usa-button-big {
+  border-radius: 0;
+  background-color: $color-sba-red;
+  text-transform: uppercase;
+  padding: 15px 22px;
+  font-size: 2.1rem;
+  font-weight: 600;
+  letter-spacing: .6;
+  border-radius: 0;
+}
+
+.usa-button:hover{
+	background-color: $color-sba-red-light;
+}
+
 
 // Typography
 
@@ -36,7 +46,6 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.1em;
 }
 
-
 h1 {
 	font-size: 6rem;
 }
@@ -46,34 +55,23 @@ h2 {
 	font-weight: 500;
 }
 
-
 h3 {
 	font-size: 2.7rem;
 	letter-spacing: -.3;
 }
-
 
 p {
 	letter-spacing: -.3;
 	color: $color-secondary-black-ish;
 }
 
-.usa-button:hover{
-	background-color: $color-sba-red-light;
-}
-
 
 // Homepage Hero
+
 .usa-section-dark {
   background-color: $color-white;
   border-top: 5px $color-sba-blue solid;
-  -webkit-box-shadow: 6px 7px 20px rgba(0,0,0,0.1);
-  -moz-box-shadow: 6px 7px 20px rgba(0,0,0,0.1);
-  box-shadow: 6px 7px 20px rgba(0,0,0,0.1);
 }
-
-
-
 
 .usa-section-dark h1, .usa-section-dark h2, .usa-section-dark h3, .usa-section-dark h4, .usa-section-dark h5, .usa-section-dark h6 {
     color: $color-sba-blue;
@@ -94,19 +92,9 @@ p {
 	line-height: .9em;
 }
 
-.usa-button {
-  background-color: $color-sba-red;
-  text-transform: uppercase;
-  padding: 15px 22px;
-  font-size: 2.1rem;
-  font-weight: 600;
-  letter-spacing: .6;
-
-}
-
-
-a.usa-button, .usa-button.usa-button-big {
-  border-radius: 0;
+.usa-graphic_list {
+	background-color: $color-sba-gray-lighter;
+	border-top: none;
 }
 
 //Side nav
@@ -119,7 +107,11 @@ a.usa-button, .usa-button.usa-button-big {
 	font-weight: 600;
 }
 
-// Header
+.usa-sidenav-list a:hover {
+	background-color: $color-sba-gray-lighter;
+}
+
+// Header + nav
 
 .usa-logo-text a{
 	color: $color-sba-blue;
@@ -129,30 +121,11 @@ a.usa-button, .usa-button.usa-button-big {
 	font-size: 2rem;
 }
 
-@media screen and (min-width: 951px) {
-.usa-logo-text a{
-	padding-left: 220px;
-	line-height: 56px;
-	font-size: 3.5rem
-}
-}
-
 .usa-nav-primary li a, .usa-nav-link, .usa-nav .usa-accordion-button span {
 	font-size: 1.8rem;
 	font-weight: 500;
 	color: $color-secondary-black-ish;
 
-}
-
-@media screen and (min-width: 951px) {
-.usa-nav-submenu {
-	background-color: $color-white;
-	border: 1px solid $color-sba-gray-light;
-	-webkit-box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-  	-moz-box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-  	box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-
-}
 }
 
 .usa-navbar {
@@ -173,6 +146,21 @@ a.usa-button, .usa-button.usa-button-big {
 	height: 5rem;
 }
 
+.usa-nav-primary a.usa-current span, .usa-nav-primary .usa-current span {
+	color: $color-sba-blue;
+	font-weight: 600;
+}
+
+
+
+.usa-nav-secondary-links a, .usa-nav-secondary-links .usa-header-search-button {
+	line-height: 40px;
+}
+
+.usa-banner {
+	display: none;
+}
+
 @media screen and (min-width: 951px) {
 
 .usa-header-extended .usa-logo{
@@ -180,10 +168,7 @@ a.usa-button, .usa-button.usa-button-big {
 	margin-bottom: 1.5rem;
 	height: 5.6rem;
 	background-image: url("sba/img/logos/atoms/logo/horizontal.svg");
-
-
 }
-
 
 .usa-nav-primary button:hover {
 	background-color: $color-white;
@@ -202,36 +187,21 @@ a.usa-button, .usa-button.usa-button-big {
 	text-decoration: none;
 }
 
+.usa-logo-text a{
+	padding-left: 220px;
+	line-height: 56px;
+	font-size: 3.5rem
 }
 
-.usa-nav-secondary-links a, .usa-nav-secondary-links .usa-header-search-button {
-	line-height: 40px;
+.usa-nav-submenu {
+	background-color: $color-white;
+	border: 1px solid $color-sba-gray-light;
+	-webkit-box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  	-moz-box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  	box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
 }
 
-.usa-banner-inner .usa-accordion-button span {
-	font-size: 12px;
-	color: $color-sba-blue;
-}
-
-/*@media screen and (min-width: 951px) {
-
-.usa-header-extended .usa-nav-primary .usa-current span {
-	border-bottom: 4px solid $color-sba-blue;
-	padding-bottom: 1.2rem;
-}
-
-}
-*/
-
-.usa-nav-primary a.usa-current span, .usa-nav-primary .usa-current span {
-	color: $color-sba-blue;
-	font-weight: 600;
-}
-
-.usa-graphic_list {
-	background-color: $color-sba-gray-lighter;
-	border-top: none;
-}
 
 //Accordian
 
