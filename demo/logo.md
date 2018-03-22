@@ -29,18 +29,310 @@ sidenav:
 ---
 
 # Logo
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>Our new logo is modern, strong, and meaningful. It reflects our mission and our value as a catalyst for the growth of small businesses, as well as the nation’s economy. Design elements convey SBA’s strength, innovative thinking, and commitment to connecting our customers with the resources and support they need to get started, grow and expand, or recover. It symbolizes what makes the SBA uniquely able to empower small businesses and power the American dream.</p>
+  </div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/logo.svg" alt="Logo SBA" /> 
+  </div>
+</div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at fringilla dolor. Integer maximus dolor id volutpat feugiat. Donec convallis turpis ut iaculis facilisis. Etiam bibendum est vel tortor posuere pulvinar. Phasellus bibendum enim sed ornare posuere.
+## Lockups
 
-![Logo SBA]({{site.url}}/assets/sba/img/logos/lettermark.png )
+### Stacked
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>
+      The stacked lockup is the primary option and should be used at all times unless vertical space is limited.
+    </p>
+  </div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/lockups-stacked.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+### Horizontal
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>
+      The horizontal lockup is the secondary option and appears on our website and in limited vertical space.
+    </p>
+</div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/lockups-horizontal.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+### Isolated
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>
+      The isolated logo mark is primarily used for creating texture and bold graphic elements. This may include patterns on a step and repeat, scarves, ties, and isolated usage on hats. In most instances, the logo needs to be in a lockup with “U.S. Small Business Administration” to ensure clear communication.
+    </p>
+</div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/lockups-isolated.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+### Minimum Size
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>
+The small execution lockup is used when the logo needs to scale down. The small execution logo allows “U.S. Small Business Administration” to remain legible. The minimum width allowed for the entire lockup
+of the horizontal logo is 136px at 72dpi.
+    </p>
+</div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/lockups-minimum-size.svg" alt="Logo SBA" /> 
+  </div>
+</div>
 
-## Lorem ipsum dolor sit amet
+## Variations
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at fringilla dolor. Integer maximus dolor id volutpat feugiat. Donec convallis turpis ut iaculis facilisis. Etiam bibendum est vel tortor posuere pulvinar. Phasellus bibendum enim sed ornare posuere. Cras vehicula ac sem quis rutrum. Vestibulum ac rutrum massa. Sed cursus sem non commodo feugiat. Sed eu nibh velit. Fusce gravida turpis nec felis scelerisque eleifend. Nam fermentum risus sit amet maximus porta. Pellentesque sollicitudin nibh vel leo volutpat mollis. Ut molestie nunc risus. Fusce vitae vehicula dui. Praesent nec viverra orci.
+### Stacked, Two-color Reversed
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>
+The stacked lockup, two-color reverse option is the primary option to use on a dark-colored background in print and in digital format.
+    </p>
+</div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/variations-two-color-reversed.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+### Horizontal, Two-color Reversed
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+  <p>
+The horizontal lockup, two-color reverse option is the secondary option to use on a dark-colored background in print and in digital format where vertical space is limited.
+    </p>
+</div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/variations-two-color-reversed.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+### Stacked, One-color
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>
+The stacked lockup, one-color option is the primary option to use on white backgrounds for apparel, stitched or printed, as well as any other options where only one-color usage is an option.
+    </p>
+</div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/variations-stacked-one-color.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+### Stacked, One-color Reversed
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>
+The stacked lockup, one-color reverse option is the primary option to use on a dark-colored background for apparel, stitched or printed, as well as any other options where only one-color usage is an option.
+    </p>
+</div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/variations-stacked-one-color-reversed.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+### Horizontal, One-color
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>
+The horizontal lockup, one-color option is the secondary option to use on white backgrounds for apparel, stitched or printed, as well as any other options where only one-color usage is an option and vertical space is limited.
+    </p>
+</div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/variations-horizontal-one-color.svg" alt="Logo SBA" /> 
+  </div>
+</div>
 
-## Lorem ipsum dolor sit amet
+### Horizontal, One-color Reversed 
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>
+The horizontal lockup, one-color reverse option is the secondary option to use on a dark-colored background for apparel, stitched or printed, as well as any other options where only one-color usage is an option and vertical space is limited.
+    </p>
+</div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/variations-horizontal-one-color-reversed.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+## Style Rules
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at fringilla dolor. Integer maximus dolor id volutpat feugiat. Donec convallis turpis ut iaculis facilisis. Etiam bibendum est vel tortor posuere pulvinar. Phasellus bibendum enim sed ornare posuere. Cras vehicula ac sem quis rutrum. Vestibulum ac rutrum massa. Sed cursus sem non commodo feugiat. Sed eu nibh velit. Fusce gravida turpis nec felis scelerisque eleifend. Nam fermentum risus sit amet maximus porta. Pellentesque sollicitudin nibh vel leo volutpat mollis. Ut molestie nunc risus. Fusce vitae vehicula dui. Praesent nec viverra orci.
+### Minimum Margin Space
+<div class="usa-grid-full">  
+  <div class="usa-width-one-whole">
+    <p>
+      There should always be comfortable space around the logo to ensure clear representation and keep the design around it from infringing on the mark.
+    </p>
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/style-rules-minimum-margin-space.svg" alt="Logo SBA" /> 
+  </div>
+  
+</div>
+
+
+## Do Not...
+
+
+
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+      <h4>Stretch</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-stretch.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Rearrange Elements</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-rearrange-elements.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Delete Elements</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-delete-elements.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Scale Separately</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-scale-separately.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Outline</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-outline.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Skew</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-skew.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Warp</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-warp.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Crop</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-crop.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+      <h4>Blur</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+      <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-blur.png" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Rotate</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-rotate.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Change Type</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-change-type.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Alter Palette</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-alter-palette.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Alter Margins</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-alter-margins.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Drop Shadows</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-drop-shadows.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Create Fills</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-create-fills.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Use Complex Backgrounds</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-use-complex-backgrounds.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  <div class="usa-grid-full usa-logo-manipulation-warning">
+    <div class="usa-width-one-fourth">
+  <h4>Use Low Contrast Backgrounds</h4>
+    </div>
+    <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-use-low-contrast-backgrounds.svg" alt="Logo SBA" /> 
+    </div>
+  </div>
+  
+  
+  
+
+  
+
+
+## Download Files
 
 ### Frequently Asked Questions
 
