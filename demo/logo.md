@@ -29,9 +29,11 @@ sidenav:
 ---
 
 # Logo
+
 <div class="usa-grid-full">  
   <div class="usa-width-two-thirds">
     <p>Our new logo is modern, strong, and meaningful. It reflects our mission and our value as a catalyst for the growth of small businesses, as well as the nation’s economy. Design elements convey SBA’s strength, innovative thinking, and commitment to connecting our customers with the resources and support they need to get started, grow and expand, or recover. It symbolizes what makes the SBA uniquely able to empower small businesses and power the American dream.</p>
+    <a class="usa-button" href="{{ site.baseurl }}/assets/sba/img/pages/logo/SBA_Logo.zip">Download logo files</a>
   </div>
   <div class="usa-width-one-third">
     <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/logo.svg" alt="Logo SBA" /> 
@@ -171,168 +173,167 @@ The horizontal lockup, one-color reverse option is the secondary option to use o
 
 ## Do Not...
 
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+    <h4>Stretch</h4>
+  </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-stretch.svg" alt="Logo SBA" /> 
+  </div>
+</div>
 
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Rearrange Elements</h4>
+  </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-rearrange-elements.svg" alt="Logo SBA" /> 
+  </div>
+</div>
 
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-      <h4>Stretch</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-stretch.svg" alt="Logo SBA" /> 
-    </div>
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Delete Elements</h4>
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Rearrange Elements</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-rearrange-elements.svg" alt="Logo SBA" /> 
-    </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-delete-elements.svg" alt="Logo SBA" /> 
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Delete Elements</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-delete-elements.svg" alt="Logo SBA" /> 
-    </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Scale Separately</h4>
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Scale Separately</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-scale-separately.svg" alt="Logo SBA" /> 
-    </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-scale-separately.svg" alt="Logo SBA" /> 
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Outline</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-outline.svg" alt="Logo SBA" /> 
-    </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Outline</h4>
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Skew</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-skew.svg" alt="Logo SBA" /> 
-    </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-outline.svg" alt="Logo SBA" /> 
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Warp</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-warp.svg" alt="Logo SBA" /> 
-    </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Skew</h4>
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Crop</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-crop.svg" alt="Logo SBA" /> 
-    </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-skew.svg" alt="Logo SBA" /> 
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-      <h4>Blur</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-      <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-blur.png" alt="Logo SBA" /> 
-    </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Warp</h4>
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Rotate</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-rotate.svg" alt="Logo SBA" /> 
-    </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-warp.svg" alt="Logo SBA" /> 
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Change Type</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-change-type.svg" alt="Logo SBA" /> 
-    </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Crop</h4>
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Alter Palette</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-alter-palette.svg" alt="Logo SBA" /> 
-    </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-crop.svg" alt="Logo SBA" /> 
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Alter Margins</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-alter-margins.svg" alt="Logo SBA" /> 
-    </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+    <h4>Blur</h4>
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Drop Shadows</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-drop-shadows.svg" alt="Logo SBA" /> 
-    </div>
+  <div class="usa-width-three-fourths">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-blur.png" alt="Logo SBA" /> 
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Create Fills</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-create-fills.svg" alt="Logo SBA" /> 
-    </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Rotate</h4>
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Use Complex Backgrounds</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-use-complex-backgrounds.svg" alt="Logo SBA" /> 
-    </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-rotate.svg" alt="Logo SBA" /> 
   </div>
-  
-  <div class="usa-grid-full usa-logo-manipulation-warning">
-    <div class="usa-width-one-fourth">
-  <h4>Use Low Contrast Backgrounds</h4>
-    </div>
-    <div class="usa-width-three-fourths">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-use-low-contrast-backgrounds.svg" alt="Logo SBA" /> 
-    </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Change Type</h4>
   </div>
-  
-  
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-change-type.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Alter Palette</h4>
+  </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-alter-palette.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Alter Margins</h4>
+  </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-alter-margins.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Drop Shadows</h4>
+  </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-drop-shadows.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Create Fills</h4>
+  </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-create-fills.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Use Complex Backgrounds</h4>
+  </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-use-complex-backgrounds.svg" alt="Logo SBA" /> 
+  </div>
+</div>
+
+<div class="usa-grid-full usa-logo-manipulation-warning">
+  <div class="usa-width-one-fourth">
+<h4>Use Low Contrast Backgrounds</h4>
+  </div>
+  <div class="usa-width-three-fourths">
+  <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/do-not-use-low-contrast-backgrounds.svg" alt="Logo SBA" /> 
+  </div>
+</div>
   
 
-  
+## Download Logo Files
 
-
-## Download Files
+<a href="{{ site.baseurl }}/assets/sba/img/pages/logo/PNG.zip">Download PNG files</a><br/>
+<a href="{{ site.baseurl }}/assets/sba/img/pages/logo/JPG.zip">Download JPG files</a><br/>
+<a href="{{ site.baseurl }}/assets/sba/img/pages/logo/EPS.zip">Download EPS files</a><br/>
+<a href="{{ site.baseurl }}/assets/sba/img/pages/logo/AI.zip">Download Adobe Illustrator files</a><br/>
+<a href="{{ site.baseurl }}/assets/sba/img/pages/logo/PDF.zip">Download PDF files</a>
 
 ### Frequently Asked Questions
 
