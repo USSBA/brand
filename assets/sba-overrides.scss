@@ -243,3 +243,11 @@ p {
 .usa-footer-contact-heading {
 	font-size: 1.8 rem;
 }
+
+.usa-logo-manipulation-warning { 
+  margin-top: 20px; 
+  h4 { 
+    color: $color-red-dark; 
+    padding-top: 15px; 
+  }
+}
