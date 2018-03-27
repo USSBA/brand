@@ -586,3 +586,5 @@ provide other features in the content block.
 [front matter]: https://jekyllrb.com/docs/frontmatter/
 
 ## Adding Content
+
+Pages are created in /demo. Each page has a corresponding .md (markdown) file. You can add content by creating a new .md file. Easiest way is to duplicate an existing .md in the folder and modifying the title and permalink info.
