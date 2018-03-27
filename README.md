@@ -1,6 +1,6 @@
 # SBA Brand Guide
 
-This is the repository for the U.S. Small Business Administration's online Brand Guide for developing marketing and communication materials for the agency. The material is based on the the new SBA Reimagined rebranding effort of 2018
+This is the repository for the U.S. Small Business Administration's online Brand Guide for developing marketing and communication materials for the agency. The new brand is the result of the SBA Reimagined effort of 2018.
 
 This guide is an open-source resource for SBA employees and contractors to produce effective and visually-consistent products that are easy for consumers to access, use, and understand.  The guide includes downloadable visual assets such as logos and templates and guidance on how to use them. The guide is still a work in progress and will continue to evolve as more content gets added.
 
