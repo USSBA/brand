@@ -35,6 +35,7 @@ This guide is built off of a [Jekyll theme](https://jekyllrb.com/docs/themes/) f
     - [Home](#layout-home)
     - [Post](#layout-post)
     - [Search results](#search-results)
+1. [Adding Content](#adding-content)
 
 
 
@@ -583,3 +584,5 @@ provide other features in the content block.
 [Sass]: http://sass-lang.com/guide
 [Jekyll Sass]: https://jekyllrb.com/docs/assets/#sassscss
 [front matter]: https://jekyllrb.com/docs/frontmatter/
+
+## Adding Content
