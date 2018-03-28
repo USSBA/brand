@@ -8,8 +8,6 @@ sidenav:
     href: '/visual-identity/'
   - text: Logo
     href: '/visual-identity/logo/'
-  - text: SBA seal
-    href: '/visual-identity/sba-seal/'
   - text: Typography
     href: '/visual-identity/typography/'
   - text: Color palette
