@@ -3,19 +3,6 @@ title: Templates
 permalink: /templates/
 
 layout: page
-sidenav:
-  - text: Internal memo
-    href: '/templates/#internal-memo'
-  - text: Letterhead
-    href: '/templates/#letterhead'
-  - text: Name badge - event listed
-    href: '/templates/#name-badge-event'
-  - text: Name badge - general
-    href: '/templates/#name-badge-general'
-  - text: PowerPoint
-    href: '/templates/#powerpoint'
-  - text: Table tent cards
-    href: '/templates/#table-tent-cards'
 ---
 
 # Templates
