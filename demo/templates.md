@@ -22,7 +22,7 @@ A login to SBA's YES Page Employee Gateway is required to access these templates
 [Name Badge - General](https://sba123.sharepoint.com/offices/OMCS/Documents/Template/SBA-NameBadges1.pdf)
 
 <a name="powerpoint"></a>
-[PowerPoint Template](https://sba123.sharepoint.com/offices/OMCS/Documents/Template/SBA-Table-Tent-v2.pdf)
+[PowerPoint Template](https://sba123.sharepoint.com/offices/OMCS/Documents/Template/SBAPPTTemplate4-3%20NEWLOGO.pptx)
 
 <a name="table-tent-cards"></a>
 [Table Tent Cards](https://sba123.sharepoint.com/offices/OMCS/Documents/Template/SBA-Table-Tent-v2.pdf)
