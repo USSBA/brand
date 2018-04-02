@@ -37,7 +37,7 @@ sidenav:
   </div>
 </div>
 
-## Primary Typefaces
+## Primary typefaces
 
 <div class="usa-grid-full">  
   <div class="usa-width-two-thirds">
@@ -47,6 +47,7 @@ sidenav:
     <br /> 
     Inspired by twentieth-century American gothic typeface design, its slender but open letters offer a clean and friendly simplicity. Advanced hinting allows Source Sans Pro to render well on Windows systems which run Cleartype, and across browsers and devices. Moreover, it supports a variety of languages and alphabets, including Western and European language, Vietnamese, pinyin Romanization of Chinese, and Navajo.
     </p>
+    <a class="usa-button" href="{{ site.baseurl }}/assets/sba/Source_Sans_Pro.zip">Download Source Sans Pro</a>
   </div>
   <div class="usa-width-one-third">
     <img src="{{ site.baseurl }}/assets/sba/img/pages/typography/primary-typefaces-source-sans-pro.svg" alt="Source Sans Pro" /> 
@@ -61,13 +62,14 @@ sidenav:
     <br /> 
     The combination of light, regular, and bold weights gives the font family stylistic range, while conveying a desirable mix of classic, yet modern simplicity. Merriweather communicates warmth and credibility at both large and smaller font sizes.
     </p>
+    <a class="usa-button" href="{{ site.baseurl }}/assets/sba/Merriweather.zip">Download Merriweather</a>
   </div>
   <div class="usa-width-one-third">
     <img src="{{ site.baseurl }}/assets/sba/img/pages/typography/primary-typefaces-merriweather.svg" alt="Merriweather" /> 
   </div>
 </div>
 
-## Alternative Typefaces
+## Alternative typefaces
 
 ### Helvetica Neue
 <div class="usa-grid-full">  
@@ -99,12 +101,20 @@ sidenav:
     </div>
 </div>
 
-## Web Usage and Readability
+## Font pairings
 
-[SBA to populate web usage]
+To support a more contemporary web and print design aesthetics, please adhere to the following font pairings.
 
-Readable text allows users to efficiently read and take in textual information. Text that is not readable turns off readers or makes it challenging for them to stay focused. The following guidelines promote good readability.
+# Heading 1 - Source San Pro Regular or Semibold
+## Heading 2 - Source San Pro Regular or Semibold
+### Heading 3 - Source San Pro Semibold
+#### Heading 4 - Source San Pro Semibold
+##### Lede paragraph - Merriweather Regular or Light Italic
 
-## Accessibility
+Body copy - Souce sans pro regular
 
-[SBA insert guidelines for readability including how type is used online and for 508-compliance]
+## Readability and accessibility
+
+Readable text allows users to efficiently read and take in textual information. Text that is not readable turns off readers or makes it challenging for them to stay focused. The following guidelines promote good readability and 508 accessibility compliance.
+
+
