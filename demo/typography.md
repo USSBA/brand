@@ -101,9 +101,10 @@ sidenav:
     </div>
 </div>
 
-## Font pairings
+## Font pairings and styles
 
 To support a more contemporary web and print design aesthetics, please adhere to the following font pairings.
+
 
 # Heading 1 - Source San Pro Regular or Semibold
 ## Heading 2 - Source San Pro Regular or Semibold
@@ -115,6 +116,12 @@ Body copy - Souce sans pro regular
 
 ## Readability and accessibility
 
-Readable text allows users to efficiently read and take in textual information. Text that is not readable turns off readers or makes it challenging for them to stay focused. The following guidelines promote good readability and 508 accessibility compliance.
+Readable text allows users to efficiently read and take in textual information. Text that is not readable turns off readers or makes it challenging for them to stay focused. The following guidelines promote good readability and 508 accessibility compliance:
+
+<ul>
+  <li>Text should never be smaller than 13pt.</li>
+  <li>Only use colors #002e6d (sba-blue), #1b1e29 (black), or #686868 (dark-gray) to for main text. Inversely, you can use white text on a sba-blue, black, or dark-gray backrounds.</li>
+  <li>Make sure there is a big enough size contrast between headings and main text (i.e. Headings can be 27pt and main text can be 14pt).</li>
+</ul>
 
 
