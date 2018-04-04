@@ -107,7 +107,7 @@ The horizontal lockup, two-color reverse option is the secondary option to use o
     </p>
 </div>
   <div class="usa-width-one-third">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/variations-two-color-reversed.svg" alt="Logo SBA" /> 
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/variations-horizontal-two-color-reversed.svg" alt="Logo SBA" /> 
   </div>
 </div>
 ### Stacked, One-color
