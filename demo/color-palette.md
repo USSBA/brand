@@ -54,10 +54,6 @@ Using red, white, blue, and grey as the anchor colors, the color palette gives S
           <td>RGB</td>
           <td>0, 46, 109</td>
         </tr>
-        <tr>
-          <td>CMYK</td>
-          <td>100, 58, 0, 57</td>
-        </tr>
       </tbody>
     </table>
   </div>
@@ -73,10 +69,6 @@ Using red, white, blue, and grey as the anchor colors, the color palette gives S
         <tr>
           <td>RGB</td>
           <td>204, 0, 0</td>
-        </tr>
-        <tr>
-          <td>CMYK</td>
-          <td>0, 100, 100, 20</td>
         </tr>
       </tbody>
     </table>
@@ -97,10 +89,6 @@ Using red, white, blue, and grey as the anchor colors, the color palette gives S
           <td>RGB</td>
           <td>150, 150, 150</td>
         </tr>
-        <tr>
-          <td>CMYK</td>
-          <td>0, 0, 0, 41</td>
-        </tr>
       </tbody>
     </table>
   </div>
@@ -116,10 +104,6 @@ Using red, white, blue, and grey as the anchor colors, the color palette gives S
         <tr>
           <td>RGB</td>
           <td>255, 255, 255</td>
-        </tr>
-        <tr>
-          <td>CMYK</td>
-          <td>0, 0, 0, 0</td>
         </tr>
       </tbody>
     </table>
@@ -146,10 +130,6 @@ These accent colors add style and sophistication to the primary colors in the pa
           <td>RGB</td>
           <td>0, 125, 188</td>
         </tr>
-        <tr>
-          <td>CMYK</td>
-          <td>100, 34, 0, 26</td>
-        </tr>
       </tbody>
     </table>
   </div>
@@ -164,10 +144,6 @@ These accent colors add style and sophistication to the primary colors in the pa
         <tr>
           <td>RGB</td>
           <td>28, 31, 42</td>
-        </tr>
-        <tr>
-          <td>CMYK</td>
-          <td>34, 27, 0, 84</td>
         </tr>
       </tbody>
     </table>
@@ -184,10 +160,6 @@ These accent colors add style and sophistication to the primary colors in the pa
           <td>RGB</td>
           <td>25, 126, 78</td>
         </tr>
-        <tr>
-          <td>CMYK</td>
-          <td>80, 0, 38, 51</td>
-        </tr>
       </tbody>
     </table>
   </div>
@@ -202,10 +174,6 @@ These accent colors add style and sophistication to the primary colors in the pa
         <tr>
           <td>RGB</td>
           <td>241, 196, 0</td>
-        </tr>
-        <tr>
-          <td>CMYK</td>
-          <td>0, 19, 100, 5</td>
         </tr>
       </tbody>
     </table>
