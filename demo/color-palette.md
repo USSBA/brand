@@ -14,9 +14,7 @@ sidenav:
     href: '/visual-identity/color-palette/'
   - text: Textures and gradients
     href: '/visual-identity/textures-and-gradients/'
-  - text: Iconography
-    href: '/visual-identity/iconography/'
-  - text: Illustrations
+  - text: Illustrations and iconography
     href: '/visual-identity/illustrations/'
   - text: Photography
     href: '/visual-identity/photography/'
@@ -30,13 +28,13 @@ sidenav:
 
 SBA’s color palette is designed to embody the spirit of American entrepreneurship. Its highly saturated hues feel simultaneously bold and welcoming, modern and familiar.
 
----- 
+
 
 ## Primary colors
 
 
 Using red, white, blue, and grey as the anchor colors, the color palette gives SBA’s brand a patriotic feel and subtly signals SBA’s position as a federal agency. Additionally, blue is traditionally used in business communications to convey trust, confidence, and credibility, and thus will resonate with small business owners. Red is an energy color and captures the passion and enthusiasm that characterizes many entrepreneurs. White allows the eye to rest, and grey lends a modern feel while providing a neutral backdrop for imagery and graphic elements. 
-
+<br/><br/>
 
 
 
@@ -116,6 +114,8 @@ Using red, white, blue, and grey as the anchor colors, the color palette gives S
 ## Secondary colors
 
 These accent colors add style and sophistication to the primary colors in the palette and also subtly suggest the diverse, vibrant nature of the American small business community. These colors are used to complement the primary colors and make specific design elements such as calls-to-action and buttons “pop.”
+
+<br/>
 
 <div class="usa-grid-full">
   <div class="usa-width-one-fourth">
