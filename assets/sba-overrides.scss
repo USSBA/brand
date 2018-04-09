@@ -58,7 +58,6 @@ h2 {
 h3 {
 	font-size: 2.7rem;
 	letter-spacing: -.3;
-	padding-top: .5em;
 }
 
 h4 {
@@ -77,8 +76,11 @@ p {
 	color: $color-secondary-black-ish;
 }
 
+hr {
+	margin: 30px 0;
+}
 
-// Homepage Hero
+// Homepage
 
 .usa-section-dark {
   background-color: $color-white;
@@ -105,9 +107,26 @@ p {
 }
 
 .usa-graphic_list {
-	background-color: $color-sba-gray-lighter;
+	background-color: $color-white;
 	border-top: none;
 }
+
+.usa-section-dark a {
+	color:$color-secondary-blue;
+}
+
+.usa-section-dark a:hover {
+	color: $color-secondary-blue-light;
+}
+
+.usa-media_block-img {
+	max-width: 130px;
+}
+
+.usa-hero-callout {
+	max-width: 380px;
+}
+
 
 //Side nav
 
@@ -120,7 +139,7 @@ p {
 }
 
 .usa-sidenav-list a:hover {
-	background-color: $color-sba-gray-lighter;
+	background-color: #58acef;
 }
 
 // Header + nav
