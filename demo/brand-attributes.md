@@ -17,26 +17,26 @@ sidenav:
 ---
 
 
-# Brand Attributes
+# Brand attributes
 
 SBA Reimagined seeks to ensure a customer-first experience and promote a holistic view of the U.S. Small Business Administration. Our customers are at the center of everything we do. We put the customer first. We provide solutions from their point of view. We are empathetic to their challenges. 
 
 --- 
 
-## Our Role
+## Our role
 
 SBA staff wear many hats, including trainer, educator, mentor, and more. All of these roles have one thing in common: they create positive change for small business owners. We serve as a catalyst to help small business owners move to the next step.
 
 
-## Our Promise
+## Our promise
 
 We will advocate for you, work with you, and empower you to confidently start, grow, and strengthen your business.
 
-## Our Attributes
+## Our attributes
 
 SBA has established and defined nine attributes which enable us to consistently deliver on our promise. These attributes are used to train staff and partners.
 
-## We Are: 
+## We are: 
 
 <div class="usa-grid-full brand-attributes-we-are-component">
   <div>
