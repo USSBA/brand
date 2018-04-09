@@ -14,9 +14,7 @@ sidenav:
     href: '/visual-identity/color-palette/'
   - text: Textures and gradients
     href: '/visual-identity/textures-and-gradients/'
-  - text: Iconography
-    href: '/visual-identity/iconography/'
-  - text: Illustrations
+  - text: Illustrations and iconography
     href: '/visual-identity/illustrations/'
   - text: Photography
     href: '/visual-identity/photography/'
