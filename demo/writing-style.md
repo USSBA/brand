@@ -42,7 +42,7 @@ SBA marketing and promotional materials follow The Associated Press Stylebook an
 This section provides the most used forms for AP and GPO styles, and SBA preferences if the style is not addressed by the AP or GPO.
 The Administrator, Deputy Administrator, and Office of the Inspector General establish their own editorial preferences for correspondence. The Office of the Executive Secretary has its own set correspondence style manual.
 
-Contractors who write and edit SBA marketing products must also adhere to Agency standards. Vendor contracts should include the commitment to using plain language found in the June 1, 1998 Presidential Memorandum, which directs all executive departments and agencies to use everyday words, except for necessary technical terms, in governmental writing.
+Contractors who write and edit SBA marketing products must also adhere to Agency standards. Vendor contracts should include the commitment to using plain language found in the [June 1, 1998 Presidential Memorandum](https://plainlanguage.gov/about/history/memo-guidelines/), which directs all executive departments and agencies to use everyday words, except for necessary technical terms, in governmental writing.
 
 **Common Applications**
 
