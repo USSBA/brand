@@ -42,7 +42,7 @@ SBA marketing and promotional materials follow The Associated Press Stylebook an
 This section provides the most used forms for AP and GPO styles, and SBA preferences if the style is not addressed by the AP or GPO.
 The Administrator, Deputy Administrator, and Office of the Inspector General establish their own editorial preferences for correspondence. The Office of the Executive Secretary has its own set correspondence style manual.
 
-Contractors who write and edit SBA marketing products must also adhere to Agency standards. Vendor contracts should include the commitment to using plain language found in the June 1, 1998 Presidential Memorandum, which directs all executive departments and agencies to use everyday words, except for necessary technical terms, in governmental writing.
+Contractors who write and edit SBA marketing products must also adhere to Agency standards. Vendor contracts should include the commitment to using plain language found in the [June 1, 1998 Presidential Memorandum](https://plainlanguage.gov/about/history/memo-guidelines/), which directs all executive departments and agencies to use everyday words, except for necessary technical terms, in governmental writing.
 
 **Common Applications**
 
@@ -72,7 +72,7 @@ Lowercase suite, room, and building when standing alone or part of an address.
 
 **Internal:** Street, avenue, place, road, square, boulevard, terrace, drive, court, and building, following a name or number, are abbreviated in footnotes, sidenotes, tables, leaderwork, and lists.
 
-### Business Names
+### Business names
 External: For company, companies use Co. or Cos. When a business uses either word at the end of its name.
 >Ford Motor Co.
 
@@ -162,7 +162,7 @@ The Agency assisted the veterans business development office and one of its offi
 
 Do not sacrifice comprehension in order to save a few words.
 
-### Frequently Used Acronyms and Shortened Names
+### Frequently used acronyms and shortened names
 These acronyms and initialisms should be spelled out on first reference unless noted below. In **external communications**, use the shortened form of the full name rather than the acronym on subsequent references. In the context of a story, the full name should be easily understood when reading the acronym or shortened name.
 Lender Match helps connect SBA Lenders to clients. The matching program is an easy and convenient way to link you to banks who are interested in working with you.
 
@@ -188,7 +188,7 @@ Lender Match helps connect SBA Lenders to clients. The matching program is an ea
 | U.S. Export Assistance Centers | export center(s)<br />the center(s)      |
 | Women’s Business Centers | WBC;<br />the center(s)      |
 
-### SBA Program/Office/Designation Names
+### SBA program/office/designation names
 Refer to SBA programs by their full name on first reference. On subsequent references, use the shortened name.
 External: try not to use the acronym in order to avoid alphabet soup. When referring to two or more programs in the same text, be sure the distinction is clear:
 >The 7(a) Loan Program is the SBA’s primary business loan program, while the 504 Certified Development Company Loan Program is used for real estate, construction and equipment upgrades for a business expansion. The 7(a) is the most flexible, helping finance a large variety of business purposes for the largest number of business types.
@@ -232,7 +232,7 @@ External: try not to use the acronym in order to avoid alphabet soup. When refer
 
 <a name="articles"></a>
 ## Articles
-### Definite Articles
+### Definite articles
 **External/Internal:** Use “the” before all references to the SBA, except when SBA is used as an adjective. Similar examples include the White House, the FBI, and the IRS.
 >The SBA provides…
 
@@ -250,7 +250,7 @@ This does not apply at any time in reference to publications, vessels, airships,
 
 >the Hotel Roanoke
 
-### Indefinite Articles
+### Indefinite articles
 **External/Internal:** The indefinite article “a” is used before consonant sounds, including an aspirated h.
 >a one-year term; a historic
 
@@ -258,11 +258,11 @@ An is used before vowel sounds and the silent h.
 >an energy crisis; an hour
 
 When an acronym begins with an S or any other letter that has a vowel sound, the indefinite article an is used.
-an SBA loan.
+>an SBA loan.
 
 <a name="capitalization"></a>
 ## Capitalization
-### Governmental Units and Places
+### Governmental units and places
 **External:** Capitalize the full proper names of governmental agencies, departments, and offices, even when the formal governmental body name is flipped to delete the word “of,” but lowercase further condensations of the name.
 >the U.S. Department of State, the State Department, the department
 
@@ -354,7 +354,7 @@ Title of a head or assistant head of a National governmental unit:
 >William D. Mitchell, the Administrator; similarly the Deputy Administrator
 
 <a name="international"></a>
-## International Alphabet: Special Characters
+## International alphabet: Special characters
 **External:** Accent marks are not required on these words: attache, detente, resume, and the anglicized words listed below.
 
 **Internal:** These foreign words carry the accent marks as an essential part of their spelling: attaché, détente, résumé.
@@ -417,7 +417,7 @@ Use the numeral and word combination when expressing million, billion, or trilli
 
 <a name="punctuation"></a>
 ## Punctuation
-### Bulleted & Numbered Lists
+### Bulleted and numbered lists
 To list key steps or required elements, use a numbered list. Use bullets for points or examples. Introduce most lists with a colon.
 
 In a bulleted list, or a list in the sentence, capitalize the first word after a colon only if it is a proper noun or the start of a complete sentence. Note how any bullet item forming a complete sentence should end in a period.
