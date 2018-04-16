@@ -16,6 +16,8 @@ sidenav:
     href: '/brand-overview/how-to-talk/'
     
 subnav:
+  - text: Plain language commitment
+    href: '#plainlanguage'
   - text: Abbreviations
     href: '#abbreviations'
   - text: Acronyms and initialisms
@@ -42,13 +44,24 @@ SBA marketing and promotional materials follow The Associated Press Stylebook an
 This section provides the most used forms for AP and GPO styles, and SBA preferences if the style is not addressed by the AP or GPO.
 The Administrator, Deputy Administrator, and Office of the Inspector General establish their own editorial preferences for correspondence. The Office of the Executive Secretary has its own set correspondence style manual.
 
-Contractors who write and edit SBA marketing products must also adhere to Agency standards. Vendor contracts should include the commitment to using plain language found in the [June 1, 1998 Presidential Memorandum](https://plainlanguage.gov/about/history/memo-guidelines/), which directs all executive departments and agencies to use everyday words, except for necessary technical terms, in governmental writing.
-
 **Common Applications**
 
 Some frequently used grammar conventions, styles, and forms are listed below. For ease of application, some have been divided into external and internal styles when there are differences. For the style and spelling of words not found in AP or GPO, see Webster’s New World College Dictionary.
 
 This section can be used as a primer and a quick reference, not a replacement to the GPO or AP style books. Most examples here are taken and condensed from these style books.
+
+
+<a name="plainlanguage"></a>
+## Plain language commitment
+The SBA is committed to simplifying our message by using a standard style without jargon and unidentifiable acronyms. To accomplish that, the Agency endorses two editorial styles. For external communication we use the *Associated Press Stylebook 2017* for all public documents and materials, excluding correspondence from the Administrator and Deputy Administrator. Exceptions can be found in the Writing Form & Style section of this guide. The U.S. Government Printing Office *Style Manual 2016* is used for internal communication.
+
+Contractors who write and edit SBA marketing products must also adhere to Agency standards. Vendor contracts should include the commitment to using plain language found in the [June 1, 1998 Presidential Memorandum](https://plainlanguage.gov/about/history/memo-guidelines/), which directs all executive departments and agencies to use everyday words, except for necessary technical terms, in governmental writing.
+
+Remember:
+* Promote the Agency’s core areas of expertise with a voice that is official, direct, affirming, and authentic.
+* The SBA needs to have one voice across its offices and programs, but the tone should change to fit the audience. Pay attention to your audience and the context (local, regional, or national) in which you are presenting the information. What purpose do you have and what medium will work best for that audience, context, and purpose?
+* Find and focus on publicizing people’s stories, this helps the public understand that the Agency is an organization that works with the people, rather than a governmental authority that creates policies and rules which can feel cold and removed. We don’t promote the individual small business, we publicize stories of small businesses that demonstrate how the SBA has helped them succeed.
+
 
 <a name="abbreviations"></a>
 ## Abbreviations
