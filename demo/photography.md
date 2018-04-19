@@ -28,6 +28,20 @@ sidenav:
 
 Photography can be used to really grab people's attention, so we recommend you use it strategically and for the most important pieces of content. Photography can help humanize print and web collateral, invoking emotional responses from the viewers and making the SBA seem more relatable. 
 
+## SBA imagery
+OCPL has access to royalty-free photos and photographs of local entrepreneurs appropriate for use in marketing materials, find the SBA Photo Database [here](https://sba123.sharepoint.com/offices/OMCS/Pages/default.aspx). For help with finding images from either the royalty-free photos or the OMCS photo database, contact OMCS at [marketinghq@sba.gov](mailto:marketinghq@sba.gov).
+
+<ul>
+  <li>
+  For photos you have taken, use the Authorization, Grant & Release of Materials form to secure approval for using the photo or material in SBA promotional materials.</li>
+  <li>All photos (excluding stock) should have a caption identifying the people and place.</li>
+  <li>Use photos taken within the last two years, with a story that ties into the SBA, so the promotion of “what the SBA did for me.” Older photos can be used if the company has been vetted within the last three years.
+
+  </li>
+</ul>
+
+
+## Choosing photos
 The following guidelines are best practices for choosing high quality and engaging photos:
 
 <ul>

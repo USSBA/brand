@@ -36,6 +36,26 @@ sidenav:
   </div>
 </div>
 
+## Logo use
+
+The SBA logo and mark are for official governmental use and any alteration, distortion, re-creation, or misuse is prohibited. The logo and mark can only be used by SBA employees in their official duties, for publicizing and identifying the SBA, its programs and activities on official outreach materials and publications.
+
+<strong> Resource Partners </strong><br/>
+SBA Resource Partners cannot use the logo except as authorized by the Agency in connection with a cosponsorship agreement.
+
+<strong>Outside party</strong><br/>
+When the SBA’s logo is used by an outside party, the Agency’s role in the activity and its relationship to that outside party must be clear. For example, include the phrase “Funds Guaranteed by the SBA” when a business posts a sign announcing an expansion or new location. Use of the Agency’s logo cannot imply an endorsement or preferential treatment, or suggest a relationship that does not exist. When uncertain as to the appropriate use of the Agency’s logo, contact OMCS for guidance.
+
+<strong>Contractors</strong><br/>
+SBA contractors or grantees should use the logo only in the manner prescribed in their cooperative agreement.
+
+<strong>Cobranding</strong><br/>
+Cobranded publications should display the SBA logo in the primary position, which is in the upper left of the page or cover, above other logos. When grouped with other logos, the SBA logo should be in the first position on the left. It should be comparable in size to any other logos on the page. Only logos of entities participating in the cosponsored activity, those appearing in the original cosponsorship agreement or subsequently joindered into the agreement, may cobrand with the SBA.
+
+Non-program cosponsored materials should incorporate the SBA identity as prominent, and dominate lower left position is preferred.
+
+
+
 ## Lockups
 
 ### Stacked
@@ -334,42 +354,40 @@ The horizontal lockup, one-color reverse option is the secondary option to use o
 ### Frequently Asked Questions
 
 <ul class="usa-accordion">
-
   <li>
     <button class="usa-accordion-button"
       aria-expanded="false"
       aria-controls="a1">
-      May SBA’s logo be altered in any way other than size?
-    </button>
-    <div id="a1" class="usa-accordion-content">
-      No, only OMCS staff has the authority to modify the Agency’s logo. No other employee or outside party may alter the color, proportions, or content of SBA’s logo. The Inspector General may promulgate a logo for the Inspector General’s Office. Aside from that, no employee outside of OMCS has the authority to create new SBA logos related to particular programs, offices, or initiatives. Furthermore, SBA’s logo may not be merged, combined, or cobranded (i.e., the logos are touching) with the logos of any other parties.
-
-    </div>
-  </li>
-
-  <li>
-    <button class="usa-accordion-button"
-      aria-expanded="false"
-      aria-controls="a2">
       What are the general rules regarding the use of SBA’s logo?
     </button>
-    <div id="a2" class="usa-accordion-content">
+    <div id="a1" class="usa-accordion-content">
       The Agency’s logo may only be used to promote SBA and/or its programs, activities, and services. SBA’s logo cannot be used in a way that suggests the Agency is endorsing any individual, organization, product, or service or in a way which implies that an improper relationship exists between SBA and an outside party. SBA’s logo also must not be used in any manner that is liable to bring the Agency into a negative light. For example, SBA’s logo may not appear in connection with any products or services related to the alcohol, gambling, or adult entertainment industries, any lobbying efforts, or any political activities.
 
     </div>
   </li>
-
-  <li>
+ <li>
     <button class="usa-accordion-button"
       aria-expanded="false"
-      aria-controls="a3">
+      aria-controls="a2">
       For what purposes may SBA employees use the Agency’s logo?
     </button>
-    <div id="a3" class="usa-accordion-content">
+    <div id="a2" class="usa-accordion-content">
       SBA employees may use the Agency’s logo for publicizing, branding, and identifying SBA and its programs and activities on official business cards, presentations, reports, correspondence, signs marketing and outreach materials, and similar publications.
 
     </div>
   </li>
+  <li>
+    <button class="usa-accordion-button"
+      aria-expanded="false"
+      aria-controls="a3">
+      May SBA’s logo be altered in any way other than size?
+    </button>
+    <div id="a3" class="usa-accordion-content">
+        No, only OMCS staff has the authority to modify the Agency’s logo. No other employee or outside party may alter the color, proportions, or content of SBA’s logo. The Inspector General may promulgate a logo for the Inspector General’s Office. Aside from that, no employee outside of OMCS has the authority to create new SBA logos related to particular programs, offices, or initiatives. Furthermore, SBA’s logo may not be merged, combined, or cobranded (i.e., the logos are touching) with the logos of any other parties.
+
+    </div>
+  </li>
+
 
   <li>
     <button class="usa-accordion-button"
@@ -440,7 +458,7 @@ Where an RPO is uncertain as to whether use of the Agency’s logo is appropriat
     <button class="usa-accordion-button"
       aria-expanded="false"
       aria-controls="a9">
-      Must a disclaimer be used in connection with SBA’s logo
+      Must a disclaimer be used in connection with SBA’s logo?
     </button>
     <div id="a9" class="usa-accordion-content">
       Except where doing so is impractical due to space constraints, Responsible Program Officials are strongly encouraged to require use of the following disclaimer whenever SBA’s logo appears on materials produced by outside parties:<br/><br/>
@@ -449,6 +467,16 @@ When used, this disclaimer must appear in clearly legible type in close proximit
     </div>
   </li>
 
+  <li>
+    <button class="usa-accordion-button"
+      aria-expanded="false"
+      aria-controls="a10">
+      What should I do if I believe SBA’s logo has been used improperly?
+    </button>
+    <div id="a10" class="usa-accordion-content">
+      If you believe SBA’s logo has been used without the Agency’s permission, please contact the Office of General Counsel. If you believe the logo has been used with the Agency’s permission but has not been properly handled in accordance with the guidance set forth in this SOP, please <a href="mailto:MarketingHQ@sba.gov">contact OMCS.</a>
+    </div>
+  </li>
 </ul>
 
 
