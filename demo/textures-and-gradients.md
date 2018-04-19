@@ -18,10 +18,6 @@ sidenav:
     href: '/visual-identity/illustrations/'
   - text: Photography
     href: '/visual-identity/photography/'
-  - text: Print media
-    href: '/visual-identity/print-media/'
-  - text: Video
-    href: '/visual-identity/video/'
 ---
 
 # Textures and gradients
