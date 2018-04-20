@@ -1,6 +1,6 @@
 ---
-title: How to talk about the SBA
-permalink: /brand-overview/how-to-talk/
+title: Brand promise
+permalink: /brand-overview/brand-promise/
 
 layout: page
 sidenav:
@@ -12,11 +12,9 @@ sidenav:
     href: '/brand-overview/brand-attributes/'
   - text: Writing style
     href: '/brand-overview/writing-style/'
-  - text: How to talk about the SBA
-    href: '/brand-overview/how-to-talk/'
 ---
 
 
-# How to talk about the SBA
+# Our brand promise
 
-Coming soon.
+We will advocate for you, work with you, and empower you to confidently start, grow, expand, or recover your business.
