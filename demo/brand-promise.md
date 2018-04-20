@@ -1,6 +1,6 @@
 ---
-title: Brand Overview
-permalink: /brand-overview/
+title: Brand promise
+permalink: /brand-overview/brand-promise/
 
 layout: page
 sidenav:
@@ -16,6 +16,7 @@ sidenav:
     href: '/brand-overview/how-to-talk/'
 ---
 
-# Brand Overview
 
-Coming soon.
+# Our brand promise
+
+We will advocate for you, work with you, and empower you to confidently start, grow, expand, or recover your business.

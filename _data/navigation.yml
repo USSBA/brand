@@ -24,8 +24,8 @@ primary:
     links:
       - text: Overview
         href: /brand-overview/
-      - text: Vision and mission
-        href: /brand-overview/vision-mission/
+      - text: Brand promise
+        href: /brand-overview/brand-promise/
       - text: Brand attributes
         href: /brand-overview/brand-attributes/
       - text: Writing style
@@ -42,7 +42,7 @@ primary:
         href: '/visual-identity/typography/'
       - text: Color palette
         href: '/visual-identity/color-palette/'
-      - text: Textures and gradients
+      - text: Textures
         href: '/visual-identity/textures-and-gradients/'
       - text: Illustrations and iconography
         href: '/visual-identity/illustrations/'

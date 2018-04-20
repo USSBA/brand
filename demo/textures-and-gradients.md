@@ -1,5 +1,5 @@
 ---
-title: Textures and gradients
+title: Textures
 permalink: /visual-identity/textures-and-gradients/
 
 layout: page
@@ -12,7 +12,7 @@ sidenav:
     href: '/visual-identity/typography/'
   - text: Color palette
     href: '/visual-identity/color-palette/'
-  - text: Textures and gradients
+  - text: Textures
     href: '/visual-identity/textures-and-gradients/'
   - text: Illustrations and iconography
     href: '/visual-identity/illustrations/'
@@ -20,6 +20,6 @@ sidenav:
     href: '/visual-identity/photography/'
 ---
 
-# Textures and gradients
+# Textures
 
 Coming soon.
