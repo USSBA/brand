@@ -72,4 +72,4 @@ Textures should be used for special circumstances, such as award certificates, i
   </div>
 </div>
 
-<a class="usa-button" href="{{ site.baseurl }}">Download Texture Files</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/img/pages/textures/sba-textures-download.zip">Download Texture Files</a>
