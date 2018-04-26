@@ -4,8 +4,6 @@ permalink: /visual-identity/textures-and-gradients/
 
 layout: page
 sidenav:
-  - text: Overview
-    href: '/visual-identity/'
   - text: Logo
     href: '/visual-identity/logo/'
   - text: Typography

@@ -22,8 +22,6 @@
 primary:
   - text: Brand overview
     links:
-      - text: Overview
-        href: /brand-overview/
       - text: Brand promise
         href: /brand-overview/brand-promise/
       - text: Brand attributes
@@ -32,8 +30,6 @@ primary:
         href: '/brand-overview/writing-style/'
   - text: Visual identity
     links:
-      - text: Overview
-        href: '/visual-identity/'
       - text: Logo
         href: '/visual-identity/logo/'
       - text: Typography
