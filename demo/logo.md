@@ -484,5 +484,3 @@ When used, this disclaimer must appear in clearly legible type in close proximit
     </div>
   </li>
 </ul>
-
-There is one SBA lender web icon provided by the Agency for use by lenders approved by the SBA to offer SBA loan products under SBA’s [Preferred Lender/Express; Lender/Certified; or Lender/Microloan] programs. Used in this context, participating lenders are those lenders who are in good standing with the Agency, have signed SBA Form 750 and are authorized to offer their respective programs.
