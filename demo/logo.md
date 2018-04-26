@@ -343,7 +343,8 @@ The horizontal lockup, one-color reverse option is the secondary option to use o
 <a href="{{ site.baseurl }}/assets/sba/img/pages/logo/JPG.zip">Download JPG files</a><br/>
 <a href="{{ site.baseurl }}/assets/sba/img/pages/logo/EPS.zip">Download EPS files</a><br/>
 <a href="{{ site.baseurl }}/assets/sba/img/pages/logo/AI.zip">Download Adobe Illustrator files</a><br/>
-<a href="{{ site.baseurl }}/assets/sba/img/pages/logo/PDF.zip">Download PDF files</a>
+<a href="{{ site.baseurl }}/assets/sba/img/pages/logo/PDF.zip">Download PDF files</a><br/>
+<a href="https://www.sba.gov/document/support--advertising-your-sba-relationship">Download SBA Lender Web Icon</a>
 
 ### Frequently Asked Questions
 
@@ -427,9 +428,20 @@ District office personnel may distribute SBA window decals to qualifying parties
     <button class="usa-accordion-button"
       aria-expanded="false"
       aria-controls="a7">
-      Can SBA’s logo be used for a third-party activity?
+      Is there a web icon available for SBA lenders?
     </button>
     <div id="a7" class="usa-accordion-content">
+      There is one SBA lender web icon provided by the Agency for use by lenders approved by the SBA to offer SBA loan products under SBA’s [Preferred Lender/Express; Lender/Certified; or Lender/Microloan] programs. Used in this context, participating lenders are those lenders who are in good standing with the Agency, have signed SBA Form 750 and are authorized to offer their respective programs.<br /><br />The SBA Lender Web Icon and usage guidelines can be found <a href="https://www.sba.gov/document/support--advertising-your-sba-relationship">here</a>.
+    </div>
+  </li>
+  
+  <li>
+    <button class="usa-accordion-button"
+      aria-expanded="false"
+      aria-controls="a8">
+      Can SBA’s logo be used for a third-party activity?
+    </button>
+    <div id="a8" class="usa-accordion-content">
       Where the conditions discussed in the paragraphs below are met, SBA’s logo may appear in connection with third-party activities. As a general rule, if SBA is participating in a limited capacity in an event hosted by one or more other entities, then the Agency’s logo may appear in materials promoting that event only if those materials have separate, clearly marked sections distinguishing participants from hosts or sponsors of the event, or if the Agency’s logo only appears directly above or beside the SBA representative’s name or bio.<br/><br/>
 Additionally, while an SBA employee is making a presentation at a third-party activity, the Agency’s logo may be displayed on a sign or electronic media near the presenter only for the course of that presentation. Once the SBA employee finishes the presentation, the Agency’s logo must be removed from display.
     </div>
@@ -438,10 +450,10 @@ Additionally, while an SBA employee is making a presentation at a third-party ac
   <li>
     <button class="usa-accordion-button"
       aria-expanded="false"
-      aria-controls="a8">
+      aria-controls="a9">
       What should RPOs consider in determining whether to authorize logo use by a third party?
     </button>
-    <div id="a8" class="usa-accordion-content">
+    <div id="a9" class="usa-accordion-content">
       When SBA’s logo is used by an outside party, that usage must make clear SBA’s role in the activity and its relationship to that outside party (for example, by featuring the phrase “Funds Guaranteed by” immediately preceding SBA’s logo, etc.). Use of the Agency’s logo must not imply an endorsement or preferential treatment or suggest a relationship which does not exist.<br/><br/>
 The RPO must decide whether a proposed use of the SBA logo is appropriate. The RPO should consider whether the entity using the logo is commercial or noncommercial, whether the logo use implies an association between SBA with a product and service, whether the logo is accompanied by the disclaimer in section 4, and other factors appropriate to the situation.<br/><br/>
 Where an RPO is uncertain as to whether use of the Agency’s logo is appropriate in connection with a particular third-party activity, she or he should contact district counsel or the Office of Marketing and Customer Service (OMCS) for additional guidance and support. The RPO is accountable for inappropriate use of the logo in third-party events.
@@ -451,10 +463,10 @@ Where an RPO is uncertain as to whether use of the Agency’s logo is appropriat
   <li>
     <button class="usa-accordion-button"
       aria-expanded="false"
-      aria-controls="a9">
+      aria-controls="a10">
       Must a disclaimer be used in connection with SBA’s logo?
     </button>
-    <div id="a9" class="usa-accordion-content">
+    <div id="a10" class="usa-accordion-content">
       Except where doing so is impractical due to space constraints, Responsible Program Officials are strongly encouraged to require use of the following disclaimer whenever SBA’s logo appears on materials produced by outside parties:<br/><br/>
 <strong>SBA’s participation or support is not an endorsement of any product, service, or entity.</strong><br/><br/>
 When used, this disclaimer must appear in clearly legible type in close proximity to the Agency’s logo. For more information, see the disclaimer section.
@@ -464,13 +476,13 @@ When used, this disclaimer must appear in clearly legible type in close proximit
   <li>
     <button class="usa-accordion-button"
       aria-expanded="false"
-      aria-controls="a10">
+      aria-controls="a11">
       What should I do if I believe SBA’s logo has been used improperly?
     </button>
-    <div id="a10" class="usa-accordion-content">
+    <div id="a11" class="usa-accordion-content">
       If you believe SBA’s logo has been used without the Agency’s permission, please contact the Office of General Counsel. If you believe the logo has been used with the Agency’s permission but has not been properly handled in accordance with the guidance set forth in this SOP, please <a href="mailto:MarketingHQ@sba.gov">contact OMCS.</a>
     </div>
   </li>
 </ul>
 
-
+There is one SBA lender web icon provided by the Agency for use by lenders approved by the SBA to offer SBA loan products under SBA’s [Preferred Lender/Express; Lender/Certified; or Lender/Microloan] programs. Used in this context, participating lenders are those lenders who are in good standing with the Agency, have signed SBA Form 750 and are authorized to offer their respective programs.
