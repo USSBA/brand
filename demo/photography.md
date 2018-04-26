@@ -4,8 +4,6 @@ permalink: /visual-identity/photography/
 
 layout: page
 sidenav:
-  - text: Overview
-    href: '/visual-identity/'
   - text: Logo
     href: '/visual-identity/logo/'
   - text: Typography

@@ -4,8 +4,6 @@ permalink: /brand-overview/brand-attributes/
 
 layout: page
 sidenav:
-  - text: Overview
-    href: '/brand-overview/'
   - text: Brand promise
     href: '/brand-overview/brand-promise/'
   - text: Brand attributes
