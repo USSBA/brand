@@ -78,7 +78,7 @@ The following guidelines are best practices for choosing high quality and engagi
 </div>
 <div class="usa-width-one-third">
   <h3>Not acceptable</h3>
-  <p>White backgrounds where people are obviously posing or exagerrating.</p>
+  <p>White backgrounds where people are obviously posing or exaggerating.</p>
 </div>
 </div>
 <br/>
@@ -88,7 +88,7 @@ The following guidelines are best practices for choosing high quality and engagi
 </div>
 <div class="usa-width-one-third">
   <h3>Not acceptable</h3>
-  <p>Obviously photoshoppeed lens flares and corny texture overlays.</p>
+  <p>Obviously photoshopped lens flares and corny texture overlays.</p>
 </div>
 </div>
 ## Recommended stock photography vendors
