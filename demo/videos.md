@@ -22,5 +22,5 @@ The download also contains an SRT file with closed captions.
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/sba-brand-story-video.zip">Download Video</a>
   
 <video width="480" height="320" controls="controls">
-<source src="{{ site.baseurl }}/assets/sba/video/SBA Brand Story Final 1920x1080 - FINAL.mp4" type="video/mp4">
+<source src="{{ site.baseurl }}/assets/sba/video/sba-brand-story-video.mp4" type="video/mp4">
 </video>
