@@ -1,0 +1,99 @@
+﻿1
+00:00:00,000 --> 00:00:01,401
+<font color=#AAAAAAFF>An Idea.</font>
+
+2
+00:00:01,401 --> 00:00:02,769
+<font color=#AAAAAAFF>A Concept.</font>
+
+3
+00:00:02,769 --> 00:00:03,703
+<font color=#AAAAAAFF>A Plan.</font>
+
+4
+00:00:03,703 --> 00:00:04,671
+<font color=#AAAAAAFF>A Dream.</font>
+
+5
+00:00:04,671 --> 00:00:06,706
+<font color=#AAAAAAFF>That's how businesses start.</font>
+
+6
+00:00:06,706 --> 00:00:09,275
+<font color=#AAAAAAFF>With the help of the U.S.</font>
+<font color=#AAAAAAFF>Small Business Administration</font>
+
+7
+00:00:09,275 --> 00:00:11,011
+<font color=#AAAAAAFF>businesses transform.</font>
+
+8
+00:00:11,011 --> 00:00:14,214
+<font color=#AAAAAAFF>From a home office, </font>
+<font color=#AAAAAAFF>to a global operation.</font>
+
+9
+00:00:14,214 --> 00:00:17,083
+<font color=#AAAAAAFF>A double-oven setup,</font>
+<font color=#AAAAAAFF>to a six person bakery.</font>
+
+10
+00:00:17,083 --> 00:00:19,152
+<font color=#AAAAAAFF>Concept to manufacturing.</font>
+
+11
+00:00:19,152 --> 00:00:23,423
+<font color=#AAAAAAFF>And from contemplating </font>
+<font color=#AAAAAAFF>closure, to not just surviving,</font>
+
+12
+00:00:23,423 --> 00:00:27,394
+<font color=#AAAAAAFF>but thriving. That's the power</font>
+<font color=#AAAAAAFF>of the SBA.</font>
+
+13
+00:00:27,394 --> 00:00:29,696
+<font color=#AAAAAAFF>We make small business</font>
+<font color=#AAAAAAFF>our business</font>
+
+14
+00:00:29,696 --> 00:00:36,036
+<font color=#AAAAAAFF>By being an ally, an advocate</font>
+<font color=#AAAAAAFF>a mentor a coach, an educator,</font>
+<font color=#AAAAAAFF>a friend.</font>
+
+15
+00:00:36,036 --> 00:00:38,905
+<font color=#AAAAAAFF>To ambitious and passionate</font>
+<font color=#AAAAAAFF>entrepreneurs</font>
+
+16
+00:00:38,905 --> 00:00:40,707
+<font color=#AAAAAAFF>and we're igniting change,</font>
+
+17
+00:00:40,707 --> 00:00:41,708
+<font color=#AAAAAAFF>sparking action,</font>
+
+18
+00:00:41,708 --> 00:00:44,744
+<font color=#AAAAAAFF>so businesses across the nation</font>
+<font color=#AAAAAAFF>can confidently</font>
+
+19
+00:00:44,744 --> 00:00:49,249
+<font color=#AAAAAAFF>start, grow, expand,</font>
+<font color=#AAAAAAFF>and recover.</font>
+
+20
+00:00:50,984 --> 00:00:54,821
+<font color=#AAAAAAFF>SBA, empowering small</font>
+<font color=#AAAAAAFF>businesses and</font>
+
+21
+00:00:54,821 --> 00:00:57,490
+<font color=#AAAAAAFF>powering the American Dream.</font>
+
+22
+00:00:57,490 --> 00:01:00,260
+<font color=#AAAAAAFF>[Music]</font>
