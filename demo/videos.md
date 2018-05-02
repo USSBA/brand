@@ -7,6 +7,9 @@ layout: page
 
 # Videos
 
+## 2018 National Small Business Week: Public Service Announcement
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2a2QSpVBPKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## SBA High Energy/Short Video
 Use this video as a high-energy, motivational meeting opener to demonstrate our role as a catalyst for small business.
 
