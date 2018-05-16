@@ -36,6 +36,6 @@ The download also contains an SRT file with closed captions.
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/sba-brand-story-video.zip">Download Video</a>
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iKLzAtW6xPM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vNMdoB-CCKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
