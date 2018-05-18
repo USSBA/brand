@@ -26,4 +26,4 @@ These SBA templates ensure that we communicate a professional image and a consis
 * [Name badges](https://sba123.sharepoint.com/offices/OMCS/Pages/SBANameBadge.aspx) and [table tent cards](https://sba123.sharepoint.com/offices/OMCS/Documents/Template/SBA-Table-Tent-v2.pdf) for identification at conferences and public events
 * [Certificate template](https://sba123.sharepoint.com/offices/OMCS/Documents/Index%20Page/What's%20New%20in%20Marketing/SBA-Certificate-FINAL-Editable.pdf) to recognize excellence or celebrate an achievement
 
-For suggestions for additional templates, please contact [Paula Tavares](mailto:paula.tavares@sba.gov), Director of Brand Management
+For suggestions for additional templates, please contact [Paula Tavares](mailto:paula.tavares@sba.gov), Director of Brand Management.
