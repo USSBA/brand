@@ -91,10 +91,3 @@ The following guidelines are best practices for choosing high quality and engagi
   <p>Obviously photoshopped lens flares and corny texture overlays.</p>
 </div>
 </div>
-## Recommended stock photography vendors
-
-<a href="https://www.shutterstock.com/g/jacoblund" target="_blank">https://www.shutterstock.com/g/jacoblund</a>
-
-<a href="https://www.shutterstock.com/g/pressmaster" target="_blank">https://www.shutterstock.com/g/pressmaster</a>
-
-<a href="https://www.shutterstock.com/g/stockbroker" target="_blank">https://www.shutterstock.com/g/stockbroker</a>
