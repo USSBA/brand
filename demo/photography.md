@@ -93,8 +93,6 @@ The following guidelines are best practices for choosing high quality and engagi
 </div>
 ## Recommended stock photography vendors
 
-The following stock photography vendors are vetted and usually sell high quality images. We will continually add to this list.
-
 <a href="https://www.shutterstock.com/g/jacoblund" target="_blank">https://www.shutterstock.com/g/jacoblund</a>
 
 <a href="https://www.shutterstock.com/g/pressmaster" target="_blank">https://www.shutterstock.com/g/pressmaster</a>

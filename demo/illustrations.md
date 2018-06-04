@@ -24,6 +24,8 @@ Illustrations and iconography are great tools to visually represent complex idea
 
 Our illustration and iconography style is clean, modern, playful but still professional, and a touch dynamic. They should work well on a white or very light gray background.
 
+You can download the icons which SBA has developed and approved [here](https://sba123.sharepoint.com/offices/OMCS/Documents/Forms/AllItems.aspx?RootFolder=%2Foffices%2FOMCS%2FDocuments%2FBrand%20Icons&FolderCTID=0x012000BBD3D74ACCE4C342A5321E8615767791&View=%7B48C5815D-F2B3-42B3-B504-7D837B3B5ED8%7D).
+
 
 ## Guidelines for illustration and iconography aesthetics
 
