@@ -28,25 +28,25 @@ Use this video as a high-energy, motivational meeting opener to demonstrate our 
 <source src="{{ site.baseurl }}/assets/sba/video/sba-reveal-url.mp4" type="video/mp4">
 </video>
 
-### SBA Brand Story Video
+### 60 Second Brand Story Video
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/sba-brand-story-video.zip">Download Video</a>
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNMdoB-CCKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### The SBA: Turning Dreams into Reality
+### 30 Second Brand Story Video: Start-Ups
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/psa-for-startups.zip">Download Video</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eoh0cVIc38s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### The SBA: Here for the Whole Business Cycle
+### 30 Second Brand Story Video: Business Cycle
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/psa-business-cycle.zip">Download Video</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ks2olTVHGlY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### The SBA is Your Ally
+### 30 Second Brand Story Video: the SBA is your Ally
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/psa-sba-is-your-ally.zip">Download Video</a>
 
