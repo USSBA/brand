@@ -23,7 +23,7 @@ sidenav:
 <div class="usa-grid-full">  
   <div class="usa-width-two-thirds">
     <p>Our new logo is modern, strong, and meaningful. It reflects our mission and our value as a catalyst for the growth of small businesses, as well as the nation’s economy. Design elements convey SBA’s strength, innovative thinking, and commitment to connecting our customers with the resources and support they need to get started, grow and expand, or recover. It symbolizes what makes the SBA uniquely able to empower small businesses and power the American dream.</p>
-    <a class="usa-button" href="{{ site.baseurl }}/assets/sba/img/pages/logo/SBA_Logo.zip">Download logo files</a>
+    <a class="usa-button" href="{{ site.baseurl }}/assets/sba/img/pages/logo/sba-logos-final-june-2018.zip">Download logo files</a>
   </div>
   <div class="usa-width-one-third">
     <img src="{{ site.baseurl }}/assets/sba/img/pages/logo/logo.svg" alt="Logo SBA" /> 
