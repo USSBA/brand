@@ -27,7 +27,9 @@ primary:
       - text: Brand attributes
         href: /brand-overview/brand-attributes/
       - text: Writing style
-        href: '/brand-overview/writing-style/'
+        href: /brand-overview/writing-style/
+      - text: Research data
+        href: /brand-overview/brand-research-data/
   - text: Visual identity
     links:
       - text: Logo

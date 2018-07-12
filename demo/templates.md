@@ -11,6 +11,8 @@ layout: page
 
 These SBA templates ensure that we communicate a professional image and a consistent, unified identity. SBA employees can download the templates on the SBA intranet, which requires you to log in to the Sharepoint Employee Gateway.
 
+Please click [here](https://sba123.sharepoint.com/offices/OMCS/Documents/Index%20Page/Need%20Help%20Developing%20Materials/SBA%20Brand%20Training%20for%20Program%20Offices%20Update-4.pdf) for best practices on how to effectively communicate your message.
+
 ### Standard templates
 * [Word template](https://sba123.sharepoint.com/offices/OMCS/Pages/WordTemplate.aspx) for general communications
 * [PowerPoint template](https://sba123.sharepoint.com/offices/OMCS/Pages/PowerpointTemplate.aspx) in standard and widescreen formats for presentations

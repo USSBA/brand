@@ -1,6 +1,6 @@
 ---
-title: Brand promise
-permalink: /brand-overview/brand-promise/
+title: Brand research
+permalink: /brand-overview/brand-research-data/
 
 layout: page
 sidenav:
@@ -15,6 +15,6 @@ sidenav:
 ---
 
 
-# Our brand promise
+# Research data
 
-We will advocate for you, work with you, and empower you to confidently start, grow, expand, or recover your business.
+The SBA’s [internal research](https://sba123.sharepoint.com/offices/OMCS/Pages/Market-Customer-Research.aspx) into the needs of our customers serves as the foundation of our new brand.
