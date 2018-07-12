@@ -10,6 +10,8 @@ sidenav:
     href: '/brand-overview/brand-attributes/'
   - text: Writing style
     href: '/brand-overview/writing-style/'
+  - text: Research data
+    href: '/brand-overview/brand-research-data/'
 ---
 
 
