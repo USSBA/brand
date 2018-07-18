@@ -46,6 +46,10 @@ Using red, white, blue, and grey as the anchor colors, the color palette gives S
           <td>RGB</td>
           <td>0, 46, 109</td>
         </tr>
+        <tr>
+          <td>PMS</td>
+          <td>280</td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -61,6 +65,10 @@ Using red, white, blue, and grey as the anchor colors, the color palette gives S
         <tr>
           <td>RGB</td>
           <td>204, 0, 0</td>
+        </tr>
+        <tr>
+          <td>PMS</td>
+          <td>1805</td>
         </tr>
       </tbody>
     </table>
