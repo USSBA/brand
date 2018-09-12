@@ -30,11 +30,15 @@ Use this video as a high-energy, motivational meeting opener to demonstrate our 
 
 ### 60 Second Brand Story Video
 
+Not for broadcast or paid media use. For use in broadcast or paid media, please contact the SBA with details on intended placement and schedule.
+
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/sba-brand-story-video.zip">Download Video</a>
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNMdoB-CCKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 30 Second Brand Story Video: Start-Ups
+
+Not for broadcast or paid media use. For use in broadcast or paid media, please contact the SBA with details on intended placement and schedule.
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/psa-for-startups.zip">Download Video</a>
 
@@ -42,11 +46,15 @@ Use this video as a high-energy, motivational meeting opener to demonstrate our 
 
 ### 30 Second Brand Story Video: Business Cycle
 
+Not for broadcast or paid media use. For use in broadcast or paid media, please contact the SBA with details on intended placement and schedule.
+
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/psa-business-cycle.zip">Download Video</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ks2olTVHGlY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 30 Second Brand Story Video: the SBA is your Ally
+
+Not for broadcast or paid media use. For use in broadcast or paid media, please contact the SBA with details on intended placement and schedule.
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/psa-sba-is-your-ally.zip">Download Video</a>
 
