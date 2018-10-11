@@ -14,7 +14,7 @@ sidenav:
 
 Resource partners and grantees can advertise their relationship with the SBA with the resources below.  Review the guidance to ensure compliance with regulations.
 
-Guidance  Download
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/SBA-Brand-Story-Final-1920x1080-ESP.zip">Download guidance</a>
 
 ## Decals
 
