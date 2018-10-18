@@ -48,6 +48,12 @@ primary:
     href: /templates/
   - text: Videos
     href: /videos/
+  - text: External Partner Resources
+    links:
+      - text: Resource Partners / Grantees
+        href: /external-partners/resource-partners-grantees/
+      - text: SBA Lenders
+        href: /external-partners/sba-lenders/
 
 #secondary:
 #  - text: SBA.gov
@@ -80,4 +86,6 @@ footer:
     href: /templates/
   - text: Press kit
     href: /press-kit/
+  - text: External Partner Resources
+    href: /external-partners/
     
