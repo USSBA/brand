@@ -23,4 +23,26 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/powered-by-decals.zip
 ">Download decals</a>
 
+## SBA marketing materials
 
+Resource partners and grantees can print copies of SBA’s marketing materials to distribute to small business owners and prospective entrepreneurs.  Review Guidance prior to use.
+
+### Brochure
+
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">Download English Version</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish.zip">Descarga la versión en español</a>
+
+### Financing 101
+
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-English.zip">Download English Version</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.zip">Descarga la versión en español</a>
+
+### Government Contracting
+
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-English.zip">Download English Version</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish.zip">Descarga la versión en español</a>
+
+### Resource Partners
+
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-English.zip">Download English Version</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish.zip">Descarga la versión en español</a>
