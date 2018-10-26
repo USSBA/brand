@@ -34,15 +34,15 @@ Resource partners and grantees can print copies of SBA’s marketing materials t
 
 ### Funding 101
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-English.zip">Download English Version</a>
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.zip">Descarga la versión en español</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-508_MCS0092.pdf">Download English Version</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.pdf">Descarga la versión en español</a>
 
 ### Government Contracting
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-English.zip">Download English Version</a>
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish.zip">Descarga la versión en español</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">Download English Version</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Descarga la versión en español</a>
 
 ### Resource Partners
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-English.zip">Download English Version</a>
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish.zip">Descarga la versión en español</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-508_MCS0090.pdf">Download English Version</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish-508.pdf">Descarga la versión en español</a>
