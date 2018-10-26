@@ -30,7 +30,7 @@ Resource partners and grantees can print copies of SBA’s marketing materials t
 ### Brochure
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">Download English Version</a>
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish.zip">Descarga la versión en español</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">Descarga la versión en español</a>
 
 ### Funding 101
 
