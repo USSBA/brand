@@ -44,8 +44,6 @@ primary:
         href: '/visual-identity/illustrations/'
       - text: Photography
         href: '/visual-identity/photography/'
-  - text: Templates
-    href: /templates/
   - text: Videos
     href: /videos/
   - text: External Partner Resources
@@ -54,6 +52,8 @@ primary:
         href: /external-partners/resource-partners-grantees/
       - text: SBA Lenders
         href: /external-partners/sba-lenders/
+  - text: For SBA Employees
+    href: /templates/
 
 #secondary:
 #  - text: SBA.gov
