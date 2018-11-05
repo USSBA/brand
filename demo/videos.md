@@ -94,6 +94,8 @@ No para el uso de medios emitidos o pagados. Para uso en medios emitidos o pagad
 
 ### SBA Lender Match
 
+SBA’s Lender Match tool brings together entrepreneurs and SBA Lenders to help increase access to capital.
+
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/lender-match.zip">Download Video</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/coOBmCozDkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
