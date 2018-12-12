@@ -25,6 +25,8 @@ Authorized SBA lenders can display these decals on their marketing materials/web
 
 ## Lender Toolkit – Borrower Materials
 
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/sba-lenders/ESOP_Borrower_Fact Sheet.pdf">Download ESOP Borrower Fact Sheet</a>
+
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/sba-lenders/Lender-Match-Fact-Sheet-Borrower-Version.pdf">Download Lender Match Fact Sheet</a>
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/sba-lenders/7a-Loan-Fact-Sheet-Borrower-Version.pdf">Download 7(a) Loan Program Factsheet</a>
