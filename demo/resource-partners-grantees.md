@@ -32,6 +32,10 @@ Resource partners and grantees can print copies of SBA’s marketing materials t
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">Download English Version</a>
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">Descarga la versión en español</a>
 
+### Emerging leaders flyer
+
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Download English Version</a>
+
 ### Funding 101
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-508_MCS0092.pdf">Download English Version</a>
