@@ -23,6 +23,10 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/powered-by-decals.zip
 ">Download decals</a>
 
+## Emerging Leaders 2019
+
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Download Emerging leaders flyer</a>
+
 ## SBA marketing materials
 
 Resource partners and grantees can print copies of SBA’s marketing materials to distribute to small business owners and prospective entrepreneurs.  Review Guidance prior to use.
