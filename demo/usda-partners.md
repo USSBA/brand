@@ -1,6 +1,6 @@
 ---
-title: USDA Resources
-permalink: /external-partners/usda-resources/
+title: USDA Partners
+permalink: /external-partners/usda-partners/
 
 layout: page
 sidenav:
