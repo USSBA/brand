@@ -6,7 +6,7 @@ layout: page
 sidenav:
   - text: Resource Partners / Grantees
     href: '/external-partners/resource-partners-grantees/'
-  - text: USDA Resources
+  - text: USDA Partners
     href: '/external-partners/usda-partners/'
   - text: SBA Lenders
     href: '/external-partners/sba-lenders/'
