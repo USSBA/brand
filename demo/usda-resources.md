@@ -46,7 +46,7 @@ Review Guidance prior to use.
 
 Review Guidance prior to use.
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/usda/woman-owned-fact-sheet 2019.pdf">Download WOSB Fact Sheet</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/usda/woman-owned-fact-sheet-2019.pdf">Download WOSB Fact Sheet</a>
 
 
 
