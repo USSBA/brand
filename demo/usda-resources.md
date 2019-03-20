@@ -16,7 +16,7 @@ sidenav:
 
 Downloadable print files for Government Procurement Fact Sheets.  Review the guidance to ensure compliance with regulations.
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/usda/guidance-usage-of-logo.pdf">Download guidance</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/guidance-usage-of-logo.pdf">Download guidance</a>
 
 ## 8(a) Program
 
