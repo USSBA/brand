@@ -16,52 +16,84 @@ sidenav:
 
 Resource partners and grantees can advertise their relationship with the SBA with the resources below.  Review the guidance to ensure compliance with regulations.
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/guidance-usage-of-logo.pdf">Download guidance</a>
-
-## Decals
-
-Authorized SBA Resource Partners and grantees can display these decals on their marketing materials/websites and can order window decals of these designs from their local SBA District office. <strong>Note:  these decals are not approved for use by anyone other than authorized SBA Resource Partners and grantees.</strong> Review Guidance prior to use.
-
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/powered-by-decals.zip
-">Download decals</a>
-
-## Emerging Leaders 2019
-
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Download Emerging leaders flyer</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/guidance-usage-of-logo.pdf">Download Guidance</a>
 
 ## SBA marketing materials
 
 Resource partners and grantees can print copies of SBA’s marketing materials to distribute to small business owners and prospective entrepreneurs.  Review Guidance prior to use.
 
-### Brochure
+### General materials
+Authorized SBA Resource Partners and grantees can display these decals on their marketing materials/websites and can order window decals of these designs from their local SBA District office. <strong>Note:  these decals are not approved for use by anyone other than authorized SBA Resource Partners and grantees.</strong> Review Guidance prior to use.
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">Download English Version</a>
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">Descarga la versión en español</a>
+<ul>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/powered-by-decals.zip">Decals</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">SBA Brochure (English)</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">SBA Brochure (Spanish)</a>
+	</li>
+</ul>
 
-### Funding 101
+### SBA funding programs
+<ul>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-508_MCS0092.pdf">Funding 101 Factsheet (English)</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.pdf">Funding 101 Factsheet (Spanish)</a>
+	</li>
+</ul>
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-508_MCS0092.pdf">Download English Version</a>
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.pdf">Descarga la versión en español</a>
+### Government contracting
+<ul>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">Government Contracting Overview Factsheet (English)</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Government Contracting Overview Factsheet (Spanish)</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/7j-fact-sheet-2019.pdf">7j Management and Technical Assistance</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-2019.pdf">8a Business Development</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet-2019.pdf">HUBZone Program</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/mentor-protege-fact-sheet-2019.pdf">Mentor-Protégé Program</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/national-procurement-assistance-fact-sheet-2019.pdf">National Procurement Assistance</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/woman-owned-fact-sheet-2019.pdf">Women-Owned Business</a>
+	</li>
+</ul>
 
-### Government Contracting
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">Download English Version</a>
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Descarga la versión en español</a>
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/7j-fact-sheet-2019.pdf">7j Management and Technical Assistance</a>
-<br />
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-2019.pdf">8a Business Development</a>
-<br />
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet-2019.pdf">HUBZone Program</a>
-<br />
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
-<br />
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/mentor-protege-fact-sheet-2019.pdf">Mentor-Protégé Program</a>
-<br />
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/national-procurement-assistance-fact-sheet-2019.pdf">National Procurement Assistance</a>
-<br />
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/woman-owned-fact-sheet-2019.pdf">Women-Owned Business</a>
+### Counseling & training
+<ul>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-508_MCS0090.pdf">Resource Partner Network Factsheet (English)</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish-508.pdf">Resource Partner Network Factsheet (Spanish)</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Emerging Leaders 2019</a>
+	</li>
+</ul>
 
-### Resource Partners
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-508_MCS0090.pdf">Download English Version</a>
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish-508.pdf">Descarga la versión en español</a>
+
+
+
+
