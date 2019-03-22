@@ -47,6 +47,19 @@ Resource partners and grantees can print copies of SBA’s marketing materials t
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">Download English Version</a>
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Descarga la versión en español</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/7j-fact-sheet-2019.pdf">7j Management and Technical Assistance</a>
+<br />
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-2019.pdf">8a Business Development</a>
+<br />
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet-2019.pdf">HUBZone Program</a>
+<br />
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
+<br />
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/mentor-protege-fact-sheet-2019.pdf">Mentor-Protégé Program</a>
+<br />
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/national-procurement-assistance-fact-sheet-2019.pdf">National Procurement Assistance</a>
+<br />
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/woman-owned-fact-sheet-2019.pdf">Women-Owned Business</a>
 
 ### Resource Partners
 
