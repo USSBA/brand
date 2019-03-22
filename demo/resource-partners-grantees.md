@@ -22,8 +22,9 @@ Resource partners and grantees can advertise their relationship with the SBA wit
 
 Resource partners and grantees can print copies of SBA’s marketing materials to distribute to small business owners and prospective entrepreneurs.  Review Guidance prior to use.
 
-### General materials
 Authorized SBA Resource Partners and grantees can display these decals on their marketing materials/websites and can order window decals of these designs from their local SBA District office. <strong>Note:  these decals are not approved for use by anyone other than authorized SBA Resource Partners and grantees.</strong> Review Guidance prior to use.
+
+### General materials
 
 <ul>
 	<li>
