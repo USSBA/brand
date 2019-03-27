@@ -14,7 +14,7 @@ sidenav:
 
 # USDA Partners
 
-Downloadable print files for Government Procurement Fact Sheets.  Review the guidance to ensure compliance with regulations.
+Downloadable Financing and Government Procurement Fact Sheets.  Review the guidance to ensure compliance with regulations.
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/guidance-usage-of-logo.pdf">Download guidance</a>
 
