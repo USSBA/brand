@@ -14,7 +14,7 @@ sidenav:
 
 # USDA Partners
 
-Downloadable print files for Government Procurement Fact Sheets.  Review the guidance to ensure compliance with regulations.
+Downloadable Financing and Government Procurement Fact Sheets.  Review the guidance to ensure compliance with regulations.
 
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/resource-partners/guidance-usage-of-logo.pdf">Download guidance</a>
 
@@ -22,15 +22,15 @@ Downloadable print files for Government Procurement Fact Sheets.  Review the gui
 ## SBA Financing options
 
 <ul>
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/7a-Loan-Fact-Sheet-Borrower-Version.pdf">Download 7(a) Loan Program Factsheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/7a-Loan-Fact-Sheet-Borrower-Version.pdf">7(a) Loan Program Factsheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/504-Loan-Fact-Sheet-Borrower-Version.pdf">Download 504 Loan Program Factsheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/504-Loan-Fact-Sheet-Borrower-Version.pdf">504 Loan Program Factsheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Microloan-Fact-Sheet-Borrower.pdf">Download Microlending Factsheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Microloan-Fact-Sheet-Borrower.pdf">Microlending Factsheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Community-Advantage-Fact-Sheet-Borrower-Version.pdf">Download Community Advantage Factsheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Community-Advantage-Fact-Sheet-Borrower-Version.pdf">Community Advantage Factsheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Lender-Match-Fact-Sheet-Borrower-Version.pdf">Download Lender Match Fact Sheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Lender-Match-Fact-Sheet-Borrower-Version.pdf">Lender Match Fact Sheet</a></li>
 
 </ul>
 
