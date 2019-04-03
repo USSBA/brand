@@ -1,11 +1,11 @@
 ---
-title: Templates
+title: Core Materials
 permalink: /templates/
 
 layout: page
 ---
 
-# Templates
+# Core Materials
 
 ## Promoting a unified identity
 
@@ -31,6 +31,8 @@ Please click [here](https://sba123.sharepoint.com/offices/OMCS/Documents/Index%2
 * [SBA Overview: Presentation template](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/SBA%20Overview%20PPT%20-%20EDS%20Engagement%20Toolkit%20-%20v3%20-%209.18.18.pptx) which provides the base for any information session and presentation about the SBA and our offerings.
 * [Lender PPT: Presenter’s Guide](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/Presenter's%20Guide_Lender%20PowerPoint_FINAL_11_6_2018.pdf) features step-by-step detail on using and customizing the presentation for the respective financial institution.
 * [Lender PPT: Presentation template](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/Lender%20Presentation_FINAL_11_5_2018.pptx) which is designed for Lender Relations Specialists to use after initial contact with a potential new or inactive SBA lender.
+* [Lender Match video] (https://www.youtube.com/watch?v=coOBmCozDkI) is a 1-minute overview of SBA's free online referral tool that connects small businesses with participating SBA-approved lenders.  (<a 
+href="{{ site.baseurl }}/assets/sba/video/lender-match.zip">Download Video</a>)
 * [Presenters Guide: Small Business Federal Government Contracting Certifications](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/PresentersGuide-SmallBusinessFedGovContractingCertifications.docx) - features step-by-step detail on using and customizing the presentation for local business owners, entrepreneurs and contract offices.
 * [Government Contracting Certifications PPT](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/SmallBusinessFederalGovernmentContractingCertifications.pptx): designed for the Business Opportunity Specialists to provide a general overview of Small Business Federal Government Contracting Certifications.
 
