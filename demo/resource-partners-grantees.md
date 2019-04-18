@@ -94,6 +94,20 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 
+### Disaster Assistance
+<ul>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits.pdf">Disaster Assistance Loans: Businesses & Nonprofits</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Homeowners-Renters.pdf">Disaster Assistance Loans: Homeowners & Renters</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact.pdf">Disaster Assistance Loans: Community Impact</a>
+	</li>
+</ul>
+
+
 
 
 
