@@ -43,7 +43,7 @@ Authorized SBA lenders can display these decals on their marketing materials/web
 
 
 
-## Microlender Training Videos
+## Mission Lender Training Videos 
 
 <ul><li><a href="https://www.youtube.com/watch?v=xOfDVv96DL4&list=PLrwM1ZVcvDhYQCoQuv2w1Idq0YALJJSbk&index=2&t=0s">Best Practices for Servicing Loans</a></li>
 
