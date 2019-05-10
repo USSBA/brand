@@ -10,8 +10,6 @@ sidenav:
 subnav:
   - text: SBA brand
     href: '#sbabrand'
-  - text: NSBW
-    href: '#nsbw'
 ---
 
 # Videos
@@ -100,6 +98,7 @@ SBA’s Lender Match tool brings together entrepreneurs and SBA Lenders to help 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/coOBmCozDkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<!--
 <a name="nsbw"></a>
 ## NSBW videos
 
@@ -120,3 +119,4 @@ SBA’s Lender Match tool brings together entrepreneurs and SBA Lenders to help 
 ### NSBW 2018 Phoenix Award: Lake Forest Fabric
 <a class="usa-button" href="{{ site.baseurl }}/assets/sba/video/NSBW2018-Phoenix-Award-Forest-Lake-Fabric-FINAL.mp4.zip">Download Video</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pmqoc7KPNPw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+-->
