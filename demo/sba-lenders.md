@@ -28,17 +28,20 @@ Authorized SBA lenders can display these decals on their marketing materials/web
 ## Lender Toolkit – Borrower Materials
 
 <ul>
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/ESOP_Borrower_Fact_Sheet.pdf">Download ESOP Borrower Fact Sheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/ESOP_Borrower_Fact_Sheet.pdf">ESOP Borrower Fact Sheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Lender-Match-Fact-Sheet-Borrower-Version.pdf">Download Lender Match Fact Sheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Lender-Match-Fact-Sheet-Borrower-Version.pdf">Lender Match Fact Sheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/7a-Loan-Fact-Sheet-Borrower-Version.pdf">Download 7(a) Loan Program Factsheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/7a-Loan-Fact-Sheet-Borrower-Version.pdf">7(a) Loan Program Factsheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/504-Loan-Fact-Sheet-Borrower-Version.pdf">Download 504 Loan Program Factsheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/504-Loan-Fact-Sheet-Borrower-Version.pdf">504 Loan Program Factsheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Microloan-Fact-Sheet-Borrower.pdf">Download Microlending Factsheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Microloan-Fact-Sheet-Borrower.pdf">Microlending Factsheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Community-Advantage-Fact-Sheet-Borrower-Version.pdf">Download Community Advantage Factsheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Community-Advantage-Fact-Sheet-Borrower-Version.pdf">Community Advantage Factsheet</a></li>
+
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/OIT-International-Trade-factsheet.pdf">OIT Internation Trade Factsheet</a></li>
+
 </ul>
 
 
