@@ -40,7 +40,7 @@ Authorized SBA lenders can display these decals on their marketing materials/web
 
 <li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Community-Advantage-Fact-Sheet-Borrower-Version.pdf">Community Advantage Factsheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/OIT-International-Trade-factsheet.pdf">OIT Internation Trade Factsheet</a></li>
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/OIT-International-Trade-factsheet.pdf">Export Loan Programs Factsheet</a></li>
 
 </ul>
 
