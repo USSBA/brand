@@ -17,22 +17,29 @@ Please click [here](https://sba123.sharepoint.com/offices/OMCS/Documents/Index%2
 * [Word template](https://sba123.sharepoint.com/offices/OMCS/Pages/WordTemplate.aspx) for general communications
 * [PowerPoint template](https://sba123.sharepoint.com/offices/OMCS/Pages/PowerpointTemplate.aspx) in standard and widescreen formats for presentations
 * Instructions for how to create the SBA-approved [e-mail signature](https://sba123.sharepoint.com/offices/OMCS/Documents/EmailSignatureInstructions.docx)
-
+* Single-page and multiple-page [letterhead](https://sba123.sharepoint.com/offices/OMCS/Pages/Letterhead-Template.aspx) templates for employees who are drafting a document for external audiences
+* [Business cards templates](https://sba123.sharepoint.com/offices/OMCS/Pages/SBABusinessCards.aspx) are for employees who wish to order business cards at their own expense. SBA-provided cards need to be ordered through [Envision](https://envisionprintservices.com/).
+* [Name badges](https://sba123.sharepoint.com/offices/OMCS/Pages/SBANameBadge.aspx) and [table tent cards](https://sba123.sharepoint.com/offices/OMCS/Documents/Template/SBA-Table-Tent-v2.pdf) for identification at conferences and public events
+* [Certificate template](https://sba123.sharepoint.com/offices/OMCS/Documents/Index%20Page/What's%20New%20in%20Marketing/SBA-Certificate-FINAL-Editable.pdf) to recognize excellence or celebrate an achievement
 
 ### Communication to internal audiences 
 * [Internal Memo](https://sba123.sharepoint.com/offices/OMCS/Documents/Template/SBA-Memo-Template.docx) for employees who are drafting a notification to other SBA employees
 
 ### Communication to external audiences 
-* Single-page and multiple-page [letterhead](https://sba123.sharepoint.com/offices/OMCS/Pages/Letterhead-Template.aspx) templates for employees who are drafting a document for external audiences
-* [Business cards templates](https://sba123.sharepoint.com/offices/OMCS/Pages/SBABusinessCards.aspx) are for employees who wish to order business cards at their own expense. SBA-provided cards need to be ordered through [Envision](https://envisionprintservices.com/).
-* [Name badges](https://sba123.sharepoint.com/offices/OMCS/Pages/SBANameBadge.aspx) and [table tent cards](https://sba123.sharepoint.com/offices/OMCS/Documents/Template/SBA-Table-Tent-v2.pdf) for identification at conferences and public events
-* [Certificate template](https://sba123.sharepoint.com/offices/OMCS/Documents/Index%20Page/What's%20New%20in%20Marketing/SBA-Certificate-FINAL-Editable.pdf) to recognize excellence or celebrate an achievement
+
+#### General
 * [SBA Overview: Presenter’s Guide](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/Presenter's%20Guide%20-%20SBA%20Overview%20PPT%20-%20FINAL.pdf) features step-by-step detail on using and customizing the Overview presentation for the respective audience.
 * [SBA Overview: Presentation template](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/SBA%20Overview%20PPT%20-%20EDS%20Engagement%20Toolkit%20-%20v3%20-%209.18.18.pptx) which provides the base for any information session and presentation about the SBA and our offerings.
+
+#### Financing
+
 * [Lender PPT: Presenter’s Guide](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/Presenter's%20Guide_Lender%20PowerPoint_FINAL_11_6_2018.pdf) features step-by-step detail on using and customizing the presentation for the respective financial institution.
 * [Lender PPT: Presentation template](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/Lender%20Presentation_FINAL_11_5_2018.pptx) which is designed for Lender Relations Specialists to use after initial contact with a potential new or inactive SBA lender.
 * [Lender Match video](https://www.youtube.com/watch?v=coOBmCozDkI) is a 1-minute overview of SBA's free online referral tool that connects small businesses with participating SBA-approved lenders.  (<a 
 href="{{ site.baseurl }}/assets/sba/video/lender-match.zip">Download Video</a>)
+
+#### Government Contracting
+
 * [Presenters Guide: Small Business Federal Government Contracting Certifications](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/PresentersGuide-SmallBusinessFedGovContractingCertifications.docx) - features step-by-step detail on using and customizing the presentation for local business owners, entrepreneurs and contract offices.
 * [Government Contracting Certifications PPT](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/SmallBusinessFederalGovernmentContractingCertifications.pptx): designed for the Business Opportunity Specialists to provide a general overview of Small Business Federal Government Contracting Certifications.
 
