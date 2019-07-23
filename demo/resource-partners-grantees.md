@@ -79,6 +79,15 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	</li>
 </ul>
 
+#### Scorecard Factsheets
+<ul>
+<li><a href="">Record breaking small business prime contracting dollars</a></li>
+<li><a href="https://www.sba.gov/document/support--woman-owned-small-business-prime-contracting-factsheet">Woman-Owned Small Business prime contracting</a></li>
+<li><a href="https://www.sba.gov/document/support--hubzone-small-business-prime-contracting-factsheet">HUBZone small business prime contracting</a></li>
+<li><a href="https://www.sba.gov/document/support--small-disadvantaged-business-federal-prime-contracting-factsheet">Small Disadvantaged Business federal prime contracting</a></li>
+<li><a href="https://www.sba.gov/document/support--service-disabled-veteran-owned-small-business-prime-contracting-factsheet">Service-Disabled Veteran-Owned Small Business prime contracting</a></li>
+</ul>
+
 
 ### Counseling & training
 <ul>
