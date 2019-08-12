@@ -47,4 +47,13 @@ href="{{ site.baseurl }}/assets/sba/video/lender-match.zip">Download Video</a>)
 
 * [Marketing and Selling PPT](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/MarketingandSelling-FederalGovernment.pptx): designed for the Business Opportunity Specialist to provide a general overview on federal contracting to business owners who are considering federal contracting as a new market.
 
+* [GSA for Small Businesses PPT](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/GSA%20for%20Small%20Businesses_Final_508.pptx) - designed for the Business Opportunity Specialist to provide small business owners with information to help them decide whether to pursue a GSA Schedule and other multiple awards and how to start.
+
+* [How to Become a Federal Government Small Business Subcontractor PPT](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/How%20to%20Become%20a%20Federal%20Government%20Small%20Business%20(SB)%20Subcontractor_Final%20508.pptx) - designed for the Business Opportunity Specialist to provide specific tactics to small businesses just getting started in federal contracting; which will better position themselves to win subcontracting opportunities.
+
+* [Strategic Marketing for Federal Government Contracting PPT](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/Strategic%20Marketing%20for%20Federal%20Government%20Contracting-Final%20508.pptx) - designed for the Business Opportunity Specialist to provide interested business owners with specific tactics on how to market themselves in the federal contracting market.
+
+* [Federal Solicitations – Should You Respond](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/Federal%20Solicitations%20-%20Should%20You%20Respond%20-%20Final%20508.pptx) - designed for the Business Opportunity Specialist to give an educational overview of how to approach federal contracting opportunities so business owners can make a more educated decision on where to spend their time.
+
+
 For suggestions for additional templates, please contact [Paula Tavares](mailto:paula.tavares@sba.gov), Director of Brand Management.
