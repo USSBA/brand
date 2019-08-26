@@ -121,11 +121,11 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/VBOC-Factsheet.pdf">Veterans Business Development Overview Factsheet</a></li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/OVBD-101.pdf">Veterans Business Development Overview Factsheet</a></li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/B2B-Factsheet.pdf">Boots to Business Overview Factsheet</a></li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/OVBD-101.pdf">Veterans Business Outreach Center Program Factsheet</a></li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/VBOC-Factsheet.pdf">Veterans Business Outreach Center Program Factsheet</a></li>
 </ul>
 
 
