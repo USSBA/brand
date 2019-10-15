@@ -42,6 +42,8 @@ Authorized SBA lenders can display these decals on their marketing materials/web
 
 <li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/OIT-International-Trade-factsheet.pdf">Export Loan Programs Factsheet</a></li>
 
+<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/STEP-funds-factsheet.pdf">STEP Funds Factsheet</a></li>
+
 </ul>
 
 
