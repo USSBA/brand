@@ -109,6 +109,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet.pdf">Disaster Preparedness Factsheet</a>
 	</li>
 	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/disaster-mitigation-factsheet.pdf">Disaster Mitigation Factsheet</a>
+	</li>
+	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits.pdf">Disaster Assistance Loans: Businesses & Nonprofits</a>
 	</li>
 	<li>
