@@ -39,10 +39,7 @@ Downloadable Financing and Government Procurement Fact Sheets.  Review the guida
 
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">Government Contracting Overview Factsheet (English)</a>
-	</li>
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Government Contracting Overview Factsheet (Spanish)</a>
+		Government Contracting Overview Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Spanish</a>)
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/7j-fact-sheet-2019.pdf">7j Management and Technical Assistance</a>
