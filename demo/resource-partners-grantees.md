@@ -2,6 +2,7 @@
 title: Resource Partners/Grantees
 permalink: /external-partners/resource-partners-grantees/
 
+
 layout: page
 sidenav:
   - text: Resource Partners / Grantees
@@ -31,30 +32,21 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/powered-by-decals.zip">Decals</a>
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">SBA Brochure (English)</a>
-	</li>
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">SBA Brochure (Spanish)</a>
+		SBA Brochure (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">Spanish</a>)
 	</li>
 </ul>
 
 ### SBA funding programs
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-508_MCS0092.pdf">Funding 101 Factsheet (English)</a>
-	</li>
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.pdf">Funding 101 Factsheet (Spanish)</a>
+		Funding 101 Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-508_MCS0092.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.pdf">Spanish</a>)
 	</li>
 </ul>
 
 ### Government contracting
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">Government Contracting Overview Factsheet (English)</a>
-	</li>
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Government Contracting Overview Factsheet (Spanish)</a>
+		Government Contracting Overview Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Spanish</a>)
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/7j-fact-sheet-2019.pdf">7j Management and Technical Assistance</a>
@@ -92,10 +84,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 ### Counseling & training
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-508_MCS0090.pdf">Resource Partner Network Factsheet (English)</a>
-	</li>
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish-508.pdf">Resource Partner Network Factsheet (Spanish)</a>
+		Resource Partner Network Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-508_MCS0090.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish-508.pdf">Spanish</a>)
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Emerging Leaders 2019</a>
@@ -106,19 +95,19 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 ### Disaster Assistance
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet.pdf">Disaster Preparedness Factsheet</a>
+		Disaster Preparedness Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet-sp.pdf">Spanish</a>)
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/disaster-mitigation-factsheet.pdf">Disaster Mitigation Factsheet</a>
+		Disaster Mitigation Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/disaster-mitigation-factsheet.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/disaster-mitigation-factsheet-sp.pdf">Spanish</a>)
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits.pdf">Disaster Assistance Loans: Businesses & Nonprofits</a>
+		Disaster Assistance Loans: Businesses & Nonprofits (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits-sp.pdf">Spanish</a>)
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Homeowners-Renters.pdf">Disaster Assistance Loans: Homeowners & Renters</a>
+		Disaster Assistance Loans: Homeowners & Renters (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Homeowners-Renters.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Homeowners-Renters-sp.pdf">Spanish</a>)
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact.pdf">Disaster Assistance Loans: Community Impact</a>
+		Disaster Assistance Loans: Community Impact (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact-sp.pdf">Spanish</a>)
 	</li>
 </ul>
 
