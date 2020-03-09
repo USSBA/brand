@@ -7,6 +7,134 @@ layout: page
 
 # Core Materials
 
+## Fact Sheets
+
+### General materials
+
+<ul>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/powered-by-decals.zip">Decals</a>
+	</li>
+	<li>
+		SBA Brochure (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">Spanish</a>)
+	</li>
+</ul>
+
+### SBA funding programs
+<ul>
+	<li>
+		Funding 101 Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-508_MCS0092.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.pdf">Spanish</a>)
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-lenders.pdf">Export Working Capital - Lenders</a>
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-specialists.pdf">International Trade Specialists (Promo)</a>
+	</li>
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-loans-lenders.pdf">International Trade Loans - Lenders</a>
+	</li>
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-indirect-exporters-borrowers.pdf">Indirect Exporters - Borrowers</a>
+	</li>
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-loans-borrowers.pdf">International Trade Loans - Borrowers</a>
+	</li>
+</ul>
+
+### Government contracting
+<ul>
+	<li>
+		Government Contracting Overview Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Spanish</a>)
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/7j-fact-sheet-2019.pdf">7j Management and Technical Assistance</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-2019.pdf">8a Business Development</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet-2019.pdf">HUBZone Program Factsheet</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hz-program-improvements-faq.pdf">HUBZone Program Improvements: FAQs</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/mentor-protege-fact-sheet-2019.pdf">Mentor-Protégé Program</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/national-procurement-assistance-fact-sheet-2019.pdf">National Procurement Assistance</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/woman-owned-fact-sheet-2019.pdf">Women-Owned Small Business (WOSB) Factsheet</a>
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-postcard.pdf">Women-Owned Small Business (WOSB) Postcard</a>
+	</li>
+
+	
+</ul>
+
+#### Scorecard Factsheets
+<ul>
+<li><a href="https://www.sba.gov/document/support--record-breaking-small-business-prime-contracting-dollars-factsheet">Record breaking small business prime contracting dollars</a></li>
+<li><a href="https://www.sba.gov/document/support--woman-owned-small-business-prime-contracting-factsheet">Woman-Owned Small Business prime contracting</a></li>
+<li><a href="https://www.sba.gov/document/support--hubzone-small-business-prime-contracting-factsheet">HUBZone small business prime contracting</a></li>
+<li><a href="https://www.sba.gov/document/support--small-disadvantaged-business-federal-prime-contracting-factsheet">Small Disadvantaged Business federal prime contracting</a></li>
+<li><a href="https://www.sba.gov/document/support--service-disabled-veteran-owned-small-business-prime-contracting-factsheet">Service-Disabled Veteran-Owned Small Business prime contracting</a></li>
+</ul>
+
+
+### Counseling & training
+<ul>
+	<li>
+		Resource Partner Network Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-508_MCS0090.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish-508.pdf">Spanish</a>)
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Emerging Leaders 2019</a>
+	</li>
+</ul>
+
+
+### Disaster Assistance
+<ul>
+	<li>
+		Disaster Preparedness Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet-sp.pdf">Spanish</a>)
+	</li>
+	<li>
+		Disaster Mitigation Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/disaster-mitigation-factsheet.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/disaster-mitigation-factsheet-sp.pdf">Spanish</a>)
+	</li>
+	<li>
+		Disaster Assistance Loans: Businesses & Nonprofits (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits-sp.pdf">Spanish</a>)
+	</li>
+	<li>
+		Disaster Assistance Loans: Homeowners & Renters (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Homeowners-Renters.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Homeowners-Renters-sp.pdf">Spanish</a>)
+	</li>
+	<li>
+		Disaster Assistance Loans: Community Impact (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact-sp.pdf">Spanish</a>)
+	</li>
+</ul>
+
+
+###  Veterans Business Development
+
+<ul>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/OVBD-101.pdf">Veterans Business Development Overview Factsheet</a></li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/B2B-Factsheet.pdf">Boots to Business Overview Factsheet</a></li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/VBOC-Factsheet.pdf">Veterans Business Outreach Center Program Factsheet</a></li>
+</ul>
+
+
+
 ## Promoting a unified identity
 
 These SBA templates ensure that we communicate a professional image and a consistent, unified identity. SBA employees can download the templates on the SBA intranet, which requires you to log in to the Sharepoint Employee Gateway.
