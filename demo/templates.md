@@ -30,16 +30,16 @@ layout: page
 	</li>
 		<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-specialists.pdf">International Trade Specialists (Promo)</a>
-	</li>
+	
 	</li>
 		<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-loans-lenders.pdf">International Trade Loans - Lenders</a>
 	</li>
-	</li>
+	
 		<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-indirect-exporters-borrowers.pdf">Indirect Exporters - Borrowers</a>
 	</li>
-	</li>
+	
 		<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-loans-borrowers.pdf">International Trade Loans - Borrowers</a>
 	</li>
