@@ -41,6 +41,25 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		Funding 101 Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-508_MCS0092.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.pdf">Spanish</a>)
 	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-lenders.pdf">Export Working Capital - Lenders</a>
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-specialists.pdf">International Trade Specialists (Promo)</a>
+	</li>
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-loans-lenders.pdf">International Trade Loans - Lenders</a>
+	</li>
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-indirect-exporters-borrowers.pdf">Indirect Exporters - Borrowers</a>
+	</li>
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-loans-borrowers.pdf">International Trade Loans - Borrowers</a>
+	</li>
+
 </ul>
 
 ### Government contracting
@@ -55,7 +74,10 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-2019.pdf">8a Business Development</a>
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet-2019.pdf">HUBZone Program</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet-2019.pdf">HUBZone Program Factsheet</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hz-program-improvements-faq.pdf">HUBZone Program Improvements: FAQs</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
@@ -67,8 +89,13 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/national-procurement-assistance-fact-sheet-2019.pdf">National Procurement Assistance</a>
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/woman-owned-fact-sheet-2019.pdf">Women-Owned Business</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/woman-owned-fact-sheet-2019.pdf">Women-Owned Small Business (WOSB) Factsheet</a>
 	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-postcard.pdf">Women-Owned Small Business (WOSB) Postcard</a>
+	</li>
+
+	
 </ul>
 
 #### Scorecard Factsheets
