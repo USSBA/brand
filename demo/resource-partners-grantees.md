@@ -25,6 +25,7 @@ Resource partners and grantees can print copies of SBA’s marketing materials t
 
 Authorized SBA Resource Partners and grantees can display these decals on their marketing materials/websites and can order window decals of these designs from their local SBA District office. <strong>Note:  these decals are not approved for use by anyone other than authorized SBA Resource Partners and grantees.</strong> Review Guidance prior to use.
 
+
 ### General materials
 
 <ul>
@@ -33,6 +34,12 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	</li>
 	<li>
 		SBA Brochure (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">Spanish</a>)
+	</li>
+</ul>
+
+### Coronavirus (COVID-19)
+<ul>
+<li>SBA Disaster Assistance in Response to the Coronavirus (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Resources-for-Businesses.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/Asistencia-de-Desastre-de-la-SBA-en-Respuesta-al-Coronavirus.pdf">Spanish</a>)
 	</li>
 </ul>
 
