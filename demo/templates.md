@@ -105,7 +105,7 @@ layout: page
 		Resource Partner Network Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-508_MCS0090.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish-508.pdf">Spanish</a>)
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Emerging Leaders 2019</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Emerging Leaders 2020</a>
 	</li>
 </ul>
 

@@ -101,6 +101,10 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-postcard.pdf">Women-Owned Small Business (WOSB) Postcard</a>
 	</li>
+	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Opportunity-Zone-Business-Eligibility-Factsheet-static.pdf">Opportunity Zone Business Eligibility Factsheet</a>
+	</li>
 
 	
 </ul>
@@ -121,7 +125,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		Resource Partner Network Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-508_MCS0090.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish-508.pdf">Spanish</a>)
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Emerging Leaders 2019</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Emerging Leaders 2020</a>
 	</li>
 </ul>
 
