@@ -81,7 +81,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-2019.pdf">8a Business Development</a>
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet-2019.pdf">HUBZone Program Factsheet</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet.pdf">HUBZone Program Factsheet</a>
 	</li>	
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone_WhatsNew_factsheet_508.pdf">HUBZone Program Improvements Factsheet</a>
