@@ -89,6 +89,10 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hz-program-improvements-faq.pdf">HUBZone Program Improvements: FAQs</a>
 	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone-COVID19-factsheet-508-v2.pdf">HUBZone COVID-19 Factsheet</a>
+	</li>
+	
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
 	</li>
