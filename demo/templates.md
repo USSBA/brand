@@ -82,7 +82,11 @@ layout: page
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/woman-owned-fact-sheet-2019.pdf">Women-Owned Small Business (WOSB) Factsheet</a>
 	</li>
-<!--		<li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-ProgramOverview.pptx">Women-Owned Small Business (WOSB) Program Overview</a>
+	</li>
+	
+	<!--		<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-postcard.pdf">Women-Owned Small Business (WOSB) Postcard</a>
 	</li>-->
 
