@@ -105,9 +105,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/woman-owned-fact-sheet-2019.pdf">Women-Owned Small Business (WOSB) Factsheet</a>
 	</li>
-<!--	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-postcard.pdf">Women-Owned Small Business (WOSB) Postcard</a>
-	</li>-->
+<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-infographic.jpg">Infographic:  Changes on the Way-Are you WOSB Ready</a>
+	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Opportunity-Zone-Business-Eligibility-Factsheet-static.pdf">Opportunity Zone Business Eligibility Factsheet</a>
 	</li>
