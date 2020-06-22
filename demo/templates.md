@@ -71,6 +71,12 @@ layout: page
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hz-program-improvements-faq.pdf">HUBZone Program Improvements: FAQs</a>
 	</li>
 	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone-infographic.jpg">Infographic: Building a Better HUBZone</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HZ-MasterPPT-Toolkit.pptx">General HUBZone Overview Powerpoint; Including New Rule Guidance </a>
+	</li>
+	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
 	</li>
 	<li>
