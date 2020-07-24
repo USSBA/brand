@@ -30,7 +30,7 @@ Authorized SBA lenders can display these decals on their marketing materials/web
 <ul>
 <li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/ESOP_Borrower_Fact_Sheet.pdf">ESOP Borrower Fact Sheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Lender-Match-Fact-Sheet-Borrower-Version.pdf">Lender Match Fact Sheet</a></li>
+<li>Lender Match Fact Sheet (<a href="{{ site.baseurl }}/assets/sba/sba-lenders/Lender-Match-Fact-Sheet-Borrower-Version.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/sba-lenders/Lender-Match-Fact-Sheet-Borrower-Version-Spanish.pdf">Spanish</a>)</li>
 
 <li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/7a-Loan-Fact-Sheet-Borrower-Version.pdf">7(a) Loan Program Factsheet</a></li>
 
