@@ -155,10 +155,10 @@ layout: page
 
 ## Promoting a unified identity
 
-These SBA templates ensure that we communicate a professional image and a consistent, unified identity. SBA employees can download the templates on the SBA intranet, which requires you to log in to the Sharepoint Employee Gateway.
+SBA templates ensure that we communicate a professional image and a consistent, unified identity. SBA employees can download the templates on [SBA’s Office of Marketing & Customer Service intranet site](https://sba123.sharepoint.com/offices/OMCS/Pages/default.aspx) for best practices on how to effectively communicate your message.
 
-Please click [here](https://sba123.sharepoint.com/offices/OMCS/Documents/Index%20Page/Need%20Help%20Developing%20Materials/SBA%20Brand%20Training%20for%20Program%20Offices%20Update-4.pdf) for best practices on how to effectively communicate your message.
 
+<!--
 ### Standard templates
 * [Word template](https://sba123.sharepoint.com/offices/OMCS/Pages/WordTemplate.aspx) for general communications
 * [PowerPoint template](https://sba123.sharepoint.com/offices/OMCS/Pages/PowerpointTemplate.aspx) in standard and widescreen formats for presentations
@@ -200,6 +200,6 @@ href="{{ site.baseurl }}/assets/sba/video/lender-match.zip">Download Video</a>)
 * [Strategic Marketing for Federal Government Contracting PPT](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/Strategic%20Marketing%20for%20Federal%20Government%20Contracting-Final%20508.pptx) - designed for the Business Opportunity Specialist to provide interested business owners with specific tactics on how to market themselves in the federal contracting market.
 
 * [Federal Solicitations – Should You Respond](https://sba123.sharepoint.com/offices/OMCS/Documents/Program%20Specific%20Materials/Federal%20Solicitations%20-%20Should%20You%20Respond%20-%20Final%20508.pptx) - designed for the Business Opportunity Specialist to give an educational overview of how to approach federal contracting opportunities so business owners can make a more educated decision on where to spend their time.
-
+-->
 
 For suggestions for additional templates, please contact [Paula Tavares](mailto:paula.tavares@sba.gov), Director of Brand Management.
