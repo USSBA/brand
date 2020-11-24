@@ -41,7 +41,7 @@ SBA Resource Partners cannot use the logo except as authorized by the Agency in 
 When the SBA’s logo is used by an outside party, the Agency’s role in the activity and its relationship to that outside party must be clear. For example, include the phrase “Funds Guaranteed by the SBA” when a business posts a sign announcing an expansion or new location. Use of the Agency’s logo cannot imply an endorsement or preferential treatment, or suggest a relationship that does not exist. When uncertain as to the appropriate use of the Agency’s logo, contact OMCS for guidance.
 
 <strong>Contractors</strong><br/>
-SBA contractors or grantees should use the logo only in the manner prescribed in their cooperative agreement.
+SBA contractors or grantees should use the logo only in the manner prescribed in their contract or cooperative agreement.
 
 <strong>Cobranding</strong><br/>
 Cobranded publications should display the SBA logo in the primary position, which is in the upper left of the page or cover, above other logos. When grouped with other logos, the SBA logo should be in the first position on the left. It should be comparable in size to any other logos on the page. Only logos of entities participating in the cosponsored activity, those appearing in the original cosponsorship agreement or subsequently joindered into the agreement, may cobrand with the SBA.
