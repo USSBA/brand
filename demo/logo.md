@@ -38,7 +38,7 @@ The SBA logo and mark are for official governmental use and any alteration, dist
 SBA Resource Partners cannot use the logo except as authorized by the Agency in connection with a cosponsorship agreement.
 
 <strong>Outside party</strong><br/>
-When the SBA’s logo is used by an outside party, the Agency’s role in the activity and its relationship to that outside party must be clear. For example, include the phrase “Funds Guaranteed by the SBA” when a business posts a sign announcing an expansion or new location. Use of the Agency’s logo cannot imply an endorsement or preferential treatment, or suggest a relationship that does not exist. When uncertain as to the appropriate use of the Agency’s logo, contact OMCS for guidance.
+When the SBA’s logo is used by an outside party, the Agency’s role in the activity and its relationship to that outside party must be clear. For example, include the phrase “Funds Guaranteed by the SBA” when a business posts a sign announcing an expansion or new location. Use of the Agency’s logo cannot imply an endorsement or preferential treatment, or suggest a relationship that does not exist. When uncertain as to the appropriate use of the Agency’s logo, contact OMCS for guidance by emailing marketinghq@sba.gov.
 
 <strong>Contractors</strong><br/>
 SBA contractors or grantees should use the logo only in the manner prescribed in their cooperative agreement or contract.
@@ -48,7 +48,8 @@ Cobranded publications should display the SBA logo in the primary position, whic
 
 Non-program cosponsored materials should incorporate the SBA identity as prominent, and dominate lower left position is preferred.
 
-
+## Alternative Text
+Alternative text provides a description of non-text content for screen reader users and at times for all users when images do not load. The SBA logo alternative text should be: U.S. Small Business Administration
 
 ## Lockups
 
