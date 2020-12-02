@@ -1,12 +1,12 @@
 ---
 title: Resource Partners/Grantees
-permalink: /external-partners/resource-partners-grantees/
+permalink: /for-partners/resource-partners-grantees/
 
 
 layout: page
 sidenav:
   - text: Resource Partners / Grantees
-    href: '/external-partners/resource-partners-grantees/'
+    href: '/for-partners/resource-partners-grantees/'
   - text: USDA Partners
     href: '/external-partners/usda-partners/'
   - text: SBA Lenders
