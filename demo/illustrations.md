@@ -20,14 +20,14 @@ sidenav:
 
 # Illustrations and iconography
 
-Illustrations and iconography are great tools to visually represent complex ideas thereby making them more accessible. They should not be used as just decoration and require some thought and strategy when using them.
+Illustrations and iconography are great tools to visually represent complex ideas. However, they require some thought and strategy when using them. Illustrations should not be used solely for decoration.
 
-Our illustration and iconography style is clean, modern, playful but still professional, and a touch dynamic. They should work well on a white or very light gray background.
+Our illustration and iconography style is clean, modern, playful but still professional, and a touch dynamic. It should work well on a white or very light gray background.
 
-You can download the icons which SBA has developed and approved [here](https://sba123.sharepoint.com/offices/OMCS/Documents/Forms/AllItems.aspx?RootFolder=%2Foffices%2FOMCS%2FDocuments%2FBrand%20Icons&FolderCTID=0x012000BBD3D74ACCE4C342A5321E8615767791&View=%7B48C5815D-F2B3-42B3-B504-7D837B3B5ED8%7D).
+SBA staff and contractors can download [illustrations and icons](https://sba123.sharepoint.com/offices/OMCS/Documents/Forms/AllItems.aspx?RootFolder=%2Foffices%2FOMCS%2FDocuments%2FBrand%20Icons&FolderCTID=0x012000BBD3D74ACCE4C342A5321E8615767791&View=%7B48C5815D-F2B3-42B3-B504-7D837B3B5ED8%7D) that SBA developed and approved.
 
 
-## Guidelines for illustration and iconography aesthetics
+## Aesthetic guidelines
 
 ### Perspective
 Illustrations and icons should be portrayed from one perspective, either the front or the top, giving it a flat appearance.
@@ -49,7 +49,7 @@ Illustrations and icons should be portrayed from one perspective, either the fro
       <h3>Fills</h3>
       <p>Fills are #007dbc (Secondary Blue).</p>
 
-      <p>Try to utilize as much white fills as possible unless the illustration gets too boring, then start filling with Secondary Blue to add interest.</p>
+      <p>Try to use as much white fills as possible unless the illustration becomes boring, then start filling with Secondary Blue to add interest.</p>
     </div>
 <div class="usa-width-one-third">
 <img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/bag.svg" alt="illustration" />
@@ -60,7 +60,7 @@ Illustrations and icons should be portrayed from one perspective, either the fro
 <div class="usa-grid-full">
     <div class="usa-width-two-thirds">
       <h3>Highlights</h3>
-      <p>If an object is solid and filled in with Secondary Blue, leave a 3pt-ish white highlight along left edge of it to convey a highlight.</p>
+      <p>If an object is solid and filled in with Secondary Blue, leave a 3pt-ish white highlight along the left edge of it to convey a highlight.</p>
     </div>
 <div class="usa-width-one-third">
 <img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/federal-building.svg" alt="illustration" />
@@ -96,7 +96,7 @@ Illustrations and icons should be portrayed from one perspective, either the fro
 <div class="usa-grid-full">
     <div class="usa-width-two-thirds">
       <h3>Style exceptions</h3>
-      <p><strong>US flag imagery:</strong>
+      <p><strong>U.S. flag imagery:</strong>
       Follow the above style rules but also use #cc0000 (SBA Red) for the red stripes.</p>
     </div>
 <div class="usa-width-one-third">
@@ -104,4 +104,15 @@ Illustrations and icons should be portrayed from one perspective, either the fro
 </div>
 </div>
 
+## Tints of Secondary Colors in Illustration and Iconography
 
+Tints of secondary colors are permitted only in illustrations and iconography on SBA.gov to add depth and dimension. Color palette combinations should be used sparingly and must be color contrast accessible. Primary colors should be predominant.
+
+Tints:
+Hex	#a5c6e0
+Hex	#a8c4b1
+Hex	#fbedb2
+Hex	#c5c4c4
+
+<strong>Example of Tinted Secondary Colors within Illustrations</strong>
+<img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/Secondary%20Tints.jpg" alt="illustration" />
