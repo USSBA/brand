@@ -123,19 +123,19 @@ layout: page
 ### Disaster Assistance
 <ul>
 	<li>
-		Disaster Preparedness Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet-sp.pdf">Spanish</a>)
+		Disaster Preparedness Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet-sp.pdf">Spanish</a>)
 	</li>
 	<li>
-		Disaster Mitigation Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/disaster-mitigation-factsheet.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/disaster-mitigation-factsheet-sp.pdf">Spanish</a>)
+		Disaster Mitigation Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/disaster-mitigation-factsheet-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/disaster-mitigation-factsheet-sp.pdf">Spanish</a>)
 	</li>
 	<li>
-		Disaster Assistance Loans: Businesses & Nonprofits (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits-sp.pdf">Spanish</a>)
+		Disaster Assistance Loans: Businesses & Nonprofits (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Businesses-Nonprofits-sp.pdf">Spanish</a>)
 	</li>
 	<li>
-		Disaster Assistance Loans: Homeowners & Renters (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Homeowners-Renters.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Homeowners-Renters-sp.pdf">Spanish</a>)
+		Disaster Assistance Loans: Homeowners & Renters (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Homeowners-Renters-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Homeowners-Renters-sp.pdf">Spanish</a>)
 	</li>
 	<li>
-		Disaster Assistance Loans: Community Impact (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact-sp.pdf">Spanish</a>)
+		Disaster Assistance Loans: Community Impact (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact-sp.pdf">Spanish</a>)
 	</li>
 </ul>
 
