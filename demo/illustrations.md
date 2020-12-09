@@ -102,7 +102,8 @@ Illustrations and icons should be portrayed from one perspective, either the fro
 <div class="usa-width-one-third">
 <img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/Red-Usage.svg" alt="illustration" />
   </div>
-  
+  </div>
+<div class="usa-grid-full">
   <div class="usa-width-two-thirds">
      <p><strong>SBA Green:</strong>
      #197e4e (Secondary Green) and #a8c4b1 (Secondary Tinted Green) should be reserved for objects that are naturally green, including trees and money.</p>
