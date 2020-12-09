@@ -1,12 +1,12 @@
 ---
 title: Resource Partners/Grantees
-permalink: /external-partners/resource-partners-grantees/
+permalink: /for-partners/resource-partners-grantees/
 
 
 layout: page
 sidenav:
   - text: Resource Partners / Grantees
-    href: '/external-partners/resource-partners-grantees/'
+    href: '/for-partners/resource-partners-grantees/'
   - text: USDA Partners
     href: '/external-partners/usda-partners/'
   - text: SBA Lenders
@@ -107,7 +107,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/national-procurement-assistance-fact-sheet-2019.pdf">National Procurement Assistance</a>
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/woman-owned-fact-sheet-2019.pdf">Women-Owned Small Business (WOSB) Factsheet</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-FactSheet-WOSB Ready-508.pdf">Women-Owned Small Business (WOSB) Factsheet</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-infographic.jpg">Infographic:  Changes on the Way-Are you WOSB Ready</a>

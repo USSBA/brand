@@ -5,7 +5,7 @@ permalink: /external-partners/usda-partners/
 layout: page
 sidenav:
   - text: Resource Partners / Grantees
-    href: '/external-partners/resource-partners-grantees/'
+    href: '/for-partners/resource-partners-grantees/'
   - text: USDA Partners
     href: '/external-partners/usda-partners/'
   - text: SBA Lenders

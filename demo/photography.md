@@ -20,10 +20,10 @@ sidenav:
 
 # Photography
 
-Photography can be used to really grab people's attention, so we recommend you use it strategically and for the most important pieces of content. Photography can help humanize print and web collateral, invoking emotional responses from the viewers and making the SBA seem more relatable. 
+Photography can be used to really grab people's attention, so we recommend you use it strategically and for the most important pieces of content. Photography can help humanize print and web collateral, invoking emotional responses from users and making SBA seem more relatable. 
 
 ## SBA imagery
-OCPL has access to royalty-free photos and photographs of local entrepreneurs appropriate for use in marketing materials, find the SBA Photo Database [here](https://sba123.sharepoint.com/offices/OMCS/Pages/default.aspx). For help with finding images from either the royalty-free photos or the OMCS photo database, contact OMCS at [marketinghq@sba.gov](mailto:marketinghq@sba.gov).
+OCPL has access to royalty-free photos and photographs of local entrepreneurs appropriate for use in marketing materials. SBA employees and contractors can access the [SBA Photo Database](https://sba123.sharepoint.com/sites/omcs/SitePages/Home.aspx). For help with finding images from either the royalty-free photos or the OMCS photo database, contact OMCS at [marketinghq@sba.gov](mailto:marketinghq@sba.gov).
 
 <ul>
   <li>

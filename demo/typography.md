@@ -98,22 +98,26 @@ sidenav:
 To support a more contemporary web and print design aesthetics, please adhere to the following font pairings.
 
 
-# Heading 1 - Source San Pro Regular or Semibold
-## Heading 2 - Source San Pro Regular or Semibold
-### Heading 3 - Source San Pro Semibold
-#### Heading 4 - Source San Pro Semibold
+# Heading 1 - Source Sans Pro Regular or Semibold
+## Heading 2 - Source Sans Pro Regular or Semibold
+### Heading 3 - Source Sans Pro Semibold
+#### Heading 4 - Source Sans Pro Semibold
 ##### Lede paragraph - Merriweather Regular or Light Italic
 
-Body copy - Souce sans pro regular
+Body copy - Source Sans Pro Regular
 
 ## Readability and accessibility
 
 Readable text allows users to efficiently read and take in textual information. Text that is not readable turns off readers or makes it challenging for them to stay focused. The following guidelines promote good readability and 508 accessibility compliance:
 
+<strong>Readability</strong>
 <ul>
   <li>Text should never be smaller than 13pt.</li>
-  <li>Only use colors #002e6d (sba-blue), #1b1e29 (black), or #686868 (dark-gray) to for main text. Inversely, you can use white text on a sba-blue, black, or dark-gray backrounds.</li>
   <li>Make sure there is a big enough size contrast between headings and main text (i.e. Headings can be 27pt and main text can be 14pt).</li>
 </ul>
 
-
+<strong>Accessibility</strong>
+<ul>
+  <li>Only use colors #002e6d (sba-blue), #1b1e29 (black), or #686868 (dark-gray) to for main text. Inversely, you can use white text on a sba-blue, black, or dark-gray backrounds.</li>
+  <li>Do not use #969696 (palette-gray) for text or as a background behind white text.</li>
+  </ul>

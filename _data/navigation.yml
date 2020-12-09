@@ -46,10 +46,10 @@ primary:
         href: '/visual-identity/photography/'
   - text: Videos
     href: /videos/
-  - text: External Partner Resources
+  - text: For SBA Partners
     links:
       - text: Resource Partners / Grantees
-        href: /external-partners/resource-partners-grantees/
+        href: /for-partners/resource-partners-grantees/
       - text: USDA Partners
         href: /external-partners/usda-partners/
       - text: SBA Lenders
@@ -88,6 +88,6 @@ footer:
     href: /templates/
   - text: Press kit
     href: /press-kit/
-  - text: External Partner Resources
+  - text: For SBA Partners
     href: /external-partners/
     

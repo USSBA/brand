@@ -28,8 +28,11 @@ SBA’s color palette is designed to embody the spirit of American entrepreneurs
 
 
 Using red, white, blue, and grey as the anchor colors, the color palette gives SBA’s brand a patriotic feel and subtly signals SBA’s position as a federal agency. Additionally, blue is traditionally used in business communications to convey trust, confidence, and credibility, and thus will resonate with small business owners. Red is an energy color and captures the passion and enthusiasm that characterizes many entrepreneurs. White allows the eye to rest, and grey lends a modern feel while providing a neutral backdrop for imagery and graphic elements. 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> master
 
 ### Accessibility
 <ul>
@@ -37,7 +40,10 @@ Using red, white, blue, and grey as the anchor colors, the color palette gives S
     <li> All font and/background color combinations must at least meet the WCAG AA level contrast ratio for that text size. For more information, visit <a href=" https://webaim.org/resources/contrastchecker">WebAIM's Contrast Checker</a>.</li>
   </ul>
 
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> master
 <br/><br/>
 
 
