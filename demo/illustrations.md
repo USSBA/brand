@@ -100,7 +100,7 @@ Illustrations and icons should be portrayed from one perspective, either the fro
      #cc0000 (SBA Red) should be reserved for website “call-to-action” CTA buttons on SBA.gov, the red stripes on the American Flag, and illustrations or iconography that feature hearts or alerts.</p>
     </div>
 <div class="usa-width-one-third">
-<img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/Red-Usage.svg" alt="illustration" />
+<img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/Red-Usage.svg" alt="illustration" /><br/><br/>
   </div>
   </div>
 <div class="usa-grid-full">
