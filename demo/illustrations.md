@@ -94,13 +94,22 @@ Illustrations and icons should be portrayed from one perspective, either the fro
 <hr>
 
 <div class="usa-grid-full">
-    <div class="usa-width-two-thirds">
+   <div class="usa-width-two-thirds">
       <h3>Style exceptions</h3>
-      <p><strong>U.S. flag imagery:</strong>
-      Follow the above style rules but also use #cc0000 (SBA Red) for the red stripes.</p>
+      <p><strong>SBA Red:</strong>
+     #cc0000 (SBA Red) should be reserved for website “call-to-action” CTA buttons on SBA.gov, the red stripes on the American Flag, and illustrations or iconography that feature hearts or alerts.</p>
     </div>
 <div class="usa-width-one-third">
-<img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/us-flag.svg" alt="illustration" />
+<img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/Red-Usage.svg" alt="illustration" /><br/><br/>
+  </div>
+  </div>
+<div class="usa-grid-full">
+  <div class="usa-width-two-thirds">
+     <p><strong>SBA Green:</strong>
+     #197e4e (Secondary Green) and #a8c4b1 (Secondary Tinted Green) should be reserved for objects that are naturally green, including trees and money.</p>
+    </div>    
+<div class="usa-width-one-third">
+<img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/Green-Usage.svg" alt="illustration" />
 </div>
 </div>
 
@@ -108,11 +117,12 @@ Illustrations and icons should be portrayed from one perspective, either the fro
 
 Tints of secondary colors are permitted only in illustrations and iconography on SBA.gov to add depth and dimension. Color palette combinations should be used sparingly and must be color contrast accessible. Primary colors should be predominant.
 
-Tints:
-Hex	#a5c6e0
-Hex	#a8c4b1
-Hex	#fbedb2
-Hex	#c5c4c4
+
+<p>Tints: </p>
+<p>Hex	#a5c6e0</p>
+<p>Hex	#a8c4b1</p>
+<p>Hex	#fbedb2</p>
+<p>Hex	#c5c4c4</p>
 
 <strong>Example of Tinted Secondary Colors within Illustrations</strong>
 <img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/Secondary%20Tints.jpg" alt="illustration" />
