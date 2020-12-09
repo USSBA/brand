@@ -115,11 +115,12 @@ Illustrations and icons should be portrayed from one perspective, either the fro
 
 Tints of secondary colors are permitted only in illustrations and iconography on SBA.gov to add depth and dimension. Color palette combinations should be used sparingly and must be color contrast accessible. Primary colors should be predominant.
 
-Tints:
-Hex	#a5c6e0
-Hex	#a8c4b1
-Hex	#fbedb2
-Hex	#c5c4c4
+
+<p>Tints: </p>
+<p>Hex	#a5c6e0</p>
+<p>Hex	#a8c4b1</p>
+<p>Hex	#fbedb2</p>
+<p>Hex	#c5c4c4</p>
 
 <strong>Example of Tinted Secondary Colors within Illustrations</strong>
 <img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/Secondary%20Tints.jpg" alt="illustration" />
