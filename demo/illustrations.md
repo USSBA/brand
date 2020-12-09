@@ -94,7 +94,7 @@ Illustrations and icons should be portrayed from one perspective, either the fro
 <hr>
 
 <div class="usa-grid-full">
-<!--    <div class="usa-width-two-thirds">
+   <div class="usa-width-two-thirds">
       <h3>Style exceptions</h3>
       <p><strong>SBA Red:</strong>
      #cc0000 (SBA Red) should be reserved for website “call-to-action” CTA buttons on SBA.gov, the red stripes on the American Flag, and illustrations or iconography that feature hearts or alerts.</p>
@@ -102,15 +102,6 @@ Illustrations and icons should be portrayed from one perspective, either the fro
 <div class="usa-width-one-third">
 <img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/Red-Usage.svg" alt="illustration" />
   </div>
--->  
-    <div class="usa-width-two-thirds">
-     <p><strong>SBA Green:</strong>
-     #197e4e (Secondary Green) and #a8c4b1 (Secondary Tinted Green) should be reserved for objects that are naturally green, including trees and money.</p>
-    </div>    
-<div class="usa-width-one-third">
-<img src="{{ site.baseurl }}/assets/sba/img/pages/illustration/Green-Usage.svg" alt="illustration" />
-</div>
-  
   
   <div class="usa-width-two-thirds">
      <p><strong>SBA Green:</strong>
