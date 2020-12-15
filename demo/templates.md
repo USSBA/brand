@@ -65,14 +65,26 @@ layout: page
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-2019.pdf">8a Business Development</a>
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet-2019.pdf">HUBZone Program Factsheet</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet.pdf">HUBZone Program Factsheet</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hz-recertification-factsheet-508.pdf">HUBZone Annual Recertification Factsheet</a>
+	
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone_WhatsNew_factsheet_508.pdf">HUBZone Program Improvements Factsheet</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hz-program-improvements-faq.pdf">HUBZone Program Improvements: FAQs</a>
 	</li>
 	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone-COVID19-factsheet.pdf">HUBZone COVID-19 Factsheet</a>
+	</li>
+	
+	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone-infographic.jpg">Infographic: Building a Better HUBZone</a>
 	</li>
+
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HZ-MasterPPT-Toolkit.pptx">General HUBZone Overview Powerpoint; Including New Rule Guidance </a>
 	</li>
