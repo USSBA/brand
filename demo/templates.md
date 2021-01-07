@@ -100,6 +100,9 @@ layout: page
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-FactSheet-WOSB Ready-508.pdf">Women-Owned Small Business (WOSB) Factsheet</a>
 	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-successful-application-factsheet.pdf">Steps to a Successful WOSB Application Factsheet</a>
+	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-ProgramOverview.pptx">Women-Owned Small Business (WOSB) Program Overview</a>
 	</li>
