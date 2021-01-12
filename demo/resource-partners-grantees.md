@@ -126,6 +126,12 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-successful-application-factsheet.pdf">Steps to a Successful WOSB Application Factsheet</a>
 	</li>
+	
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-WhyCertify-508.pdf">WOSB: Why Certify? Factsheet</a>
+	</li>
+	
+	
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-certification-factsheet.pdf">New WOSB Certification Process – Fact Sheet</a>
 	</li>
