@@ -3,6 +3,7 @@ title: Core Materials
 permalink: /templates/
 
 layout: page
+
 ---
 
 # Core Materials
@@ -102,7 +103,14 @@ layout: page
 	</li>
 		<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-successful-application-factsheet.pdf">Steps to a Successful WOSB Application Factsheet</a>
+
 	</li>
+		<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-WhyCertify-508.pdf">WOSB: Why Certify?  Factsheet</a>
+	</li>
+
+	
+	
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-ProgramOverview.pptx">Women-Owned Small Business (WOSB) Program Overview</a>
 	</li>
