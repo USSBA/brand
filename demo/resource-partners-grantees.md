@@ -133,7 +133,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	
 	
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-certification-factsheet.pdf">New WOSB Certification Process – Fact Sheet</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-certification-factsheet.pdf">New WOSB Certification Process – Factsheet</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Opportunity-Zone-Business-Eligibility-Factsheet-static.pdf">Opportunity Zone Business Eligibility Factsheet</a>
