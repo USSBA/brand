@@ -90,6 +90,13 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone_WhatsNew_factsheet_508.pdf">HUBZone Program Improvements Factsheet</a>
 	</li>
+	
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone-ProgramExaminations-508.pdf">HUBZone: How Do Program Examinations Work?</a>
+	</li>
+	
+	
+	
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hz-program-improvements-faq.pdf">HUBZone Program Improvements: FAQs</a>
 	</li>
