@@ -37,11 +37,13 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	</li>
 </ul>
 
+<!--
 ### Coronavirus (COVID-19)
 <ul>
 <li>SBA Disaster Assistance in Response to the Coronavirus (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Resources-for-Businesses.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/Asistencia-de-Desastre-de-la-SBA-en-Respuesta-al-Coronavirus.pdf">Spanish</a>)
 	</li>
 </ul>
+-->
 
 ### SBA funding programs
 <ul>
