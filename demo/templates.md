@@ -12,4 +12,5 @@ layout: page
 
 SBA outreach materials, templates, and marketing tools ensure that we communicate a professional image and a consistent, unified identity. SBA employees can download these materials on  [SBA’s Office of Marketing & Customer Service intranet site](https://sba123.sharepoint.com/offices/OMCS/SitePages/templates.aspx).
 
-For suggestions for additional templates, please contact [Paula Tavares](mailto:paula.tavares@sba.gov), Director of Brand Management.
+For suggestions for additional materials, please contact [Paula Tavares](mailto:paula.tavares@sba.gov), Director of Brand Management.
+
