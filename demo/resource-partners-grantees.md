@@ -50,23 +50,18 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		Funding 101 Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-508_MCS0092.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.pdf">Spanish</a>)
 	</li>
+
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-lenders.pdf">Export Working Capital - Lenders</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-lenders-508.pdf">Export Working Capital (Lenders)</a>
 	</li>
-		<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-specialists.pdf">International Trade Specialists (Promo)</a>
-	</li>
-	
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-loans-lenders.pdf">International Trade Loans - Lenders</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-expert-advice-export-express-508.pdf">Expert Advice Plus Export Express</a>
 	</li>
-	
-		<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-indirect-exporters-borrowers.pdf">Indirect Exporters - Borrowers</a>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-borrowers-508.pdf">Export Working Capital (Borrowers)</a>
 	</li>
-	
-		<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-loans-borrowers.pdf">International Trade Loans - Borrowers</a>
+		<li>		
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-factsheet-508.pdf">OIT International Trade Fact Sheet = Go Global with Exporting</a>
 	</li>
 
 </ul>
