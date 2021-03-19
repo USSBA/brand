@@ -106,6 +106,10 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	</li>
 
 	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-app-top-tips-508.pdf">Top Tips for HUBZone Certification</a>
+	</li>
+
+	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
 	</li>
 	<li>
