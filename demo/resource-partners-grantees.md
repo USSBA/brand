@@ -47,6 +47,18 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 ### SBA funding programs
 <ul>
+
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/After-PPP-factsheet-04152021-508.pdf">Next Steps: Doing Business Post-PPP/EIDL</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Small-Business-ECommerce-Factsheet-04152021-508.pdf">Increase Your Online Sales in the Global Marketplace: E-Commerce and Digital Opportunities for Businesses</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/US-Japan-Trade-Agreement-Food-Agricultural-Sales-04152021-508.pdf">U.S.-Japan Trade Agreement: Food & Agricultural Sales</a>
+	</li>
+
+
 	<li>
 		Funding 101 Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-508_MCS0092.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Funding101-Spanish.pdf">Spanish</a>)
 	</li>
