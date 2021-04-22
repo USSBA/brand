@@ -30,7 +30,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/powered-by-decals.zip">Decals</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/decals-and-icons.zip">Decals and Web Icons</a>
 	</li>
 	<li>
 		SBA Brochure (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">Spanish</a>)
