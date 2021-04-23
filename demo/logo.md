@@ -49,7 +49,7 @@ Cobranded publications should display the SBA logo in the primary position, whic
 Non-program cosponsored materials should incorporate the SBA identity as prominent, and dominate lower left position is preferred.
 
 ## Alternative Text
-Alternative text provides a description of non-text content for screen reader users and at times for all users when images do not load. Alternative text for the English SBA logo should be: <strong>U.S. Small Business Administration</strong>.  For the Spanish logo, use: <strong>La Agencia Federal de Pequeños Negocios</strong>.
+Alternative text provides a description of non-text content for screen reader users and at times for all users when images do not load. Alternative text for the English SBA logo should be: <strong>U.S. Small Business Administration</strong>.  For the Spanish logo, use: <strong>La Agencia Federal de Pequeños Negocios</strong>. 
 
 ## Lockups
 
