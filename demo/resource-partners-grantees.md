@@ -2,12 +2,11 @@
 title: Resource Partners/Grantees
 permalink: /for-partners/resource-partners-grantees/
 
-
 layout: page
 sidenav:
   - text: Resource Partners / Grantees
     href: '/for-partners/resource-partners-grantees/'
- - text: SBA-certified contractors
+  - text: SBA-certified contractors
     href: '/external-partners/certified-contractors/'
   - text: SBA Lenders
     href: '/external-partners/sba-lenders/'
