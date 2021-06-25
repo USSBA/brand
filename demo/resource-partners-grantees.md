@@ -65,14 +65,15 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-lenders-508.pdf">Export Working Capital (Lenders)</a>
 	</li>
+
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-expert-advice-export-express-508.pdf">Expert Advice Plus Export Express</a>
+		Expert Advice Plus Export Express (<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-expert-advice-export-express-508.pdf">English)</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-expert-advice-export-express-spa-508.pdf">Spanish</a>)
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-borrowers-508.pdf">Export Working Capital (Borrowers)</a>
+		Export Working Capital (Borrowers) (<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-borrowers-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-borrowers-spa-508.pdf">Spanish</a>)
 	</li>
 		<li>		
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-factsheet-508.pdf">OIT International Trade Fact Sheet = Go Global with Exporting</a>
+		OIT International Trade Fact Sheet = Go Global with Exporting (<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-factsheet-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-factsheet-spa-508.pdf">Spanish</a>)
 	</li>
 
 </ul>
