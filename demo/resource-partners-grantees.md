@@ -76,6 +76,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		OIT International Trade Fact Sheet = Go Global with Exporting (<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-factsheet-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-factsheet-spa-508.pdf">Spanish</a>)
 	</li>
 
+	<li>		
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/USMCA-factsheet-508.pdf">USMCA: Opportunities for Small Business</a>
+	</li>
 </ul>
 
 ### Government contracting
