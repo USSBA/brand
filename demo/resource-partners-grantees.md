@@ -73,8 +73,12 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		Export Working Capital (Borrowers) (<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-borrowers-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-export-working-capital-borrowers-spa-508.pdf">Spanish</a>)
 	</li>
 		<li>		
-		OIT International Trade Fact Sheet = Go Global with Exporting (<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-factsheet-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-factsheet-spa-508.pdf">Spanish</a>)
+		OIT International Trade Factsheet = Go Global with Exporting (<a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-factsheet-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/exp-international-trade-factsheet-spa-508.pdf">Spanish</a>)
 	</li>
+			<li>		
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/OIT-Services Factsheet-508.pdf">OIT Services Factsheet</a>
+	</li>
+	
 
 	<li>		
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/USMCA-factsheet-508.pdf">USMCA: Opportunities for Small Business</a>
@@ -153,6 +157,10 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-certification-factsheet.pdf">New WOSB Certification Process – Factsheet</a>
 	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-Maintaining-Eligibility-factsheet-508.pdf">WOSB Maintining Eligibility and Re-Certification – Factsheet</a>
+	</li>
+
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Opportunity-Zone-Business-Eligibility-Factsheet-static.pdf">Opportunity Zone Business Eligibility Factsheet</a>
 	</li>
