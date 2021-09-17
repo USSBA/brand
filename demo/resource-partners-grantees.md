@@ -206,6 +206,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		Disaster Assistance Loans: Community Impact (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Disaster-Assistance-Loans-Community-Impact-sp.pdf">Spanish</a>)
 	</li>
+	<li>
+		Disaster Assistance Loans: COVID EIDL (<a href="{{ site.baseurl }}/assets/sba/resource-partners/COVID-EIDL-Program-Overview-Flyer-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/COVID-EIDL-Program-Overview-Flyer-Spanish-508.pdf">Spanish</a>)
+	</li>
 </ul>
 
 
@@ -217,7 +220,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/B2B-Factsheet.pdf">Boots to Business Overview Factsheet</a></li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/VBOC-Factsheet.pdf">Veterans Business Outreach Center Program Factsheet</a></li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/VBOC-Factsheet-508.pdf">Veterans Business Outreach Center Program Factsheet</a></li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/VOSB-surplus-property-factsheet-v1.3-508.pdf">Surplus Personal Property for Veteran-Owned Small Business Programs Factsheet</a></li>
 </ul>
