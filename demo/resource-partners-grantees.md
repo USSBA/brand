@@ -96,34 +96,6 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-2019.pdf">8a Business Development</a>
 	</li>
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet.pdf">HUBZone Program Factsheet</a>
-	</li>
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hz-recertification-factsheet-508.pdf">HUBZone Annual Recertification Factsheet</a>
-	
-	</li>
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone_WhatsNew_factsheet_508.pdf">HUBZone Program Improvements Factsheet</a>
-	</li>
-	
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone-ProgramExaminations-508.pdf">HUBZone: How Do Program Examinations Work?</a>
-	</li>
-	
-	
-	
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-program-improvements-faq-508.pdf">HUBZone Program Improvements: FAQs</a>
-	</li>
-	
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone-infographic.jpg">Infographic: Building a Better HUBZone</a>
-	</li>
-
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-app-top-tips-508.pdf">Top Tips for HUBZone Certification</a>
-	</li>
 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
@@ -139,6 +111,44 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/national-procurement-assistance-fact-sheet-2019.pdf">National Procurement Assistance</a>
 	</li>
+
+</ul>
+
+#### HUBZone
+<ul>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet.pdf">HUBZone Program Factsheet</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hz-recertification-factsheet-508.pdf">HUBZone Annual Recertification Factsheet</a>
+	
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone_WhatsNew_factsheet_508.pdf">HUBZone Program Improvements Factsheet</a>
+	</li>
+	
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone-ProgramExaminations-508.pdf">HUBZone: How Do Program Examinations Work?</a>
+	</li>
+	
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-program-improvements-faq-508.pdf">HUBZone Program Improvements: FAQs</a>
+	</li>
+	
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone-infographic.jpg">Infographic: Building a Better HUBZone</a>
+	</li>
+
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-app-top-tips-508.pdf">Top Tips for HUBZone Certification</a>
+	</li>
+	
+	
+</ul>
+
+#### Women Owned Small Business (WOSB)
+<ul>
+
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-FactSheet-WOSB Ready-508.pdf">Women-Owned Small Business (WOSB) Factsheet</a>
 	</li>
@@ -148,21 +158,21 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-successful-application-factsheet.pdf">Steps to a Successful WOSB Application Factsheet</a>
 	</li>
-	
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-WhyCertify-508.pdf">WOSB: Why Certify? Factsheet</a>
 	</li>
-	
-	
+
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-certification-factsheet.pdf">New WOSB Certification Process – Factsheet</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-Maintaining-Eligibility-factsheet-508.pdf">WOSB Maintining Eligibility and Re-Certification – Factsheet</a>
 	</li>
-
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Opportunity-Zone-Business-Eligibility-Factsheet-static.pdf">Opportunity Zone Business Eligibility Factsheet</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-ContractingOfficer-FactSheet-508.pdf">How to Contract with the WOSB Federal Contracting Program </a>
 	</li>
 
 	
