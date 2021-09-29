@@ -146,11 +146,11 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	
 </ul>
 
-#### Women Owned Small Business (WOSB)
+#### Women-Owned Small Business (WOSB)
 <ul>
 
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-FactSheet-WOSB Ready-508.pdf">Women-Owned Small Business (WOSB) Factsheet</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-FactSheet-WOSB Ready-508.pdf">WOSB Factsheet</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-infographic.jpg">Infographic:  Changes on the Way-Are you WOSB Ready</a>
