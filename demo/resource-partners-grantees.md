@@ -100,6 +100,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
 	</li>
+</ul>
+
+#### Mentor-Protégé Program
 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-MPP-FactSheet-508.pdf">Mentor-Protégé Program fact sheet</a>
@@ -110,6 +113,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/national-procurement-assistance-fact-sheet-2019.pdf">National Procurement Assistance</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/MPP-Infographic-508.pdf">Mentor-Protégé Program Infographic</a>
 	</li>
 
 </ul>
