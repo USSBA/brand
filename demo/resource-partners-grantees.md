@@ -104,6 +104,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 #### Mentor-Protégé Program
 
+<ul>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-MPP-FactSheet-508.pdf">Mentor-Protégé Program fact sheet</a>
 	</li>
