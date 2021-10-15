@@ -94,7 +94,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/7j-fact-sheet-2019.pdf">7j Management and Technical Assistance</a>
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/what-is-8abd-factsheet-508.pdf">What is the 8(a) Business Development Program</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/what-is-8abd-factsheet-508.pdf">What is the 8(a) Business Development Program?</a>
 	</li>
 
 	<li>
