@@ -103,7 +103,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 <ul>
 
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-faq-external-508">8(a) Business Development Program FAQ</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-faq-external-508.pdf">8(a) Business Development Program FAQ</a>
 	</li>
 
 	<li>
@@ -115,7 +115,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	</li>
 	
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-roadmap-certification-508">Infographic: Roadmap to the Certification Process</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-roadmap-certification-508.pdf">Infographic: Roadmap to the Certification Process</a>
 	</li>
 
 </ul>
