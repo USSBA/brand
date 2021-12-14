@@ -93,6 +93,19 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/7j-fact-sheet-2019.pdf">7j Management and Technical Assistance</a>
 	</li>
+
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
+	</li>
+</ul>
+
+#### 8(a) Business Development Program
+<ul>
+
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-faq-external-508">8(a) Business Development Program FAQ</a>
+	</li>
+
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/what-is-8abd-factsheet-508.pdf">What is the 8(a) Business Development Program?</a>
 	</li>
@@ -100,10 +113,11 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-2019.pdf">Benefits of the 8(a) Business Development Program</a>
 	</li>
-
+	
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-roadmap-certification-508">Infographic: Roadmap to the Certification Process</a>
 	</li>
+
 </ul>
 
 #### Mentor-Protégé Program
