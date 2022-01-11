@@ -264,9 +264,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 ###  COVID-19 Vaccine Resources
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/covid19-quickstart-guide-workplace.pdf">Quick Start Guide - Preparing your Workforce for Vaccine Requirements</a></li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/covid19-quickstart-guide-workplace-508.pdf">Quick Start Guide - Preparing your Workforce for Vaccine Requirements</a></li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/covid19-smallbiz-guide-vaccines.pdf">Small Business Guide - Strengthening Workplace Vaccination & Safety</a></li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/covid19-smallbiz-guide-vaccines-508.pdf">Small Business Guide - Strengthening Workplace Vaccination & Safety</a></li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/covid19-vaccine-conversation-guide-managers.pdf">COVID-19 Vaccines - A Conversation Guide for Managers</a></li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/covid19-vaccine-conversation-guide-managers-508.pdf">COVID-19 Vaccines - A Conversation Guide for Managers</a></li>
 </ul>
