@@ -261,7 +261,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 
-###  COVID-19 Vaccine resources
+###  COVID-19 Vaccine Resources
 <ul>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/covid19-quickstart-guide-workplace.pdf">Quick Start Guide - Preparing your Workforce for Vaccine Requirements</a></li>
