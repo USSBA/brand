@@ -124,14 +124,14 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-MPP-FactSheet-508.pdf">Mentor-Protégé Program fact sheet</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/MPP-FactSheet-508.pdf">Mentor-Protégé Program fact sheet</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/MPP-Application-TipSheet-508.pdf">Mentor-Protégé Program application tips</a>
 	</li>
 
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/national-procurement-assistance-fact-sheet-2019.pdf">National Procurement Assistance</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/national-procurement-assistance-fact-sheet-508.pdf">National Procurement Assistance</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/MPP-Infographic-508.pdf">Mentor-Protégé Program Infographic</a>
