@@ -175,26 +175,26 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 <ul>
 
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-FactSheet-WOSB Ready-508.pdf">WOSB Factsheet</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-FactSheet-WOSB-Ready-508.pdf">WOSB Factsheet</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-infographic.jpg">Infographic:  Changes on the Way-Are you WOSB Ready</a>
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-successful-application-factsheet.pdf">Steps to a Successful WOSB Application Factsheet</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-successful-application-factsheet-508.pdf">Steps to a Successful WOSB Application Factsheet</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-WhyCertify-508.pdf">WOSB: Why Certify? Factsheet</a>
 	</li>
 
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-certification-factsheet.pdf">New WOSB Certification Process – Factsheet</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/wosb-certification-factsheet-508.pdf">New WOSB Certification Process – Factsheet</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-Maintaining-Eligibility-factsheet-508.pdf">WOSB Maintining Eligibility and Re-Certification – Factsheet</a>
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Opportunity-Zone-Business-Eligibility-Factsheet-static.pdf">Opportunity Zone Business Eligibility Factsheet</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Opportunity-Zones-Business-flyer-static-508.pdf">Opportunity Zone Business Eligibility Factsheet</a>
 	</li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/WOSB-ContractingOfficer-FactSheet-508.pdf">How to Contract with the WOSB Federal Contracting Program </a>
