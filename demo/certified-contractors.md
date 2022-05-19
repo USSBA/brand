@@ -10,6 +10,8 @@ sidenav:
     href: '/external-partners/certified-contractors/'
   - text: SBA Lenders
     href: '/external-partners/sba-lenders/'
+  - text: Federal Contracting Officers
+    href: '/external-partners/contracting-officers/'
 ---
 
 
