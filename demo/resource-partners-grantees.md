@@ -90,6 +90,10 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 ### Government contracting
 <ul>
 	<li>
+		SBA Manufacturing Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/ManufacturingOffice-FactSheet-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/ManufacturingOffice-FactSheet-Spanish-508.pdf">Spanish</a>)
+	</li>
+
+	<li>
 		Government Contracting Overview Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Spanish</a>)
 	</li>
 	<li>
@@ -113,12 +117,17 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	</li>
 
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-2019.pdf">Benefits of the 8(a) Business Development Program</a>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-508">Benefits of the 8(a) Business Development Program</a>
 	</li>
 	
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-roadmap-certification-508.pdf">Infographic: Roadmap to the Certification Process</a>
 	</li>
+
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-CapabilitesStatement-508.pdf">8(a) Capabilities Statement</a>
+	</li>
+
 
 </ul>
 
