@@ -21,7 +21,7 @@ sidenav:
 ## HUBZone
 
 <ul>
-<li><a href="/assets/sba/contracting-officers/Tips-COs-HUBZoneProgram-508.pdf" title="PDF flyer">Tips for Contracting Officers: The HUBZone Program</a> (PDF)</li>
+<li><a href="/brand/assets/sba/contracting-officers/tips-hubzoneprogram-508.pdf" title="PDF flyer">Tips for Contracting Officers: The HUBZone Program</a> (PDF)</li>
 
 <li><a href="https://youtu.be/9RRq9DUItfU" title="YouTube video">What contracting officers should know about the HUBZone program</a> (video)</li>
 </ul>
