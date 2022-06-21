@@ -243,6 +243,8 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 ### Disaster Assistance
 <ul>
+
+<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/three-steps-disaster-assistance-loans-508.pdf">Three Steps for Disaster Assistance Loans Brochure</a></li>
 	<li>
 		Disaster Preparedness Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet-508.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/Disaster-Preparedness-Factsheet-sp.pdf">Spanish</a>)
 	</li>
