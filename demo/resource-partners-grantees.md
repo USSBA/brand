@@ -228,9 +228,6 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		Resource Partner Network Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-508_MCS0090.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ResourcePartnerNetwork-Spanish-508.pdf">Spanish</a>)
 	</li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/emerging-leaders-flyer-static.pdf">Emerging Leaders 2020</a>
-	</li>
-	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/ascent-factsheet-8journey-508.pdf">Ascent Factsheet</a>
 	</li>
 
