@@ -94,10 +94,11 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		Government Contracting Overview Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-508_MCS0091.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-Spanish-508.pdf">Spanish</a>)
 	</li>
+<!--
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/7j-fact-sheet-2019.pdf">7j Management and Technical Assistance</a>
 	</li>
-
+-->
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/local-procurement-fact-sheet-2019.pdf">Local Procurement Assistance</a>
 	</li>
@@ -114,6 +115,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/what-is-8abd-factsheet-508.pdf">What is the 8(a) Business Development Program?</a>
 	</li>
 
+<!--
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-fact-sheet-508">Benefits of the 8(a) Business Development Program</a>
 	</li>
@@ -121,7 +123,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-roadmap-certification-508.pdf">Infographic: Roadmap to the Certification Process</a>
 	</li>
-
+-->
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-CapabilitesStatement-508.pdf">8(a) Capabilities Statement</a>
 	</li>
