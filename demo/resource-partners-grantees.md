@@ -83,6 +83,15 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>		
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/USMCA-factsheet-508.pdf">USMCA: Opportunities for Small Business</a>
 	</li>
+	
+
+	<li>		
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/sbir-sttr-factsheet.pdf">SBIR-STTR Factsheet</a>	</li>
+	
+
+	<li>		
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/sbir-sttr-entrepreneur-support-organizations-factsheet.pdf">SBIR-STTR Entrepreneur Support Organization Factsheet</li>
+	
 </ul>
 
 ### Government contracting
