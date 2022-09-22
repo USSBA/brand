@@ -90,7 +90,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	
 
 	<li>		
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/sbir-sttr-entrepreneur-support-organizations-factsheet.pdf">SBIR-STTR Entrepreneur Support Organization Factsheet</li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/sbir-sttr-entrepreneur-support-organizations-factsheet.pdf">SBIR-STTR Entrepreneur Support Organization Factsheet</a></li>
 	
 </ul>
 
