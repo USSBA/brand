@@ -1,18 +1,18 @@
 ---
-title: Resource Partners/Grantees
+title: Resource partners/grantees
 permalink: /for-partners/resource-partners-grantees/
 
 layout: page
 sidenav:
-  - text: Resource Partners / Grantees
+  - text: Resource partners / grantees
     href: '/for-partners/resource-partners-grantees/'
   - text: SBA-certified contractors
     href: '/external-partners/certified-contractors/'
-  - text: SBA Lenders
+  - text: SBA lenders
     href: '/external-partners/sba-lenders/'
 ---
 
-# Resource Partners/Grantees
+# Resource partners/grantees
 
 Resource partners and grantees can advertise their relationship with the SBA with the resources below.  Review the guidance to ensure compliance with regulations.
 
@@ -113,7 +113,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	</li>
 </ul>
 
-#### 8(a) Business Development Program
+#### 8(a) Business Development program
 <ul>
 
 	<li>
@@ -140,7 +140,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 </ul>
 
-#### Mentor-Protégé Program
+#### Mentor-Protégé program
 
 <ul>
 	<li>
@@ -223,7 +223,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	
 </ul>
 
-#### Scorecard Factsheets
+#### Scorecard factsheets
 <ul>
 <li><a href="https://www.sba.gov/document/support--record-breaking-small-business-prime-contracting-dollars-factsheet">Record breaking small business prime contracting dollars</a></li>
 <li><a href="https://www.sba.gov/document/support--woman-owned-small-business-prime-contracting-factsheet">Woman-Owned Small Business prime contracting</a></li>
@@ -249,7 +249,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 
-### Disaster Assistance
+### Disaster assistance
 <ul>
 
 <li><a href="{{ site.baseurl }}/assets/sba/resource-partners/three-steps-disaster-assistance-loans-508.pdf">Three Steps for Disaster Assistance Loans Brochure</a></li>
@@ -272,7 +272,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 
-###  Veterans Business Development
+###  Veterans business development
 
 <ul>
 	<li>
@@ -286,7 +286,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 
-###  COVID-19 Vaccine Resources
+###  COVID-19 vaccine resources
 <ul>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/covid19-quickstart-guide-workplace-508.pdf">Quick Start Guide - Preparing your Workforce for Vaccine Requirements</a></li>
