@@ -1,18 +1,18 @@
 ---
-title: SBA Lenders
+title: SBA lenders
 permalink: /external-partners/sba-lenders/
 
 layout: page
 sidenav:
-  - text: Resource Partners / Grantees
+  - text: Resource partners / grantees
     href: '/for-partners/resource-partners-grantees/'
   - text: SBA-certified contractors
     href: '/external-partners/certified-contractors/'
-  - text: SBA Lenders
+  - text: SBA lenders
     href: '/external-partners/sba-lenders/'
 ---
 
-# SBA Lenders
+# SBA lenders
 
 SBA lenders can advertise their relationship with the SBA with the resources below. Review the guidance to ensure compliance with regulations.
 
@@ -21,11 +21,11 @@ SBA lenders can advertise their relationship with the SBA with the resources bel
 
 ## Decals
 
-Authorized SBA lenders can display these decals on their marketing materials/websites and can order window decals of these designs from their local SBA District office. <strong>Note:  these decals are not approved for use by anyone other than authorized SBA Lenders.</strong> Review Guidance prior to use.
+Authorized SBA lenders can display decals in their windows and icons on their websites. Window decal stickers can be ordered from any local SBA district office. <strong>Note: these decals are not approved for use by anyone other than authorized SBA Lenders.</strong> Review Guidance prior to use.
 
-<a class="usa-button" href="{{ site.baseurl }}/assets/sba/sba-lenders/SBA-LenderDecal-Images.zip">Download decals</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/sba/sba-lenders/SBA-LenderDecal-Images.zip">Download decal images</a>
 
-## Lender Toolkit – Borrower Materials
+## Lender toolkit – borrower materials
 
 <ul>
 <li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/ESOP_Borrower_Fact_Sheet.pdf">ESOP Borrower Fact Sheet</a></li>
@@ -48,7 +48,7 @@ Authorized SBA lenders can display these decals on their marketing materials/web
 
 
 
-## Mission Lender Training Videos 
+## Mission Lender training videos 
 
 <ul><li><a href="https://www.youtube.com/watch?v=xOfDVv96DL4&list=PLrwM1ZVcvDhYQCoQuv2w1Idq0YALJJSbk&index=2&t=0s">Best Practices for Servicing Loans</a></li>
 
