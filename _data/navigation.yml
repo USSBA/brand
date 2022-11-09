@@ -46,16 +46,16 @@ primary:
         href: '/visual-identity/photography/'
   - text: Videos
     href: /videos/
-  - text: For SBA Partners
+  - text: For SBA partners
     links:
-      - text: Resource Partners / Grantees
+      - text: Resource partners / grantees
         href: /for-partners/resource-partners-grantees/
       - text: SBA-certified contractors
         href: /external-partners/certified-contractors/
-      - text: SBA Lenders
+      - text: SBA lenders
         href: /external-partners/sba-lenders/
 
-  - text: For SBA Employees
+  - text: For SBA employees
     href: /templates/
 
 #secondary:
@@ -89,6 +89,6 @@ footer:
     href: /templates/
   - text: Press kit
     href: /press-kit/
-  - text: For SBA Partners
+  - text: For SBA partners
     href: /external-partners/
     
