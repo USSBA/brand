@@ -22,14 +22,14 @@ sidenav:
 
 <div class="usa-grid-full">  
   <div class="usa-width-two-thirds">
-    <p>A clear typographic system is critical to the effective communication of the SBA brand. Type treatments should reflect SBA as an approachable, friendly organization. The SBA recommends a font system that uses the open-source font family Source Sans Pro, which is designed for legibility and can beautifully adapt to a variety of visual styles.</p>
+    <p>A clear typographic system is critical to the effective communication of the SBA brand. Type treatments should reflect SBA as an approachable, friendly organization. The SBA recommends a font system that uses two open-source font families: Source Sans Pro and Merriweather, both of which are designed for legibility and can beautifully adapt to a variety of visual styles.</p>
   </div>
   <div class="usa-width-one-third">
     <img src="{{ site.baseurl }}/assets/sba/img/pages/typography/typography.svg" alt="Typography" /> 
   </div>
 </div>
 
-## Primary typeface
+## Primary typefaces
 
 <div class="usa-grid-full">  
   <div class="usa-width-two-thirds">
@@ -43,6 +43,21 @@ sidenav:
   </div>
   <div class="usa-width-one-third">
     <img src="{{ site.baseurl }}/assets/sba/img/pages/typography/primary-typefaces-source-sans-pro.svg" alt="Source Sans Pro" /> 
+  </div>
+</div>
+### Merriweather
+<div class="usa-grid-full">  
+  <div class="usa-width-two-thirds">
+    <p>
+    Merriweather is an open-source serif typeface designed for on-screen reading. This font is ideal for text-dense design: the letterforms have a tall x-height but remain relatively small, making for excellent readability across screen sizes while not occupying extra horizontal space.
+    <br /> 
+    <br /> 
+    The combination of light, regular, and bold weights gives the font family stylistic range, while conveying a desirable mix of classic, yet modern simplicity. Merriweather communicates warmth and credibility at both large and smaller font sizes.
+    </p>
+    <a class="usa-button" href="{{ site.baseurl }}/assets/sba/Merriweather.zip">Download Merriweather</a>
+  </div>
+  <div class="usa-width-one-third">
+    <img src="{{ site.baseurl }}/assets/sba/img/pages/typography/primary-typefaces-merriweather.svg" alt="Merriweather" /> 
   </div>
 </div>
 
@@ -61,22 +76,6 @@ sidenav:
     <div class="usa-width-one-third">
         <img src="{{ site.baseurl }}/assets/sba/img/pages/typography/alternative-typefaces-helvetica-neue.svg" alt="Helvetica Neue" /> 
     </div>
-</div>
-
-### Merriweather
-<div class="usa-grid-full">  
-  <div class="usa-width-two-thirds">
-    <p>
-    Merriweather is an open-source serif typeface designed for on-screen reading. This font is ideal for text-dense design: the letterforms have a tall x-height but remain relatively small, making for excellent readability across screen sizes while not occupying extra horizontal space.
-    <br /> 
-    <br /> 
-    The combination of light, regular, and bold weights gives the font family stylistic range, while conveying a desirable mix of classic, yet modern simplicity. Merriweather communicates warmth and credibility at both large and smaller font sizes.
-    </p>
- //   <a class="usa-button" href="{{ site.baseurl }}/assets/sba/Merriweather.zip">Download Merriweather</a>
-  </div>
-  <div class="usa-width-one-third">
-    <img src="{{ site.baseurl }}/assets/sba/img/pages/typography/primary-typefaces-merriweather.svg" alt="Merriweather" /> 
-  </div>
 </div>
 
 ### Georgia

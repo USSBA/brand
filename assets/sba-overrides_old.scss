@@ -47,20 +47,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	//font-size: 6rem;
-	font-size: 3.1875rem;
+	font-size: 6rem;
 }
 
 h2 {
-	//font-size: 4rem;
-	//font-weight: 500;
-	font-size: 2.375rem;
-	font-weight: 400;
+	font-size: 4rem;
+	font-weight: 500;
 }
 
 h3 {
-	//font-size: 2.7rem;
-	font-size: 1.5rem;
+	font-size: 2.7rem;
 	letter-spacing: -.3;
 }
 
@@ -69,13 +65,11 @@ h4 {
   letter-spacing: -.3; }
 
 h5 {
-  //font-size: 2.1rem;
+  font-size: 2.1rem;
   letter-spacing: -.3; 
-  //font-family: 'Merriweather', Georgia, serif;
-	font-size: 1.5rem;
-	font-style: italic;
-	font-weight: 400;
-	color: $color-sba-blue;}
+  font-family: 'Merriweather', Georgia, serif;
+  font-style: italic;
+  color: $color-sba-gray-dark;}
 
 p {
 	letter-spacing: -.3;
