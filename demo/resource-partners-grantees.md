@@ -162,6 +162,10 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 #### HUBZone
 <ul>
 	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners//HUBZone-MapChange-QA.pdf">HUBZone Map Update - Guide for Small Businesses</a>
+	</li>
+	
+	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-fact-sheet.pdf">HUBZone Program Factsheet</a>
 	</li>
 	<li>
