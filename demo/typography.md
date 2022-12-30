@@ -72,7 +72,7 @@ sidenav:
     <br /> 
     The combination of light, regular, and bold weights gives the font family stylistic range, while conveying a desirable mix of classic, yet modern simplicity. Merriweather communicates warmth and credibility at both large and smaller font sizes.
     </p>
- //   <a class="usa-button" href="{{ site.baseurl }}/assets/sba/Merriweather.zip">Download Merriweather</a>
+ <!--   <a class="usa-button" href="{{ site.baseurl }}/assets/sba/Merriweather.zip">Download Merriweather</a> -->
   </div>
   <div class="usa-width-one-third">
     <img src="{{ site.baseurl }}/assets/sba/img/pages/typography/primary-typefaces-merriweather.svg" alt="Merriweather" /> 
