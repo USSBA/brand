@@ -28,7 +28,7 @@ Small businesses participating in SBA federal contracting certification and busi
 <li>Women-Owned Small Businesses (WOSBs)</li>
 <li>Economically Disadvantaged WOSBs</li>
 <li>HUBZone</li>
-
+<li>Veteran Small Business Certification (VetCert) program</li>
 </ul>
 
 The icons may be used on business websites, business cards, and social media profiles, as well as on capability statements and proposal bids.
