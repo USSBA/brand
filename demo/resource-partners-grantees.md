@@ -288,7 +288,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/VOSB-surplus-property-factsheet-v1.3-508.pdf">Surplus Personal Property for Veteran-Owned Small Business Programs Factsheet</a></li>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Preparing-for-certification-VetCertFactSheet-508c">Preparing for SBA Veteran Small Business Certification Factsheet</a></li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Preparing-for-certification-VetCertFactSheet-508c.pdf">Preparing for SBA Veteran Small Business Certification Factsheet</a></li>
 </ul>
 
 
