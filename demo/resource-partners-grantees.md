@@ -160,6 +160,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 #### HUBZone
+
 <ul>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/HUBZone-MapChanges-Flyer-508.pdf">HUBZone Map Changes: What You Need to Know flyer</a>
