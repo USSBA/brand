@@ -296,6 +296,10 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Preparing-for-certification-VetCertFactSheet-508c.pdf">Preparing for SBA Veteran Small Business Certification Factsheet</a></li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ETP-Fact-Sheet.pdf">Entrepreneurship Training Program Factsheet</a></li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Military-Spouse-Factsheet.pdf">Military Spouse Resources Overview Factsheet</a></li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Veteran-Small-Business-Certification-Overview-Factsheet.pdf">Veteran Small Business Certification Program Overview Factsheet</a></li>
 </ul>
 
 
