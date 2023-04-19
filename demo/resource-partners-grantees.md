@@ -188,6 +188,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/hubzone-app-top-tips-508.pdf">Top Tips for HUBZone Certification</a>
 	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-HUBZone-GovInitiativeFlyer.pdf">What is the HUBZone Program’s Governor-Designated Areas Initiative?</a>
+	</li>
 	
 	
 </ul>
