@@ -101,7 +101,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	</li>
 
 	<li>
-		Government Contracting Overview Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-factsheet-en-factsheet-en.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-factsheet-es.pdf">Spanish</a>)
+		Government Contracting Overview Factsheet (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-factsheet-en.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-GovernmentContracting-factsheet-es.pdf">Spanish</a>)
 	</li>
 <!--
 	<li>
