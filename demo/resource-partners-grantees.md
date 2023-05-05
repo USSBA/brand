@@ -123,9 +123,6 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/what-is-8abd-factsheet-508.pdf">What is the 8(a) Business Development Program?</a>
 	</li>
-	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-RoadMap-Certification.pdf">Infographic: 8(a) Roadmap to Certification</a>
-	</li>
 
 <!--
 	<li>
@@ -135,6 +132,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 -->
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/8a-CapabilitesStatement-508.pdf">8(a) Capabilities Statement</a>
+	</li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-RoadMap-Certification.pdf">Infographic: 8(a) Roadmap to Certification</a>
 	</li>
 
 
