@@ -34,7 +34,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		SBA Brochure (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">Spanish</a>)
 	</li>
-	<li><a href="https://www.sba.gov/documents?query=national+resource+guide">SBA National Resource Guides - English / Spanish</a>
+	<li><a href="https://www.sba.gov/documents?query=national+resource+guide">SBA National Resource Guides - English / Spanish</a></li>
 </ul>
 
 <!--
