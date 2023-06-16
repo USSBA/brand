@@ -46,7 +46,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-tagalog.pdf">Tagalog</a></li>
 		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-thai.pdf">Thai</a></li>
 		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-vietnamese.pdf">Vietnamese</a></li>
-		</u>
+		</ul>
 	</li>
 	<li><a href="https://www.sba.gov/documents?query=national+resource+guide">SBA National Resource Guides - English / Spanish</a></li>
 </ul>
