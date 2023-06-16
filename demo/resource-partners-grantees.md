@@ -32,7 +32,21 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/decals-and-icons.zip">Decals and Web Icons</a>
 	</li>
 	<li>
-		SBA Brochure (<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">English</a> | <a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">Spanish</a>)
+		SBA Brochure (These files are meant for printing. <a href="https://www.sba.gov/about-sba/information-other-languages">View digital versions of the content.</a>)
+		<ul>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-FINAL-nobleeds-nocontact.pdf">English</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-Brochure-Spanish_HQ.pdf">Spanish</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-chinese-simplified.pdf">Chinese simplified</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-chinese-traditional.pdf">Chinese traditional</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-french.pdf">French</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-italian.pdf">Italian</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-japanese.pdf">Japanese</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-korean.pdf">Korean</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-portuguese.pdf">Portuguese</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-tagalog.pdf">Tagalog</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-thai.pdf">Thai</a></li>
+		<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/sba-brochure-vietnamese.pdf">Vietnamese</a></li>
+		</u>
 	</li>
 	<li><a href="https://www.sba.gov/documents?query=national+resource+guide">SBA National Resource Guides - English / Spanish</a></li>
 </ul>
