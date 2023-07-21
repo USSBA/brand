@@ -107,6 +107,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>		
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/sbir-sttr-entrepreneur-support-organizations-factsheet.pdf">SBIR-STTR Entrepreneur Support Organization Factsheet</a></li>
 	
+	<li>		
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Surety-Bond-Factsheet.pdf">Surety Bond Overview Factsheet</a></li>
+	
 </ul>
 
 ### Government contracting
@@ -308,6 +311,8 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/SBA-ETP-Fact-Sheet.pdf">Entrepreneurship Training Program Factsheet</a></li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Military-Spouse-Factsheet.pdf">Military Spouse Resources Overview Factsheet</a></li>
+	<li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Military-Spouse-Pathway-to-Business-Factsheet.pdf">Military Spouse Pathway to Business Factsheet</a></li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/Veteran-Small-Business-Certification-Overview-Factsheet.pdf">Veteran Small Business Certification Program Overview Factsheet</a></li>
 </ul>
