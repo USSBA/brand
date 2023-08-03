@@ -298,7 +298,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}/assets/sba/resource-partners/ovbd-101-factaheet-508.pdf">Veterans Business Development Overview Factsheet</a></li>
+		<a href="{{ site.baseurl }}/assets/sba/resource-partners/ovbd-101-factsheet-508.pdf">Veterans Business Development Overview Factsheet</a></li>
 	<li>
 		<a href="{{ site.baseurl }}/assets/sba/resource-partners/B2B-Factsheet.pdf">Boots to Business Overview Factsheet</a></li>
 	<li>
