@@ -49,6 +49,8 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		</ul>
 	</li>
 	<li><a href="https://www.sba.gov/documents?query=national+resource+guide">SBA National Resource Guides - English / Spanish</a></li>
+	<li><a href="{{ site.baseurl }}/assets/sba/resource-partners/new-american-citizen-factsheet.pdf">New American Citizen Factsheet</a></li>
+
 </ul>
 
 <!--
