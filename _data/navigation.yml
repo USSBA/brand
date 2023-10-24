@@ -11,52 +11,52 @@
 #
 #primary:
 #  - text: Brand overview
-#    href: /brand-overview/
+#    href: https://www.sba.gov/brand/brand-overview/
 #  - text: Visual identity
-#    href: /visual-identity/
+#    href: https://www.sba.gov/brand/visual-identity/
 #  - text: Templates
-#    href: /templates/
+#    href: https://www.sba.gov/brand/templates/
 #  - text: Press kit
-#    href: /press-kit/
+#    href: https://www.sba.gov/brand/press-kit/
 
 primary:
   - text: Brand overview
     links:
       - text: Brand promise
-        href: /brand-overview/brand-promise/
+        href: https://www.sba.gov/brand/brand-overview/brand-promise/
       - text: Brand attributes
-        href: /brand-overview/brand-attributes/
+        href: https://www.sba.gov/brand/brand-overview/brand-attributes/
       - text: Writing style
-        href: /brand-overview/writing-style/
+        href: https://www.sba.gov/brand/brand-overview/writing-style/
       - text: Research data
-        href: /brand-overview/brand-research-data/
+        href: https://www.sba.gov/brand/brand-overview/brand-research-data/
   - text: Visual identity
     links:
       - text: Logo
-        href: '/visual-identity/logo/'
+        href: 'https://www.sba.gov/brand/visual-identity/logo/'
       - text: Typography
-        href: '/visual-identity/typography/'
+        href: 'https://www.sba.gov/brand/visual-identity/typography/'
       - text: Color palette
-        href: '/visual-identity/color-palette/'
+        href: 'https://www.sba.gov/brand/visual-identity/color-palette/'
       - text: Textures
-        href: '/visual-identity/textures-and-gradients/'
+        href: 'https://www.sba.gov/brand/visual-identity/textures-and-gradients/'
       - text: Illustrations and iconography
-        href: '/visual-identity/illustrations/'
+        href: 'https://www.sba.gov/brand/visual-identity/illustrations/'
       - text: Photography
-        href: '/visual-identity/photography/'
+        href: 'https://www.sba.gov/brand/visual-identity/photography/'
   - text: Videos
-    href: /videos/
+    href: https://www.sba.gov/brand/videos/
   - text: For SBA partners
     links:
       - text: Resource partners / grantees
-        href: /for-partners/resource-partners-grantees/
+        href: https://www.sba.gov/brand/for-partners/resource-partners-grantees/
       - text: SBA-certified contractors
-        href: /external-partners/certified-contractors/
+        href: https://www.sba.gov/brand/external-partners/certified-contractors/
       - text: SBA lenders
-        href: /external-partners/sba-lenders/
+        href: https://www.sba.gov/brand/external-partners/sba-lenders/
 
   - text: For SBA employees
-    href: /templates/
+    href: https://www.sba.gov/brand/templates/
 
 #secondary:
 #  - text: SBA.gov
@@ -65,15 +65,15 @@ primary:
 
 docs:
   - text: Documentation
-    href: /docs/
+    href: https://www.sba.gov/brand/docs/
   - text: Navigation section
     links:
       - text: Demo link A
-        href: /two/a/
+        href: https://www.sba.gov/brand/two/a/
       - text: Demo link B
-        href: /two/b/
+        href: https://www.sba.gov/brand/two/b/
       - text: Demo link C
-        href: /two/c/
+        href: https://www.sba.gov/brand/two/c/
   - text: Referenced section
     links: footer
   - text: External link
@@ -82,13 +82,13 @@ docs:
 
 footer:
   - text: Brand overview
-    href: /brand-overview/
+    href: https://www.sba.gov/brand/brand-overview/
   - text: Visual identity
-    href: /visual-identity/
+    href: https://www.sba.gov/brand/visual-identity/
   - text: Templates
-    href: /templates/
+    href: https://www.sba.gov/brand/templates/
   - text: Press kit
-    href: /press-kit/
+    href: https://www.sba.gov/brand/press-kit/
   - text: For SBA partners
-    href: /external-partners/
+    href: https://www.sba.gov/brand/external-partners/
     
