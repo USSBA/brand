@@ -97,7 +97,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		Go Global: Expand Your Market (Borrowers) (<a href="/brand/assets/sba/resource-partners/exp-international-trade-factsheet-508.pdf">English</a> | <a href="/brand/assets/sba/resource-partners/exp-international-trade-factsheet-spa-508.pdf">Spanish</a>)
 	</li>
 
-	<!--li><a href="/assets/sba/resource-partners/">Global Markets (Lenders)</a></li-->
+	<!--li><a href="/brand/assets/sba/resource-partners/">Global Markets (Lenders)</a></li-->
 
 	<li>
 		Export Working Capital (Borrowers) (<a href="/brand/assets/sba/resource-partners/exp-export-working-capital-borrowers-508.pdf">English</a> | <a href="/brand/assets/sba/resource-partners/exp-export-working-capital-borrowers-spa-508.pdf">Spanish</a>)
@@ -111,15 +111,15 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	</li>
 	
 	
-	<li><a href="/assets/sba/resource-partners/Export-Express-for-SMEs.pdf">Export Express (Borrowers)</a></li>
-	<li><a href="/assets/sba/resource-partners/ITL-for-lenders.pdf">International Trade Loan (Lenders)</a></li>
-	<li><a href="/assets/sba/resource-partners/Transaction-Based-Lending-for-SMEs.pdf">Transaction Based Lending (Borrowers)</a></li>
+	<li><a href="/brand/assets/sba/resource-partners/Export-Express-for-SMEs.pdf">Export Express (Borrowers)</a></li>
+	<li><a href="/brand/assets/sba/resource-partners/ITL-for-lenders.pdf">International Trade Loan (Lenders)</a></li>
+	<li><a href="/brand/assets/sba/resource-partners/Transaction-Based-Lending-for-SMEs.pdf">Transaction Based Lending (Borrowers)</a></li>
 
-	<!--li><a href="/assets/sba/resource-partners/">Bid Bonds</a></li-->
+	<!--li><a href="/brand/assets/sba/resource-partners/">Bid Bonds</a></li-->
 
-	<li><a href="/assets/sba/resource-partners/Indirect-Exporting-for-SMEs.pdf">Indirect Exporting</a></li>
+	<li><a href="/brand/assets/sba/resource-partners/Indirect-Exporting-for-SMEs.pdf">Indirect Exporting</a></li>
 	
-	<!--li><a href="/assets/sba/resource-partners/">State Trade Expansion Program (STEP) Grant</a></li-->
+	<!--li><a href="/brand/assets/sba/resource-partners/">State Trade Expansion Program (STEP) Grant</a></li-->
 
 	<li>		
 		<a href="/brand/assets/sba/resource-partners/USMCA-factsheet-508.pdf">USMCA: Opportunities for Small Business</a>
