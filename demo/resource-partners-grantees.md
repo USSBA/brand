@@ -115,7 +115,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li><a href="/brand/assets/sba/resource-partners/ITL-for-lenders.pdf">International Trade Loan (Lenders)</a></li>
 	<li><a href="/brand/assets/sba/resource-partners/Transaction-Based-Lending-for-SMEs.pdf">Transaction Based Lending (Borrowers)</a></li>
 
-	<!--li><a href="/brand/assets/sba/resource-partners/">Bid Bonds</a></li-->
+	<li><a href="/brand/assets/sba/resource-partners/Performance-Bond-Factsheet.pdf">Bid Bonds</a></li>
 
 	<li><a href="/brand/assets/sba/resource-partners/Indirect-Exporting-for-SMEs.pdf">Indirect Exporting</a></li>
 	
@@ -256,7 +256,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		<a href="/brand/assets/sba/resource-partners/wosb-certification-factsheet-508.pdf">New WOSB Certification Process – Factsheet</a>
 	</li>
 	<li>
-		<a href="/brand/assets/sba/resource-partners/WOSB-Maintaining-Eligibility-factsheet-508.pdf">WOSB Maintining Eligibility and Re-Certification – Factsheet</a>
+		<a href="/brand/assets/sba/resource-partners/WOSB-Maintaining-Eligibility-factsheet-508.pdf">WOSB Maintaining Eligibility and Re-Certification – Factsheet</a>
 	</li>
 	<li>
 		<a href="/brand/assets/sba/resource-partners/Opportunity-Zones-Business-flyer-static-508.pdf">Opportunity Zone Business Eligibility Factsheet</a>
