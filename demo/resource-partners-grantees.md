@@ -97,7 +97,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		Go Global: Expand Your Market (Borrowers) (<a href="/brand/assets/sba/resource-partners/exp-international-trade-factsheet-508.pdf">English</a> | <a href="/brand/assets/sba/resource-partners/exp-international-trade-factsheet-spa-508.pdf">Spanish</a>)
 	</li>
 
-	<!--li><a href="/brand/assets/sba/resource-partners/">Global Markets (Lenders)</a></li-->
+	<li><a href="/brand/assets/sba/resource-partners/SBA-Global-Markets-for-Lenders.pdf">Global Markets (Lenders)</a></li>
 
 	<li>
 		Export Working Capital (Borrowers) (<a href="/brand/assets/sba/resource-partners/exp-export-working-capital-borrowers-508.pdf">English</a> | <a href="/brand/assets/sba/resource-partners/exp-export-working-capital-borrowers-spa-508.pdf">Spanish</a>)
