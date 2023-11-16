@@ -58,6 +58,14 @@ primary:
   - text: For SBA employees
     href: https://www.sba.gov/brand/templates/
 
+ - text: SBA polcies
+    links:
+      - text: Outreach Activities and Agreements
+        href: https://www.sba.gov/document/sop-90-75-outreach-activities
+      - text: Marketing
+        href: https://www.sba.gov/document/sop-90-78-marketing-sop
+    
+
 #secondary:
 #  - text: SBA.gov
 #    href: https://www.sba.gov
