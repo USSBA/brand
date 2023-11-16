@@ -54,11 +54,9 @@ primary:
         href: https://www.sba.gov/brand/external-partners/certified-contractors/
       - text: SBA lenders
         href: https://www.sba.gov/brand/external-partners/sba-lenders/
-
   - text: For SBA employees
     href: https://www.sba.gov/brand/templates/
-
- - text: SBA policies
+  - text: SBA policies
     links:
       - text: Outreach Activities and Agreements
         href: https://www.sba.gov/document/sop-90-75-outreach-activities
