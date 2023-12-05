@@ -1,4 +1,4 @@
-State Trade Expansion Program (STEP) Grant---
+---
 title: Resource partners/grantees
 permalink: /for-partners/resource-partners-grantees/
 
