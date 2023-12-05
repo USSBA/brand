@@ -1,4 +1,4 @@
----
+State Trade Expansion Program (STEP) Grant---
 title: Resource partners/grantees
 permalink: /for-partners/resource-partners-grantees/
 
@@ -119,7 +119,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 	<li><a href="/brand/assets/sba/resource-partners/Indirect-Exporting-for-SMEs.pdf">Indirect Exporting</a></li>
 	
-	<!--li><a href="/brand/assets/sba/resource-partners/">State Trade Expansion Program (STEP) Grant</a></li-->
+	<li><a href="/brand/assets/sba/resource-partners/STEP-One-Pager.pdf">State Trade Expansion Program (STEP) Grant</a></li>
 
 	<li>		
 		<a href="/brand/assets/sba/resource-partners/USMCA-factsheet-508.pdf">USMCA: Opportunities for Small Business</a>
