@@ -10,6 +10,24 @@ sidenav:
     href: '/external-partners/certified-contractors/'
   - text: SBA lenders
     href: '/external-partners/sba-lenders/'
+
+subnav:
+  - text: General materials
+    href: '#general'
+  - text: SBA funding programs
+    href: '#funding'
+  - text: International trade
+    href: '#international'
+  - text: Government contracting
+    href: '#contracting'
+  - text: Counseling & training
+    href: '#counseling'
+  - text: Disaster assistance
+    href: '#disaster'
+  - text: Veterans business development
+    href: '#veteran'
+   - text: COVID-19 vaccine resources
+    href: '#covid19'
 ---
 
 # Resource partners/grantees
@@ -25,6 +43,7 @@ Resource partners and grantees can print copies of SBA’s marketing materials t
 Authorized SBA Resource Partners and grantees can display these decals on their marketing materials/websites and can order window decals of these designs from their local SBA District office. <strong>Note:  these decals are not approved for use by anyone other than authorized SBA Resource Partners and grantees.</strong> Review Guidance prior to use.
 <!-- comment -->
 
+<a name="general"></a>
 ### General materials
 
 <ul>
@@ -61,6 +80,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 -->
 
+<a name="funding"></a>
 ### SBA funding programs
 <ul>
 
@@ -88,6 +108,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	
 </ul>
 
+<a name="international"></a>
 ### International trade
 <ul>
 	<li>		
@@ -132,6 +153,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 
+<a name="contracting"></a>
 ### Government contracting
 <ul>
 	<li>
@@ -232,6 +254,9 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 	<li>
 		<a href="/brand/assets/sba/resource-partners/HUBZone-DesignationsFlyer.pdf">HUBZone Designations flyer</a>
 	</li>
+	<li>
+		<a href="/brand/assets/sba/resource-partners/HUBZone-TribalCommunities_Flyer.pdf">HUBZone Program Benefits for Tribal Communities flyer</a>
+	</li>
 	
 	
 </ul>
@@ -278,6 +303,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 
+<a name="counseling"></a>
 ### Counseling & training
 <ul>
 	<li>
@@ -294,6 +320,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 
+<a name="disaster"></a>
 ### Disaster assistance
 <ul>
 
@@ -317,6 +344,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 
+<a name="veteran"></a>
 ###  Veterans business development
 
 <ul>
@@ -341,6 +369,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 </ul>
 
 
+<a name="covid19"></a>
 ###  COVID-19 vaccine resources
 <ul>
 	<li>
