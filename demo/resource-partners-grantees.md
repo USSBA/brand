@@ -11,6 +11,23 @@ sidenav:
   - text: SBA lenders
     href: '/external-partners/sba-lenders/'
 
+subnav:
+  - text: General materials
+    href: '#general'
+  - text: SBA funding programs
+    href: '#funding'
+  - text: International trade
+    href: '#international'
+  - text: Government contracting
+    href: '#contracting'
+  - text: Counseling & training
+    href: '#counseling'
+  - text: Disaster assistance
+    href: '#disaster'
+  - text: Veterans business development
+    href: '#veteran'
+  - text: COVID-19 vaccine resources
+    href: '#covid19'
 ---
 
 # Resource partners/grantees
