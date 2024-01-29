@@ -112,7 +112,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 ### International trade
 <ul>
 	<li>		
-		<a href="/brand/assets/sba/resource-partners/OIT-Services Factsheet-508.pdf">Take Your Business Global</a>
+		<a href="/brand/assets/sba/resource-partners/OIT-Services-Factsheet-508.pdf">Take Your Business Global</a>
 	</li>
 	<li>		
 		Go Global: Expand Your Market (Borrowers) (<a href="/brand/assets/sba/resource-partners/exp-international-trade-factsheet-508.pdf">English</a> | <a href="/brand/assets/sba/resource-partners/exp-international-trade-factsheet-spa-508.pdf">Spanish</a>)
