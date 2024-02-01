@@ -12,7 +12,6 @@ sidenav:
     href: '/external-partners/sba-lenders/'
   - text: Surety agents
     href: '/external-partners/surety-agents/'
-
 ---
 
 
@@ -45,7 +44,7 @@ SBA-authorized surety agents can advertise their relationship with SBA using the
 	<li>No part of the web icon has been changed or resized relative to the rest of the web icon</li>
 	<li>There exists a minimum spacing of 25 pixels between each side of the web icon and other textural or graphic elements on the web page</li>
 	<li>The SBA surety agent web icon is not displayed on any website other than that of active Prior Approval bond agents and approved partner-affiliated entities.</li>
-	<ul>
+	</ul>
 </li>
 </ul>
 
