@@ -10,6 +10,8 @@ sidenav:
     href: '/external-partners/certified-contractors/'
   - text: SBA lenders
     href: '/external-partners/sba-lenders/'
+  - text: Surety agents
+    href: '/external-partners/surety-agents/'
 
 subnav:
   - text: General materials
