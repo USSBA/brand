@@ -24,8 +24,9 @@ subnav:
     href: '#contracting'
   - text: Counseling & training
     href: '#counseling'
+<!--
   - text: Disaster assistance
-    href: '#disaster'
+    href: '#disaster'-->
   - text: Veterans business development
     href: '#veteran'
   - text: COVID-19 vaccine resources
@@ -321,7 +322,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 
 </ul>
 
-
+<!--
 <a name="disaster"></a>
 ### Disaster assistance
 <ul>
@@ -344,7 +345,7 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 		Disaster Assistance Loans: COVID EIDL (<a href="/brand/assets/sba/resource-partners/COVID-EIDL-Program-Overview-Flyer-508.pdf">English</a> | <a href="/brand/assets/sba/resource-partners/COVID-EIDL-Program-Overview-Flyer-Spanish-508.pdf">Spanish</a>)
 	</li>
 </ul>
-
+-->
 
 <a name="veteran"></a>
 ###  Veterans business development
