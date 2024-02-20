@@ -24,9 +24,6 @@ subnav:
     href: '#contracting'
   - text: Counseling & training
     href: '#counseling'
-<!--
-  - text: Disaster assistance
-    href: '#disaster'-->
   - text: Veterans business development
     href: '#veteran'
   - text: COVID-19 vaccine resources
