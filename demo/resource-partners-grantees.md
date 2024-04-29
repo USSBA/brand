@@ -156,12 +156,16 @@ Authorized SBA Resource Partners and grantees can display these decals on their 
 <a name="contracting"></a>
 ### Government contracting
 <ul>
+
 	<li>
-		SBA Manufacturing Factsheet (<a href="/brand/assets/sba/resource-partners/ManufacturingOffice-FactSheet-508.pdf">English</a> | <a href="/brand/assets/sba/resource-partners/ManufacturingOffice-FactSheet-Spanish-508.pdf">Spanish</a>)
+		Government Contracting Factsheet (<a href="https://wwww.sba.gov/sites/default/files/2024-04/GovernmentContractingOnePager_2024_508.pdf">English</a> | <a href="https://www.sba.gov/sites/default/files/2024-04/GovernmentContractingOnePager_2024_Spanish_508.pdf">Spanish</a>)
+	</li>
+
+<li>		SBA Manufacturing Factsheet (<a href="/brand/assets/sba/resource-partners/ManufacturingOffice-FactSheet-508.pdf">English</a> | <a href="/brand/assets/sba/resource-partners/ManufacturingOffice-FactSheet-Spanish-508.pdf">Spanish</a>)
 	</li>
 
 	<li>
-		Government Contracting Overview Factsheet (<a href="/brand/assets/sba/resource-partners/SBA-GovernmentContracting-factsheet-en.pdf">English</a> | <a href="/brand/assets/sba/resource-partners/SBA-GovernmentContracting-factsheet-es.pdf">Spanish</a>)
+		Government Contracting: Is it for you? Factsheet (<a href="/brand/assets/sba/resource-partners/SBA-GovernmentContracting-factsheet-en.pdf">English</a> | <a href="/brand/assets/sba/resource-partners/SBA-GovernmentContracting-factsheet-es.pdf">Spanish</a>)
 	</li>
 <!--
 	<li>
