@@ -40,7 +40,7 @@ Authorized SBA lenders can display decals in their windows and icons on their we
 
 <li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Microloan-Fact-Sheet-Borrower.pdf">Microlending Factsheet</a></li>
 
-<li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Community-Advantage-Fact-Sheet-Borrower-Version.pdf">Community Advantage Factsheet</a></li>
+<li><a href="{{ site.baseurl }}https://www.sba.gov/sites/default/files/2024-04/Community-Advantage-Fact-Sheet-Borrower-Version-2024.pdf">Community Advantage Factsheet</a></li>
 
 <li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/OIT-International-Trade-factsheet.pdf">Export Loan Programs Factsheet</a></li>
 
