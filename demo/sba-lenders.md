@@ -40,7 +40,7 @@ Authorized SBA lenders can display decals in their windows and icons on their we
 
 <li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/Microloan-Fact-Sheet-Borrower.pdf">Microlending Factsheet</a></li>
 
-<li><a href="{{ site.baseurl }}https://www.sba.gov/sites/default/files/2024-04/Community-Advantage-Fact-Sheet-Borrower-Version-2024.pdf">Community Advantage Factsheet</a></li>
+<!--li><a href="{{ site.baseurl }}https://www.sba.gov/sites/default/files/2024-04/Community-Advantage-Fact-Sheet-Borrower-Version-2024.pdf">Community Advantage Factsheet</a></li-->
 
 <li><a href="{{ site.baseurl }}/assets/sba/sba-lenders/OIT-International-Trade-factsheet.pdf">Export Loan Programs Factsheet</a></li>
 
@@ -56,11 +56,14 @@ Authorized SBA lenders can display decals in their windows and icons on their we
 
 <li><a href="https://www.youtube.com/watch?v=aBwQkEmMPyo&list=PLrwM1ZVcvDhYQCoQuv2w1Idq0YALJJSbk&index=3&t=0s">Business Development: Outreach, Sales, & Marketing</a></li>
 
+<!--
 <li><a href="https://www.youtube.com/watch?v=ttB4jNTB0kk&list=PLrwM1ZVcvDhYQCoQuv2w1Idq0YALJJSbk&index=4&t=0s">Community Advantage: Best Practices for Underwriting</a></li>
 
 <li><a href="https://www.youtube.com/watch?v=zfYZFfSoIeg&list=PLrwM1ZVcvDhYQCoQuv2w1Idq0YALJJSbk&index=5&t=0s">Community Advantage: Secondary Market Issues & Advantages</a></li>
 
 <li><a href="https://www.youtube.com/watch?v=pLrqS8X6DD8&list=PLrwM1ZVcvDhYQCoQuv2w1Idq0YALJJSbk&index=6&t=0s">Micro & Community Advantage:  Adding to your Product Mix</a></li>
+
+-->
 
 <li><a href="https://www.youtube.com/watch?v=T2VG7qfbuiE&list=PLrwM1ZVcvDhYQCoQuv2w1Idq0YALJJSbk&index=7&t=0s">Microloans: Best Practices for Underwriting</a></li>
 
